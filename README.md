@@ -2,6 +2,7 @@
 
 ## 📌 Project Overview  
 This project analyzes sales data from a coffee shop using **Excel**. It focuses on **data cleaning, transformation, and visualization** to uncover insights about revenue, customer behavior, and product performance.  
+![Sales Pivot Chart](Coffee-Shop-Sales-Analysis/Visuals/DashBoard.png)
 
 ## 📂 Dataset Description  
 The dataset consists of the following fields:  
