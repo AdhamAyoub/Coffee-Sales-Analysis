@@ -1,0 +1,1001 @@
+﻿Order ID,Order Date,Customer ID,Product ID,Quantity,Customer Name,Email,Country,Coffee Type,Roast Type,Size,Unit Price,Sales,Coffee Type Name,Roast Type Name,Loyalty Card
+QEV-37451-860,05-Sep-2019,17670-51384-MA,R-M-1,2,Aloisia Allner,aallner0@lulu.com,United States,Rob,M,1.0 kg,$9.95,$19.90,Robica,Medium,Yes
+QEV-37451-860,05-Sep-2019,17670-51384-MA,E-M-0.5,5,Aloisia Allner,aallner0@lulu.com,United States,Exc,M,0.5 kg,$8.25,$41.25,Excerica,Medium,Yes
+FAA-43335-268,17-Jun-2021,21125-22134-PX,A-L-1,1,Jami Redholes,jredholes2@tmall.com,United States,Ara,L,1.0 kg,$12.95,$12.95,Arabica,Light,Yes
+KAC-83089-793,15-Jul-2021,23806-46781-OU,E-M-1,2,Christoffer O' Shea,,Ireland,Exc,M,1.0 kg,$13.75,$27.50,Excerica,Medium,No
+KAC-83089-793,15-Jul-2021,23806-46781-OU,R-L-2.5,2,Christoffer O' Shea,,Ireland,Rob,L,2.5 kg,$27.49,$54.97,Robica,Light,No
+CVP-18956-553,04-Aug-2021,86561-91660-RB,L-D-1,3,Beryle Cottier,,United States,Lib,D,1.0 kg,$12.95,$38.85,Librecia,Dark,No
+IPP-31994-879,21-Jan-2022,65223-29612-CB,E-D-0.5,3,Shaylynn Lobe,slobe6@nifty.com,United States,Exc,D,0.5 kg,$7.29,$21.87,Excerica,Dark,Yes
+SNZ-65340-705,20-May-2022,21134-81676-FR,L-L-0.2,1,Melvin Wharfe,,Ireland,Lib,L,0.2 kg,$4.76,$4.76,Librecia,Light,Yes
+EZT-46571-659,02-Jan-2019,03396-68805-ZC,R-M-0.5,3,Guthrey Petracci,gpetracci8@livejournal.com,United States,Rob,M,0.5 kg,$5.97,$17.91,Robica,Medium,No
+NWQ-70061-912,05-Sep-2019,61021-27840-ZN,R-M-0.5,1,Rodger Raven,rraven9@ed.gov,United States,Rob,M,0.5 kg,$5.97,$5.97,Robica,Medium,No
+BKK-47233-845,08-Mar-2021,76239-90137-UQ,A-D-1,4,Ferrell Ferber,fferbera@businesswire.com,United States,Ara,D,1.0 kg,$9.95,$39.80,Arabica,Dark,No
+VQR-01002-970,28-Oct-2020,49315-21985-BB,E-L-2.5,5,Duky Phizackerly,dphizackerlyb@utexas.edu,United States,Exc,L,2.5 kg,$34.16,$170.78,Excerica,Light,Yes
+SZW-48378-399,02-Jul-2022,34136-36674-OM,R-M-1,5,Rosaleen Scholar,rscholarc@nyu.edu,United States,Rob,M,1.0 kg,$9.95,$49.75,Robica,Medium,No
+ITA-87418-783,22-May-2020,39396-12890-PE,R-D-2.5,2,Terence Vanyutin,tvanyutind@wix.com,United States,Rob,D,2.5 kg,$20.59,$41.17,Robica,Dark,No
+GNZ-46006-527,05-Apr-2022,95875-73336-RG,L-D-0.2,3,Patrice Trobe,ptrobee@wunderground.com,United States,Lib,D,0.2 kg,$3.89,$11.66,Librecia,Dark,Yes
+FYQ-78248-319,07-Jun-2022,25473-43727-BY,R-M-2.5,5,Llywellyn Oscroft,loscroftf@ebay.co.uk,United States,Rob,M,2.5 kg,$22.89,$114.43,Robica,Medium,No
+VAU-44387-624,20-Mar-2019,99643-51048-IQ,A-M-0.2,6,Minni Alabaster,malabasterg@hexun.com,United States,Ara,M,0.2 kg,$3.38,$20.25,Arabica,Medium,No
+RDW-33155-159,19-Oct-2019,62173-15287-CU,A-L-1,6,Rhianon Broxup,rbroxuph@jimdo.com,United States,Ara,L,1.0 kg,$12.95,$77.70,Arabica,Light,No
+TDZ-59011-211,13-Jun-2019,57611-05522-ST,R-D-2.5,4,Pall Redford,predfordi@ow.ly,Ireland,Rob,D,2.5 kg,$20.59,$82.34,Robica,Dark,Yes
+IDU-25793-399,04-Dec-2020,76664-37050-DT,A-M-0.2,5,Aurea Corradino,acorradinoj@harvard.edu,United States,Ara,M,0.2 kg,$3.38,$16.88,Arabica,Medium,Yes
+IDU-25793-399,04-Dec-2020,76664-37050-DT,E-D-0.2,4,Aurea Corradino,acorradinoj@harvard.edu,United States,Exc,D,0.2 kg,$3.65,$14.58,Excerica,Dark,Yes
+NUO-20013-488,04-Dec-2020,03090-88267-BQ,A-D-0.2,6,Avrit Davidowsky,adavidowskyl@netvibes.com,United States,Ara,D,0.2 kg,$2.99,$17.91,Arabica,Dark,No
+UQU-65630-479,22-Jan-2021,37651-47492-NC,R-M-2.5,4,Annabel Antuk,aantukm@kickstarter.com,United States,Rob,M,2.5 kg,$22.89,$91.54,Robica,Medium,Yes
+FEO-11834-332,11-Feb-2022,95399-57205-HI,A-D-0.2,4,Iorgo Kleinert,ikleinertn@timesonline.co.uk,United States,Ara,D,0.2 kg,$2.99,$11.94,Arabica,Dark,Yes
+TKY-71558-096,15-Sep-2021,24010-66714-HW,A-M-1,1,Chrisy Blofeld,cblofeldo@amazon.co.uk,United States,Ara,M,1.0 kg,$11.25,$11.25,Arabica,Medium,No
+OXY-65322-253,24-Oct-2020,07591-92789-UA,E-M-0.2,3,Culley Farris,,United States,Exc,M,0.2 kg,$4.13,$12.38,Excerica,Medium,Yes
+EVP-43500-491,20-Feb-2019,49231-44455-IC,A-M-0.5,4,Selene Shales,sshalesq@umich.edu,United States,Ara,M,0.5 kg,$6.75,$27.00,Arabica,Medium,Yes
+WAG-26945-689,08-Oct-2019,50124-88608-EO,A-M-0.2,5,Vivie Danneil,vdanneilr@mtv.com,Ireland,Ara,M,0.2 kg,$3.38,$16.88,Arabica,Medium,No
+CHE-78995-767,02-Aug-2022,00888-74814-UZ,A-D-0.5,3,Theresita Newbury,tnewburys@usda.gov,Ireland,Ara,D,0.5 kg,$5.97,$17.91,Arabica,Dark,No
+RYZ-14633-602,20-Feb-2019,14158-30713-OB,A-D-1,4,Mozelle Calcutt,mcalcuttt@baidu.com,Ireland,Ara,D,1.0 kg,$9.95,$39.80,Arabica,Dark,Yes
+WOQ-36015-429,25-Sep-2021,51427-89175-QJ,L-M-0.2,5,Adrian Swaine,,United States,Lib,M,0.2 kg,$4.37,$21.83,Librecia,Medium,No
+WOQ-36015-429,25-Sep-2021,51427-89175-QJ,A-D-0.5,6,Adrian Swaine,,United States,Ara,D,0.5 kg,$5.97,$35.82,Arabica,Dark,No
+WOQ-36015-429,25-Sep-2021,51427-89175-QJ,L-M-0.5,6,Adrian Swaine,,United States,Lib,M,0.5 kg,$8.73,$52.38,Librecia,Medium,No
+SCT-60553-454,17-Jul-2021,39123-12846-YJ,L-L-0.2,5,Gallard Gatheral,ggatheralx@123-reg.co.uk,United States,Lib,L,0.2 kg,$4.76,$23.78,Librecia,Light,No
+GFK-52063-244,29-Jun-2020,44981-99666-XB,L-L-0.5,6,Una Welberry,uwelberryy@ebay.co.uk,United Kingdom,Lib,L,0.5 kg,$9.51,$57.06,Librecia,Light,Yes
+AMM-79521-378,01-Jun-2021,24825-51803-CQ,A-D-0.5,6,Faber Eilhart,feilhartz@who.int,United States,Ara,D,0.5 kg,$5.97,$35.82,Arabica,Dark,No
+QUQ-90580-772,06-Feb-2021,77634-13918-GJ,L-M-0.2,2,Zorina Ponting,zponting10@altervista.org,United States,Lib,M,0.2 kg,$4.37,$8.73,Librecia,Medium,No
+LGD-24408-274,25-Apr-2019,13694-25001-LX,L-L-0.5,3,Silvio Strase,sstrase11@booking.com,United States,Lib,L,0.5 kg,$9.51,$28.53,Librecia,Light,No
+HCT-95608-959,25-Apr-2020,08523-01791-TI,R-M-2.5,5,Dorie de la Tremoille,dde12@unesco.org,United States,Rob,M,2.5 kg,$22.89,$114.43,Robica,Medium,No
+OFX-99147-470,24-Nov-2021,49860-68865-AB,R-M-1,6,Hy Zanetto,,United States,Rob,M,1.0 kg,$9.95,$59.70,Robica,Medium,Yes
+LUO-37559-016,19-Apr-2021,21240-83132-SP,L-M-1,3,Jessica McNess,,United States,Lib,M,1.0 kg,$14.55,$43.65,Librecia,Medium,No
+XWC-20610-167,07-Jul-2022,08350-81623-TF,E-D-0.2,2,Lorenzo Yeoland,lyeoland15@pbs.org,United States,Exc,D,0.2 kg,$3.65,$7.29,Excerica,Dark,Yes
+GPU-79113-136,22-May-2019,73284-01385-SJ,R-D-0.2,3,Abigail Tolworthy,atolworthy16@toplist.cz,United States,Rob,D,0.2 kg,$2.69,$8.06,Robica,Dark,Yes
+ULR-52653-960,04-Oct-2021,04152-34436-IE,L-L-2.5,2,Maurie Bartol,,United States,Lib,L,2.5 kg,$36.46,$72.91,Librecia,Light,No
+HPI-42308-142,11-Apr-2020,06631-86965-XP,E-M-0.5,2,Olag Baudassi,obaudassi18@seesaa.net,United States,Exc,M,0.5 kg,$8.25,$16.50,Excerica,Medium,Yes
+XHI-30227-581,31-Jan-2022,54619-08558-ZU,L-D-2.5,6,Petey Kingsbury,pkingsbury19@comcast.net,United States,Lib,D,2.5 kg,$29.79,$178.71,Librecia,Dark,No
+DJH-05202-380,07-Nov-2019,85589-17020-CX,E-M-2.5,2,Donna Baskeyfied,,United States,Exc,M,2.5 kg,$31.63,$63.25,Excerica,Medium,Yes
+VMW-26889-781,28-Jun-2019,36078-91009-WU,A-L-0.2,2,Arda Curley,acurley1b@hao123.com,United States,Ara,L,0.2 kg,$3.89,$7.77,Arabica,Light,Yes
+DBU-81099-586,11-Sep-2020,15770-27099-GX,A-D-2.5,4,Raynor McGilvary,rmcgilvary1c@tamu.edu,United States,Ara,D,2.5 kg,$22.89,$91.54,Arabica,Dark,No
+PQA-54820-810,17-Aug-2022,91460-04823-BX,A-L-1,3,Isis Pikett,ipikett1d@xinhuanet.com,United States,Ara,L,1.0 kg,$12.95,$38.85,Arabica,Light,No
+XKB-41924-202,19-Aug-2022,45089-52817-WN,L-D-0.5,2,Inger Bouldon,ibouldon1e@gizmodo.com,United States,Lib,D,0.5 kg,$7.77,$15.54,Librecia,Dark,No
+DWZ-69106-473,15-May-2019,76447-50326-IC,L-L-2.5,4,Karry Flanders,kflanders1f@over-blog.com,Ireland,Lib,L,2.5 kg,$36.46,$145.82,Librecia,Light,Yes
+YHV-68700-050,11-Sep-2019,26333-67911-OL,R-M-0.5,5,Hartley Mattioli,hmattioli1g@webmd.com,United Kingdom,Rob,M,0.5 kg,$5.97,$29.85,Robica,Medium,No
+YHV-68700-050,11-Sep-2019,26333-67911-OL,L-L-2.5,2,Hartley Mattioli,hmattioli1g@webmd.com,United Kingdom,Lib,L,2.5 kg,$36.46,$72.91,Librecia,Light,No
+KRB-88066-642,16-Mar-2021,22107-86640-SB,L-M-1,5,Archambault Gillard,agillard1i@issuu.com,United States,Lib,M,1.0 kg,$14.55,$72.75,Librecia,Medium,No
+LQU-08404-173,03-Dec-2020,09960-34242-LZ,L-L-1,3,Salomo Cushworth,,United States,Lib,L,1.0 kg,$15.85,$47.55,Librecia,Light,No
+CWK-60159-881,27-Jan-2020,04671-85591-RT,E-D-0.2,3,Theda Grizard,tgrizard1k@odnoklassniki.ru,United States,Exc,D,0.2 kg,$3.65,$10.94,Excerica,Dark,Yes
+EEG-74197-843,17-Jul-2022,25729-68859-UA,E-L-1,4,Rozele Relton,rrelton1l@stanford.edu,United States,Exc,L,1.0 kg,$14.85,$59.40,Excerica,Light,No
+UCZ-59708-525,04-Mar-2022,05501-86351-NX,L-D-2.5,3,Willa Rolling,,United States,Lib,D,2.5 kg,$29.79,$89.36,Librecia,Dark,Yes
+HUB-47311-849,07-Dec-2021,04521-04300-OK,L-M-0.5,3,Stanislaus Gilroy,sgilroy1n@eepurl.com,United States,Lib,M,0.5 kg,$8.73,$26.19,Librecia,Medium,Yes
+WYM-17686-694,25-Feb-2021,58689-55264-VK,A-D-2.5,5,Correy Cottingham,ccottingham1o@wikipedia.org,United States,Ara,D,2.5 kg,$22.89,$114.43,Arabica,Dark,No
+ZYQ-15797-695,25-Feb-2019,79436-73011-MM,R-D-0.5,5,Pammi Endacott,,United Kingdom,Rob,D,0.5 kg,$5.37,$26.85,Robica,Dark,Yes
+EEJ-16185-108,09-Feb-2019,65552-60476-KY,L-L-0.2,5,Nona Linklater,,United States,Lib,L,0.2 kg,$4.76,$23.78,Librecia,Light,Yes
+RWR-77888-800,07-Feb-2020,69904-02729-YS,A-M-0.5,1,Annadiane Dykes,adykes1r@eventbrite.com,United States,Ara,M,0.5 kg,$6.75,$6.75,Arabica,Medium,No
+LHN-75209-742,23-Mar-2020,01433-04270-AX,R-M-0.5,6,Felecia Dodgson,,United States,Rob,M,0.5 kg,$5.97,$35.82,Robica,Medium,Yes
+TIR-71396-998,06-Mar-2022,14204-14186-LA,R-D-2.5,4,Angelia Cockrem,acockrem1t@engadget.com,United States,Rob,D,2.5 kg,$20.59,$82.34,Robica,Dark,Yes
+RXF-37618-213,15-Apr-2022,32948-34398-HC,R-L-0.5,1,Belvia Umpleby,bumpleby1u@soundcloud.com,United States,Rob,L,0.5 kg,$7.17,$7.17,Robica,Light,Yes
+ANM-16388-634,19-Nov-2021,77343-52608-FF,L-L-0.2,2,Nat Saleway,nsaleway1v@dedecms.com,United States,Lib,L,0.2 kg,$4.76,$9.51,Librecia,Light,No
+WYL-29300-070,16-Oct-2019,42770-36274-QA,R-M-0.2,1,Hayward Goulter,hgoulter1w@abc.net.au,United States,Rob,M,0.2 kg,$2.99,$2.99,Robica,Medium,No
+JHW-74554-805,26-Nov-2019,14103-58987-ZU,R-M-1,6,Gay Rizzello,grizzello1x@symantec.com,United Kingdom,Rob,M,1.0 kg,$9.95,$59.70,Robica,Medium,Yes
+KYS-27063-603,30-Jun-2019,69958-32065-SW,E-L-2.5,4,Shannon List,slist1y@mapquest.com,United States,Exc,L,2.5 kg,$34.16,$136.62,Excerica,Light,No
+GAZ-58626-277,04-Jan-2021,69533-84907-FA,L-L-0.2,2,Shirlene Edmondson,sedmondson1z@theguardian.com,Ireland,Lib,L,0.2 kg,$4.76,$9.51,Librecia,Light,No
+RPJ-37787-335,27-Oct-2020,76005-95461-CI,A-M-2.5,3,Aurlie McCarl,,United States,Ara,M,2.5 kg,$25.88,$77.63,Arabica,Medium,No
+LEF-83057-763,15-Jun-2021,15395-90855-VB,L-M-0.2,5,Alikee Carryer,,United States,Lib,M,0.2 kg,$4.37,$21.83,Librecia,Medium,Yes
+RPW-36123-215,19-Jul-2021,80640-45811-LB,E-L-0.5,2,Jennifer Rangall,jrangall22@newsvine.com,United States,Exc,L,0.5 kg,$8.91,$17.82,Excerica,Light,Yes
+WLL-59044-117,23-Jul-2021,28476-04082-GR,R-D-1,6,Kipper Boorn,kboorn23@ezinearticles.com,Ireland,Rob,D,1.0 kg,$8.95,$53.70,Robica,Dark,Yes
+AWT-22827-563,25-Jan-2020,12018-75670-EU,R-L-0.2,1,Melania Beadle,,Ireland,Rob,L,0.2 kg,$3.59,$3.59,Robica,Light,Yes
+QLM-07145-668,09-May-2019,86437-17399-FK,E-D-0.2,2,Colene Elgey,celgey25@webs.com,United States,Exc,D,0.2 kg,$3.65,$7.29,Excerica,Dark,No
+HVQ-64398-930,30-Mar-2020,62979-53167-ML,A-M-0.5,6,Lothaire Mizzi,lmizzi26@rakuten.co.jp,United States,Ara,M,0.5 kg,$6.75,$40.50,Arabica,Medium,Yes
+WRT-40778-247,13-Mar-2022,54810-81899-HL,R-L-1,4,Cletis Giacomazzo,cgiacomazzo27@jigsy.com,United States,Rob,L,1.0 kg,$11.95,$47.80,Robica,Light,No
+SUB-13006-125,17-Apr-2019,26103-41504-IB,A-L-0.5,5,Ami Arnow,aarnow28@arizona.edu,United States,Ara,L,0.5 kg,$7.77,$38.85,Arabica,Light,Yes
+CQM-49696-263,25-Oct-2019,76534-45229-SG,L-L-2.5,3,Sheppard Yann,syann29@senate.gov,United States,Lib,L,2.5 kg,$36.46,$109.37,Librecia,Light,Yes
+KXN-85094-246,13-Sep-2019,81744-27332-RR,L-M-2.5,3,Bunny Naulls,bnaulls2a@tiny.cc,Ireland,Lib,M,2.5 kg,$33.47,$100.40,Librecia,Medium,Yes
+XOQ-12405-419,12-Apr-2020,91513-75657-PH,R-D-2.5,4,Hally Lorait,,United States,Rob,D,2.5 kg,$20.59,$82.34,Robica,Dark,Yes
+HYF-10254-369,14-Nov-2019,30373-66619-CB,L-L-0.5,1,Zaccaria Sherewood,zsherewood2c@apache.org,United States,Lib,L,0.5 kg,$9.51,$9.51,Librecia,Light,No
+XXJ-47000-307,18-Jul-2019,31582-23562-FM,A-L-2.5,3,Jeffrey Dufaire,jdufaire2d@fc2.com,United States,Ara,L,2.5 kg,$29.79,$89.36,Arabica,Light,No
+XXJ-47000-307,18-Jul-2019,31582-23562-FM,A-D-0.2,4,Jeffrey Dufaire,jdufaire2d@fc2.com,United States,Ara,D,0.2 kg,$2.99,$11.94,Arabica,Dark,No
+ZDK-82166-357,03-Apr-2021,81431-12577-VD,A-M-1,3,Beitris Keaveney,bkeaveney2f@netlog.com,United States,Ara,M,1.0 kg,$11.25,$33.75,Arabica,Medium,No
+IHN-19982-362,29-Mar-2021,68894-91205-MP,R-L-1,3,Elna Grise,egrise2g@cargocollective.com,United States,Rob,L,1.0 kg,$11.95,$35.85,Robica,Light,No
+VMT-10030-889,15-Dec-2021,87602-55754-VN,A-L-1,6,Torie Gottelier,tgottelier2h@vistaprint.com,United States,Ara,L,1.0 kg,$12.95,$77.70,Arabica,Light,No
+NHL-11063-100,20-May-2020,39181-35745-WH,A-L-1,4,Loydie Langlais,,Ireland,Ara,L,1.0 kg,$12.95,$51.80,Arabica,Light,Yes
+ROV-87448-086,02-Nov-2020,30381-64762-NG,A-M-2.5,4,Adham Greenhead,agreenhead2j@dailymail.co.uk,United States,Ara,M,2.5 kg,$25.88,$103.50,Arabica,Medium,No
+DGY-35773-612,25-Jul-2020,17503-27693-ZH,E-L-1,3,Hamish MacSherry,,United States,Exc,L,1.0 kg,$14.85,$44.55,Excerica,Light,Yes
+YWH-50638-556,14-Mar-2019,89442-35633-HJ,E-L-0.5,4,Else Langcaster,elangcaster2l@spotify.com,United Kingdom,Exc,L,0.5 kg,$8.91,$35.64,Excerica,Light,Yes
+ISL-11200-600,02-Jul-2020,13654-85265-IL,A-D-0.2,6,Rudy Farquharson,,Ireland,Ara,D,0.2 kg,$2.99,$17.91,Arabica,Dark,Yes
+LBZ-75997-047,17-Dec-2019,40946-22090-FP,A-M-2.5,6,Norene Magauran,nmagauran2n@51.la,United States,Ara,M,2.5 kg,$25.88,$155.25,Arabica,Medium,No
+EUH-08089-954,06-Dec-2020,29050-93691-TS,A-D-0.2,2,Vicki Kirdsch,vkirdsch2o@google.fr,United States,Ara,D,0.2 kg,$2.99,$5.97,Arabica,Dark,No
+BLD-12227-251,04-Mar-2021,64395-74865-WF,A-M-0.5,2,Ilysa Whapple,iwhapple2p@com.com,United States,Ara,M,0.5 kg,$6.75,$13.50,Arabica,Medium,No
+OPY-30711-853,17-Jul-2021,81861-66046-SU,A-D-0.2,1,Ruy Cancellieri,,Ireland,Ara,D,0.2 kg,$2.99,$2.99,Arabica,Dark,No
+DBC-44122-300,04-Nov-2020,13366-78506-KP,L-M-0.2,3,Aube Follett,,United States,Lib,M,0.2 kg,$4.37,$13.10,Librecia,Medium,Yes
+FJQ-60035-234,05-Apr-2021,08847-29858-HN,A-L-0.2,2,Rudiger Di Bartolomeo,,United States,Ara,L,0.2 kg,$3.89,$7.77,Arabica,Light,Yes
+HSF-66926-425,01-Mar-2020,00539-42510-RY,L-D-2.5,5,Nickey Youles,nyoules2t@reference.com,Ireland,Lib,D,2.5 kg,$29.79,$148.93,Librecia,Dark,Yes
+LQG-41416-375,19-Oct-2021,45190-08727-NV,L-D-1,3,Dyanna Aizikovitz,daizikovitz2u@answers.com,Ireland,Lib,D,1.0 kg,$12.95,$38.85,Librecia,Dark,Yes
+VZO-97265-841,08-Jul-2022,87049-37901-FU,R-M-0.2,4,Bram Revel,brevel2v@fastcompany.com,United States,Rob,M,0.2 kg,$2.99,$11.94,Robica,Medium,No
+MOR-12987-399,17-Aug-2019,34015-31593-JC,L-M-1,6,Emiline Priddis,epriddis2w@nationalgeographic.com,United States,Lib,M,1.0 kg,$14.55,$87.30,Librecia,Medium,No
+UOA-23786-489,31-May-2020,90305-50099-SV,A-M-0.5,6,Queenie Veel,qveel2x@jugem.jp,United States,Ara,M,0.5 kg,$6.75,$40.50,Arabica,Medium,Yes
+AJL-52941-018,05-May-2020,55871-61935-MF,E-D-1,2,Lind Conyers,lconyers2y@twitter.com,United States,Exc,D,1.0 kg,$12.15,$24.30,Excerica,Dark,No
+XSZ-84273-421,14-Apr-2019,15405-60469-TM,R-M-0.5,3,Pen Wye,pwye2z@dagondesign.com,United States,Rob,M,0.5 kg,$5.97,$17.91,Robica,Medium,Yes
+NUN-48214-216,29-Jul-2020,06953-94794-FB,A-M-0.5,4,Isahella Hagland,,United States,Ara,M,0.5 kg,$6.75,$27.00,Arabica,Medium,No
+AKV-93064-769,12-Dec-2019,22305-40299-CY,L-D-0.5,1,Terry Sheryn,tsheryn31@mtv.com,United States,Lib,D,0.5 kg,$7.77,$7.77,Librecia,Dark,Yes
+BRB-40903-533,15-Jun-2022,09020-56774-GU,E-L-0.2,3,Marie-jeanne Redgrave,mredgrave32@cargocollective.com,United States,Exc,L,0.2 kg,$4.46,$13.37,Excerica,Light,Yes
+GPR-19973-483,26-Jun-2019,92926-08470-YS,R-D-0.5,5,Betty Fominov,bfominov33@yale.edu,United States,Rob,D,0.5 kg,$5.37,$26.85,Robica,Dark,No
+XIY-43041-882,12-Oct-2021,07250-63194-JO,A-M-1,1,Shawnee Critchlow,scritchlow34@un.org,United States,Ara,M,1.0 kg,$11.25,$11.25,Arabica,Medium,No
+YGY-98425-969,01-Apr-2019,63787-96257-TQ,L-M-1,1,Merrel Steptow,msteptow35@earthlink.net,Ireland,Lib,M,1.0 kg,$14.55,$14.55,Librecia,Medium,No
+MSB-08397-648,10-Mar-2021,49530-25460-RW,R-L-0.2,4,Carmina Hubbuck,,United States,Rob,L,0.2 kg,$3.59,$14.34,Robica,Light,No
+WDR-06028-345,16-Aug-2019,66508-21373-OQ,L-L-1,1,Ingeberg Mulliner,imulliner37@pinterest.com,United Kingdom,Lib,L,1.0 kg,$15.85,$15.85,Librecia,Light,No
+MXM-42948-061,11-Aug-2020,20203-03950-FY,L-L-0.2,4,Geneva Standley,gstandley38@dion.ne.jp,Ireland,Lib,L,0.2 kg,$4.76,$19.02,Librecia,Light,Yes
+MGQ-98961-173,05-Apr-2022,83895-90735-XH,L-L-0.5,4,Brook Drage,bdrage39@youku.com,United States,Lib,L,0.5 kg,$9.51,$38.04,Librecia,Light,No
+RFH-64349-897,22-Oct-2019,61954-61462-RJ,E-D-0.5,3,Muffin Yallop,myallop3a@fema.gov,United States,Exc,D,0.5 kg,$7.29,$21.87,Excerica,Dark,Yes
+TKL-20738-660,02-Oct-2021,47939-53158-LS,E-M-0.2,1,Cordi Switsur,cswitsur3b@chronoengine.com,United States,Exc,M,0.2 kg,$4.13,$4.13,Excerica,Medium,No
+TKL-20738-660,02-Oct-2021,47939-53158-LS,A-L-0.2,1,Cordi Switsur,cswitsur3b@chronoengine.com,United States,Ara,L,0.2 kg,$3.89,$3.89,Arabica,Light,No
+TKL-20738-660,02-Oct-2021,47939-53158-LS,E-M-1,5,Cordi Switsur,cswitsur3b@chronoengine.com,United States,Exc,M,1.0 kg,$13.75,$68.75,Excerica,Medium,No
+GOW-03198-575,13-Mar-2021,61513-27752-FA,A-D-0.5,4,Mahala Ludwell,mludwell3e@blogger.com,United States,Ara,D,0.5 kg,$5.97,$23.88,Arabica,Dark,Yes
+QJB-90477-635,12-Jun-2022,89714-19856-WX,L-L-2.5,4,Doll Beauchamp,dbeauchamp3f@usda.gov,United States,Lib,L,2.5 kg,$36.46,$145.82,Librecia,Light,No
+MWP-46239-785,27-Apr-2019,87979-56781-YV,L-M-0.2,5,Stanford Rodliff,srodliff3g@ted.com,United States,Lib,M,0.2 kg,$4.37,$21.83,Librecia,Medium,Yes
+QDV-03406-248,23-May-2019,74126-88836-KA,L-M-0.5,3,Stevana Woodham,swoodham3h@businesswire.com,Ireland,Lib,M,0.5 kg,$8.73,$26.19,Librecia,Medium,Yes
+GPH-40635-105,14-Jul-2020,37397-05992-VO,A-M-1,1,Hewet Synnot,hsynnot3i@about.com,United States,Ara,M,1.0 kg,$11.25,$11.25,Arabica,Medium,No
+JOM-80930-071,10-Nov-2021,54904-18397-UD,L-D-1,6,Raleigh Lepere,rlepere3j@shop-pro.jp,Ireland,Lib,D,1.0 kg,$12.95,$77.70,Librecia,Dark,No
+OIL-26493-755,31-Aug-2021,19017-95853-EK,A-M-0.5,1,Timofei Woofinden,twoofinden3k@businesswire.com,United States,Ara,M,0.5 kg,$6.75,$6.75,Arabica,Medium,No
+CYV-13426-645,06-Jul-2019,88593-59934-VU,E-D-1,1,Evelina Dacca,edacca3l@google.pl,United States,Exc,D,1.0 kg,$12.15,$12.15,Excerica,Dark,Yes
+WRP-39846-614,04-Mar-2022,47493-68564-YM,A-L-2.5,5,Bidget Tremellier,,Ireland,Ara,L,2.5 kg,$29.79,$148.93,Arabica,Light,Yes
+VDZ-76673-968,31-Dec-2020,82246-82543-DW,E-D-0.5,2,Bobinette Hindsberg,bhindsberg3n@blogs.com,United States,Exc,D,0.5 kg,$7.29,$14.58,Excerica,Dark,Yes
+VTV-03546-175,31-Jul-2020,03384-62101-IY,A-L-2.5,5,Osbert Robins,orobins3o@salon.com,United States,Ara,L,2.5 kg,$29.79,$148.93,Arabica,Light,Yes
+GHR-72274-715,24-May-2021,86881-41559-OR,L-D-1,1,Othello Syseland,osyseland3p@independent.co.uk,United States,Lib,D,1.0 kg,$12.95,$12.95,Librecia,Dark,No
+ZGK-97262-313,16-Jul-2022,02536-18494-AQ,E-M-2.5,3,Ewell Hanby,,United States,Exc,M,2.5 kg,$31.63,$94.88,Excerica,Medium,Yes
+ZFS-30776-804,05-Feb-2021,58638-01029-CB,A-L-0.5,5,Blancha McAmish,bmcamish2e@tripadvisor.com,United States,Ara,L,0.5 kg,$7.77,$38.85,Arabica,Light,Yes
+QUU-91729-492,29-Jul-2021,90312-11148-LA,A-D-0.2,4,Lowell Keenleyside,lkeenleyside3s@topsy.com,United States,Ara,D,0.2 kg,$2.99,$11.94,Arabica,Dark,No
+PVI-72795-960,17-Mar-2022,68239-74809-TF,E-L-2.5,3,Elonore Joliffe,,Ireland,Exc,L,2.5 kg,$34.16,$102.47,Excerica,Light,No
+PPP-78935-365,11-Feb-2021,91074-60023-IP,E-D-1,4,Abraham Coleman,,United States,Exc,D,1.0 kg,$12.15,$48.60,Excerica,Dark,No
+JUO-34131-517,13-Feb-2019,07972-83748-JI,L-D-1,6,Rivy Farington,,United States,Lib,D,1.0 kg,$12.95,$77.70,Librecia,Dark,Yes
+ZJE-89333-489,13-May-2022,08694-57330-XR,L-D-2.5,1,Vallie Kundt,vkundt3w@bigcartel.com,Ireland,Lib,D,2.5 kg,$29.79,$29.79,Librecia,Dark,Yes
+LOO-35324-159,19-May-2020,68412-11126-YJ,A-L-0.2,4,Boyd Bett,bbett3x@google.de,United States,Ara,L,0.2 kg,$3.89,$15.54,Arabica,Light,Yes
+JBQ-93412-846,27-Apr-2022,69037-66822-DW,E-L-2.5,4,Julio Armytage,,Ireland,Exc,L,2.5 kg,$34.16,$136.62,Excerica,Light,Yes
+EHX-66333-637,09-Sep-2020,01297-94364-XH,L-M-0.5,2,Deana Staite,dstaite3z@scientificamerican.com,United States,Lib,M,0.5 kg,$8.73,$17.46,Librecia,Medium,No
+WXG-25759-236,10-Mar-2021,39919-06540-ZI,E-L-2.5,2,Winn Keyse,wkeyse40@apple.com,United States,Exc,L,2.5 kg,$34.16,$68.31,Excerica,Light,Yes
+QNA-31113-984,07-Apr-2019,60512-78550-WS,L-M-0.2,4,Osmund Clausen-Thue,oclausenthue41@marriott.com,United States,Lib,M,0.2 kg,$4.37,$17.46,Librecia,Medium,No
+ZWI-52029-159,12-Jul-2020,40172-12000-AU,L-M-1,3,Leonore Francisco,lfrancisco42@fema.gov,United States,Lib,M,1.0 kg,$14.55,$43.65,Librecia,Medium,No
+ZWI-52029-159,12-Jul-2020,40172-12000-AU,E-M-1,2,Leonore Francisco,lfrancisco42@fema.gov,United States,Exc,M,1.0 kg,$13.75,$27.50,Excerica,Medium,No
+DFS-49954-707,21-Dec-2021,39019-13649-CL,E-D-0.2,5,Giacobo Skingle,gskingle44@clickbank.net,United States,Exc,D,0.2 kg,$3.65,$18.23,Excerica,Dark,Yes
+VYP-89830-878,04-Oct-2020,12715-05198-QU,A-M-2.5,2,Gerard Pirdy,,United States,Ara,M,2.5 kg,$25.88,$51.75,Arabica,Medium,Yes
+AMT-40418-362,08-Aug-2020,04513-76520-QO,L-D-1,1,Jacinthe Balsillie,jbalsillie46@princeton.edu,United States,Lib,D,1.0 kg,$12.95,$12.95,Librecia,Dark,Yes
+NFQ-23241-793,11-Oct-2020,88446-59251-SQ,A-M-1,3,Quinton Fouracres,,United States,Ara,M,1.0 kg,$11.25,$33.75,Arabica,Medium,Yes
+JQK-64922-985,10-Nov-2021,23779-10274-KN,R-M-2.5,3,Bettina Leffek,bleffek48@ning.com,United States,Rob,M,2.5 kg,$22.89,$68.66,Robica,Medium,Yes
+YET-17732-678,20-Jun-2021,57235-92842-DK,R-D-0.2,1,Hetti Penson,,United States,Rob,D,0.2 kg,$2.69,$2.69,Robica,Dark,No
+NKW-24945-846,04-Oct-2021,75977-30364-AY,A-D-2.5,5,Jocko Pray,jpray4a@youtube.com,United States,Ara,D,2.5 kg,$22.89,$114.43,Arabica,Dark,No
+VKA-82720-513,24-Jun-2019,12299-30914-NG,A-M-2.5,6,Grete Holborn,gholborn4b@ow.ly,United States,Ara,M,2.5 kg,$25.88,$155.25,Arabica,Medium,Yes
+THA-60599-417,26-Oct-2019,59971-35626-YJ,A-M-2.5,3,Fielding Keinrat,fkeinrat4c@dailymail.co.uk,United States,Ara,M,2.5 kg,$25.88,$77.63,Arabica,Medium,Yes
+MEK-39769-035,27-Jun-2021,15380-76513-PS,R-D-2.5,3,Paulo Yea,pyea4d@aol.com,Ireland,Rob,D,2.5 kg,$20.59,$61.76,Robica,Dark,No
+JAF-18294-750,06-Sep-2019,73564-98204-EY,R-D-2.5,6,Say Risborough,,United States,Rob,D,2.5 kg,$20.59,$123.51,Robica,Dark,Yes
+TME-59627-221,30-Apr-2021,72282-40594-RX,L-L-2.5,6,Alexa Sizey,,United States,Lib,L,2.5 kg,$36.46,$218.73,Librecia,Light,No
+UDG-65353-824,07-Jan-2020,17514-94165-RJ,E-M-0.5,4,Kari Swede,kswede4g@addthis.com,United States,Exc,M,0.5 kg,$8.25,$33.00,Excerica,Medium,No
+ENQ-42923-176,11-Jan-2021,56248-75861-JX,A-L-0.5,3,Leontine Rubrow,lrubrow4h@microsoft.com,United States,Ara,L,0.5 kg,$7.77,$23.31,Arabica,Light,No
+CBT-55781-720,15-Nov-2021,97855-54761-IS,E-D-0.5,3,Dottie Tift,dtift4i@netvibes.com,United States,Exc,D,0.5 kg,$7.29,$21.87,Excerica,Dark,Yes
+NEU-86533-016,03-Jun-2019,96544-91644-IT,R-D-0.2,6,Gerardo Schonfeld,gschonfeld4j@oracle.com,United States,Rob,D,0.2 kg,$2.69,$16.11,Robica,Dark,No
+BYU-58154-603,17-Dec-2020,51971-70393-QM,E-D-0.5,4,Claiborne Feye,cfeye4k@google.co.jp,Ireland,Exc,D,0.5 kg,$7.29,$29.16,Excerica,Dark,No
+EHJ-05910-257,07-Feb-2021,06812-11924-IK,R-D-1,6,Mina Elstone,,United States,Rob,D,1.0 kg,$8.95,$53.70,Robica,Dark,Yes
+EIL-44855-309,15-Mar-2021,59741-90220-OW,R-D-0.5,5,Sherman Mewrcik,,United States,Rob,D,0.5 kg,$5.37,$26.85,Robica,Dark,Yes
+HCA-87224-420,04-Aug-2022,62682-27930-PD,E-M-0.5,5,Tamarah Fero,tfero4n@comsenz.com,United States,Exc,M,0.5 kg,$8.25,$41.25,Excerica,Medium,Yes
+ABO-29054-365,19-Jan-2019,00256-19905-YG,A-M-0.5,6,Stanislaus Valsler,,Ireland,Ara,M,0.5 kg,$6.75,$40.50,Arabica,Medium,No
+TKN-58485-031,23-Mar-2022,38890-22576-UI,R-D-1,2,Felita Dauney,fdauney4p@sphinn.com,Ireland,Rob,D,1.0 kg,$8.95,$17.90,Robica,Dark,No
+RCK-04069-371,07-Oct-2021,94573-61802-PH,E-L-2.5,2,Serena Earley,searley4q@youku.com,United Kingdom,Exc,L,2.5 kg,$34.16,$68.31,Excerica,Light,No
+IRJ-67095-738,20-Mar-2019,86447-02699-UT,E-M-2.5,2,Minny Chamberlayne,mchamberlayne4r@bigcartel.com,United States,Exc,M,2.5 kg,$31.63,$63.25,Excerica,Medium,Yes
+VEA-31961-977,15-Dec-2021,51432-27169-KN,E-D-0.5,3,Bartholemy Flaherty,bflaherty4s@moonfruit.com,Ireland,Exc,D,0.5 kg,$7.29,$21.87,Excerica,Dark,No
+BAF-42286-205,08-Jun-2022,43074-00987-PB,R-M-2.5,4,Oran Colbeck,ocolbeck4t@sina.com.cn,United States,Rob,M,2.5 kg,$22.89,$91.54,Robica,Medium,No
+WOR-52762-511,14-Dec-2019,04739-85772-QT,E-L-2.5,6,Elysee Sketch,,United States,Exc,L,2.5 kg,$34.16,$204.93,Excerica,Light,Yes
+ZWK-03995-815,10-Apr-2021,28279-78469-YW,E-M-2.5,2,Ethelda Hobbing,ehobbing4v@nsw.gov.au,United States,Exc,M,2.5 kg,$31.63,$63.25,Excerica,Medium,Yes
+CKF-43291-846,10-Mar-2020,91829-99544-DS,E-L-2.5,1,Odille Thynne,othynne4w@auda.org.au,United States,Exc,L,2.5 kg,$34.16,$34.16,Excerica,Light,Yes
+RMW-74160-339,16-Oct-2020,38978-59582-JP,R-L-2.5,4,Emlynne Heining,eheining4x@flickr.com,United States,Rob,L,2.5 kg,$27.49,$109.94,Robica,Light,Yes
+FMT-94584-786,08-Oct-2019,86504-96610-BH,A-L-1,2,Katerina Melloi,kmelloi4y@imdb.com,United States,Ara,L,1.0 kg,$12.95,$25.90,Arabica,Light,No
+NWT-78222-575,31-Dec-2019,75986-98864-EZ,A-D-0.2,1,Tiffany Scardafield,,Ireland,Ara,D,0.2 kg,$2.99,$2.99,Arabica,Dark,No
+EOI-02511-919,20-Mar-2020,66776-88682-RG,E-L-0.2,5,Abrahan Mussen,amussen50@51.la,United States,Exc,L,0.2 kg,$4.46,$22.28,Excerica,Light,No
+EOI-02511-919,20-Mar-2020,66776-88682-RG,A-D-0.5,5,Abrahan Mussen,amussen50@51.la,United States,Ara,D,0.5 kg,$5.97,$29.85,Arabica,Dark,No
+UCT-03935-589,29-Mar-2021,85851-78384-DM,R-D-0.5,6,Anny Mundford,amundford52@nbcnews.com,United States,Rob,D,0.5 kg,$5.37,$32.22,Robica,Dark,No
+SBI-60013-494,12-Nov-2021,55232-81621-BX,E-M-0.2,2,Tory Walas,twalas53@google.ca,United States,Exc,M,0.2 kg,$4.13,$8.25,Excerica,Medium,No
+QRA-73277-814,20-Jul-2021,80310-92912-JA,A-L-0.5,4,Isa Blazewicz,iblazewicz54@thetimes.co.uk,United States,Ara,L,0.5 kg,$7.77,$31.08,Arabica,Light,No
+EQE-31648-909,18-Jan-2019,19821-05175-WZ,E-D-0.5,5,Angie Rizzetti,arizzetti55@naver.com,United States,Exc,D,0.5 kg,$7.29,$36.45,Excerica,Dark,Yes
+QOO-24615-950,07-Aug-2019,01338-83217-GV,R-M-2.5,3,Mord Meriet,mmeriet56@noaa.gov,United States,Rob,M,2.5 kg,$22.89,$68.66,Robica,Medium,No
+WDV-73864-037,13-Mar-2022,66044-25298-TA,L-M-0.5,5,Lawrence Pratt,lpratt57@netvibes.com,United States,Lib,M,0.5 kg,$8.73,$43.65,Librecia,Medium,Yes
+PKR-88575-066,17-May-2022,28728-47861-TZ,E-L-0.2,1,Astrix Kitchingham,akitchingham58@com.com,United States,Exc,L,0.2 kg,$4.46,$4.46,Excerica,Light,Yes
+BWR-85735-955,14-Dec-2019,32638-38620-AX,L-M-1,3,Burnard Bartholin,bbartholin59@xinhuanet.com,United States,Lib,M,1.0 kg,$14.55,$43.65,Librecia,Medium,Yes
+YFX-64795-136,15-Jan-2020,83163-65741-IH,L-M-2.5,1,Madelene Prinn,mprinn5a@usa.gov,United States,Lib,M,2.5 kg,$33.47,$33.47,Librecia,Medium,Yes
+DDO-71442-967,12-Apr-2019,89422-58281-FD,L-D-0.2,5,Alisun Baudino,abaudino5b@netvibes.com,United States,Lib,D,0.2 kg,$3.89,$19.43,Librecia,Dark,Yes
+ILQ-11027-588,29-Mar-2020,76293-30918-DQ,E-D-1,6,Philipa Petrushanko,ppetrushanko5c@blinklist.com,Ireland,Exc,D,1.0 kg,$12.15,$72.90,Excerica,Dark,Yes
+KRZ-13868-122,24-Mar-2022,86779-84838-EJ,E-L-1,3,Kimberli Mustchin,,United States,Exc,L,1.0 kg,$14.85,$44.55,Excerica,Light,No
+VRM-93594-914,21-Jul-2021,66806-41795-MX,E-D-0.5,5,Emlynne Laird,elaird5e@bing.com,United States,Exc,D,0.5 kg,$7.29,$36.45,Excerica,Dark,No
+HXL-22497-359,06-Aug-2019,64875-71224-UI,A-L-1,3,Marlena Howsden,mhowsden5f@infoseek.co.jp,United States,Ara,L,1.0 kg,$12.95,$38.85,Arabica,Light,No
+NOP-21394-646,23-May-2021,16982-35708-BZ,E-L-0.5,6,Nealson Cuttler,ncuttler5g@parallels.com,United States,Exc,L,0.5 kg,$8.91,$53.46,Excerica,Light,No
+NOP-21394-646,23-May-2021,16982-35708-BZ,L-D-2.5,2,Nealson Cuttler,ncuttler5g@parallels.com,United States,Lib,D,2.5 kg,$29.79,$59.57,Librecia,Dark,No
+NOP-21394-646,23-May-2021,16982-35708-BZ,L-D-2.5,3,Nealson Cuttler,ncuttler5g@parallels.com,United States,Lib,D,2.5 kg,$29.79,$89.36,Librecia,Dark,No
+NOP-21394-646,23-May-2021,16982-35708-BZ,L-L-0.5,4,Nealson Cuttler,ncuttler5g@parallels.com,United States,Lib,L,0.5 kg,$9.51,$38.04,Librecia,Light,No
+NOP-21394-646,23-May-2021,16982-35708-BZ,E-M-1,3,Nealson Cuttler,ncuttler5g@parallels.com,United States,Exc,M,1.0 kg,$13.75,$41.25,Excerica,Medium,No
+FTV-77095-168,08-Apr-2021,66708-26678-QK,L-L-0.5,6,Adriana Lazarus,,United States,Lib,L,0.5 kg,$9.51,$57.06,Librecia,Light,No
+BOR-02906-411,17-Oct-2021,08743-09057-OO,L-D-2.5,6,Tallie felip,tfelip5m@typepad.com,United States,Lib,D,2.5 kg,$29.79,$178.71,Librecia,Dark,Yes
+WMP-68847-770,16-Feb-2022,37490-01572-JW,L-L-0.2,1,Vanna Le - Count,vle5n@disqus.com,United States,Lib,L,0.2 kg,$4.76,$4.76,Librecia,Light,No
+TMO-22785-872,15-Jul-2020,01811-60350-CU,E-M-1,6,Sarette Ducarel,,United States,Exc,M,1.0 kg,$13.75,$82.50,Excerica,Medium,No
+TJG-73587-353,22-Feb-2020,24766-58139-GT,R-D-0.2,3,Kendra Glison,,United States,Rob,D,0.2 kg,$2.69,$8.06,Robica,Dark,Yes
+OOU-61343-455,15-Jan-2021,90123-70970-NY,A-M-1,2,Nertie Poolman,npoolman5q@howstuffworks.com,United States,Ara,M,1.0 kg,$11.25,$22.50,Arabica,Medium,No
+RMA-08327-369,11-Jan-2021,93809-05424-MG,A-M-0.5,6,Orbadiah Duny,oduny5r@constantcontact.com,United States,Ara,M,0.5 kg,$6.75,$40.50,Arabica,Medium,Yes
+SFB-97929-779,08-Apr-2022,85425-33494-HQ,E-D-0.5,4,Constance Halfhide,chalfhide5s@google.ru,Ireland,Exc,D,0.5 kg,$7.29,$29.16,Excerica,Dark,Yes
+AUP-10128-606,01-Oct-2020,54387-64897-XC,A-M-0.5,1,Fransisco Malecky,fmalecky5t@list-manage.com,United Kingdom,Ara,M,0.5 kg,$6.75,$6.75,Arabica,Medium,No
+YTW-40242-005,28-Oct-2019,01035-70465-UO,L-D-1,4,Anselma Attwater,aattwater5u@wikia.com,United States,Lib,D,1.0 kg,$12.95,$51.80,Librecia,Dark,Yes
+PRP-53390-819,28-Mar-2021,84260-39432-ML,E-L-0.5,6,Minette Whellans,mwhellans5v@mapquest.com,United States,Exc,L,0.5 kg,$8.91,$53.46,Excerica,Light,No
+GSJ-01065-125,31-Mar-2020,69779-40609-RS,E-D-0.2,4,Dael Camilletti,dcamilletti5w@businesswire.com,United States,Exc,D,0.2 kg,$3.65,$14.58,Excerica,Dark,Yes
+YQU-65147-580,26-Mar-2022,80247-70000-HT,R-D-2.5,1,Emiline Galgey,egalgey5x@wufoo.com,United States,Rob,D,2.5 kg,$20.59,$20.59,Robica,Dark,No
+QPM-95832-683,06-Nov-2019,35058-04550-VC,L-L-1,2,Murdock Hame,mhame5y@newsvine.com,Ireland,Lib,L,1.0 kg,$15.85,$31.70,Librecia,Light,No
+BNQ-88920-567,30-Dec-2019,27226-53717-SY,L-D-0.2,6,Ilka Gurnee,igurnee5z@usnews.com,United States,Lib,D,0.2 kg,$3.89,$23.31,Librecia,Dark,No
+PUX-47906-110,01-Oct-2021,02002-98725-CH,L-M-1,4,Alfy Snowding,asnowding60@comsenz.com,United States,Lib,M,1.0 kg,$14.55,$58.20,Librecia,Medium,Yes
+COL-72079-610,09-Dec-2020,38487-01549-MV,E-L-0.5,4,Godfry Poinsett,gpoinsett61@berkeley.edu,United States,Exc,L,0.5 kg,$8.91,$35.64,Excerica,Light,No
+LBC-45686-819,01-May-2021,98573-41811-EQ,A-M-1,5,Rem Furman,rfurman62@t.co,Ireland,Ara,M,1.0 kg,$11.25,$56.25,Arabica,Medium,Yes
+BLQ-03709-265,04-Aug-2022,72463-75685-MV,R-L-0.2,3,Charis Crosier,ccrosier63@xrea.com,United States,Rob,L,0.2 kg,$3.59,$10.76,Robica,Light,No
+BLQ-03709-265,04-Aug-2022,72463-75685-MV,R-M-0.2,5,Charis Crosier,ccrosier63@xrea.com,United States,Rob,M,0.2 kg,$2.99,$14.93,Robica,Medium,No
+VFZ-91673-181,13-Nov-2021,10225-91535-AI,A-L-1,6,Lenka Rushmer,lrushmer65@europa.eu,United States,Ara,L,1.0 kg,$12.95,$77.70,Arabica,Light,Yes
+WKD-81956-870,16-Sep-2020,48090-06534-HI,L-D-0.5,3,Waneta Edinborough,wedinborough66@github.io,United States,Lib,D,0.5 kg,$7.77,$23.31,Librecia,Dark,No
+TNI-91067-006,05-Oct-2020,80444-58185-FX,E-L-1,4,Bobbe Piggott,,United States,Exc,L,1.0 kg,$14.85,$59.40,Excerica,Light,Yes
+IZA-61469-812,06-Jan-2020,13561-92774-WP,L-D-2.5,4,Ketty Bromehead,kbromehead68@un.org,United States,Lib,D,2.5 kg,$29.79,$119.14,Librecia,Dark,Yes
+PSS-22466-862,21-May-2021,11550-78378-GE,R-L-0.2,4,Elsbeth Westerman,ewesterman69@si.edu,Ireland,Rob,L,0.2 kg,$3.59,$14.34,Robica,Light,No
+REH-56504-397,26-Feb-2020,90961-35603-RP,A-M-2.5,5,Anabelle Hutchens,ahutchens6a@amazonaws.com,United States,Ara,M,2.5 kg,$25.88,$129.38,Arabica,Medium,No
+ALA-62598-016,19-Feb-2020,57145-03803-ZL,R-D-0.2,6,Noak Wyvill,nwyvill6b@naver.com,United Kingdom,Rob,D,0.2 kg,$2.69,$16.11,Robica,Dark,Yes
+EYE-70374-835,29-Jun-2021,89115-11966-VF,R-L-0.2,5,Beltran Mathon,bmathon6c@barnesandnoble.com,United States,Rob,L,0.2 kg,$3.59,$17.93,Robica,Light,No
+CCZ-19589-212,27-Mar-2021,05754-41702-FG,L-M-0.2,2,Kristos Streight,kstreight6d@about.com,United States,Lib,M,0.2 kg,$4.37,$8.73,Librecia,Medium,No
+BPT-83989-157,27-Oct-2021,84269-49816-ML,A-M-2.5,2,Portie Cutchie,pcutchie6e@globo.com,United States,Ara,M,2.5 kg,$25.88,$51.75,Arabica,Medium,No
+YFH-87456-208,12-Jun-2019,23600-98432-ME,L-M-0.2,2,Sinclare Edsell,,United States,Lib,M,0.2 kg,$4.37,$8.73,Librecia,Medium,Yes
+JLN-14700-924,28-Jun-2020,79058-02767-CP,L-L-0.2,5,Conny Gheraldi,cgheraldi6g@opera.com,United Kingdom,Lib,L,0.2 kg,$4.76,$23.78,Librecia,Light,No
+JVW-22582-137,23-Mar-2021,89208-74646-UK,E-M-0.2,5,Beryle Kenwell,bkenwell6h@over-blog.com,United States,Exc,M,0.2 kg,$4.13,$20.63,Excerica,Medium,No
+LAA-41879-001,10-Feb-2022,11408-81032-UR,L-L-2.5,1,Tomas Sutty,tsutty6i@google.es,United States,Lib,L,2.5 kg,$36.46,$36.46,Librecia,Light,No
+BRV-64870-915,16-Apr-2019,32070-55528-UG,L-L-2.5,5,Samuele Ales0,,Ireland,Lib,L,2.5 kg,$36.46,$182.28,Librecia,Light,No
+RGJ-12544-083,12-Feb-2020,48873-84433-PN,L-D-2.5,3,Carlie Harce,charce6k@cafepress.com,Ireland,Lib,D,2.5 kg,$29.79,$89.36,Librecia,Dark,No
+JJX-83339-346,02-Jan-2022,32928-18158-OW,R-L-0.2,1,Craggy Bril,,United States,Rob,L,0.2 kg,$3.59,$3.59,Robica,Light,Yes
+BIU-21970-705,07-Dec-2020,89711-56688-GG,R-M-2.5,2,Friederike Drysdale,fdrysdale6m@symantec.com,United States,Rob,M,2.5 kg,$22.89,$45.77,Robica,Medium,Yes
+ELJ-87741-745,20-Feb-2020,48389-71976-JB,E-L-1,4,Devon Magowan,dmagowan6n@fc2.com,United States,Exc,L,1.0 kg,$14.85,$59.40,Excerica,Light,No
+SGI-48226-857,11-Jun-2020,84033-80762-EQ,A-M-2.5,6,Codi Littrell,,United States,Ara,M,2.5 kg,$25.88,$155.25,Arabica,Medium,Yes
+AHV-66988-037,08-Sep-2020,12743-00952-KO,R-M-2.5,2,Christel Speak,,United States,Rob,M,2.5 kg,$22.89,$45.77,Robica,Medium,No
+ISK-42066-094,28-Mar-2020,41505-42181-EF,E-D-1,3,Sibella Rushbrooke,srushbrooke6q@youku.com,United States,Exc,D,1.0 kg,$12.15,$36.45,Excerica,Dark,Yes
+FTC-35822-530,10-Oct-2020,14307-87663-KB,E-D-0.5,4,Tammie Drynan,tdrynan6r@deviantart.com,United States,Exc,D,0.5 kg,$7.29,$29.16,Excerica,Dark,Yes
+VSS-56247-688,21-May-2022,08360-19442-GB,L-M-2.5,4,Effie Yurkov,eyurkov6s@hud.gov,United States,Lib,M,2.5 kg,$33.47,$133.86,Librecia,Medium,No
+HVW-25584-144,30-Apr-2020,93405-51204-UW,L-L-0.2,5,Lexie Mallan,lmallan6t@state.gov,United States,Lib,L,0.2 kg,$4.76,$23.78,Librecia,Light,Yes
+MUY-15309-209,12-Dec-2021,97152-03355-IW,L-D-1,3,Georgena Bentjens,gbentjens6u@netlog.com,United Kingdom,Lib,D,1.0 kg,$12.95,$38.85,Librecia,Dark,No
+VAJ-44572-469,27-Oct-2020,79216-73157-TE,R-L-0.2,6,Delmar Beasant,,Ireland,Rob,L,0.2 kg,$3.59,$21.51,Robica,Light,Yes
+YJU-84377-606,07-Jul-2020,20259-47723-AC,A-D-1,1,Lyn Entwistle,lentwistle6w@omniture.com,United States,Ara,D,1.0 kg,$9.95,$9.95,Arabica,Dark,Yes
+VNC-93921-469,31-Jan-2020,04666-71569-RI,L-L-1,1,Zacharias Kiffe,zkiffe74@cyberchimps.com,United States,Lib,L,1.0 kg,$15.85,$15.85,Librecia,Light,Yes
+OGB-91614-810,18-Feb-2020,08909-77713-CG,R-M-0.2,1,Mercedes Acott,macott6y@pagesperso-orange.fr,United States,Rob,M,0.2 kg,$2.99,$2.99,Robica,Medium,Yes
+BQI-61647-496,13-Jun-2021,84340-73931-VV,E-M-1,5,Connor Heaviside,cheaviside6z@rediff.com,United States,Exc,M,1.0 kg,$13.75,$68.75,Excerica,Medium,Yes
+IOM-51636-823,06-Aug-2022,04609-95151-XH,A-D-1,3,Devy Bulbrook,,United States,Ara,D,1.0 kg,$9.95,$29.85,Arabica,Dark,No
+GGD-38107-641,23-Nov-2021,99562-88650-YF,L-M-1,4,Leia Kernan,lkernan71@wsj.com,United States,Lib,M,1.0 kg,$14.55,$58.20,Librecia,Medium,No
+LTO-95975-728,13-Oct-2021,46560-73885-PJ,R-L-0.5,4,Rosaline McLae,rmclae72@dailymotion.com,United Kingdom,Rob,L,0.5 kg,$7.17,$28.68,Robica,Light,No
+IGM-84664-265,31-Aug-2021,80179-44620-WN,R-L-0.5,3,Cleve Blowfelde,cblowfelde73@ustream.tv,United States,Rob,L,0.5 kg,$7.17,$21.51,Robica,Light,No
+SKO-45740-621,16-Jan-2020,04666-71569-RI,L-M-0.5,2,Zacharias Kiffe,zkiffe74@cyberchimps.com,United States,Lib,M,0.5 kg,$8.73,$17.46,Librecia,Medium,Yes
+FOJ-02234-063,25-Apr-2022,59081-87231-VP,E-D-2.5,1,Denyse O'Calleran,docalleran75@ucla.edu,United States,Exc,D,2.5 kg,$27.95,$27.95,Excerica,Dark,Yes
+MSJ-11909-468,13-Nov-2021,07878-45872-CC,E-D-2.5,5,Cobby Cromwell,ccromwell76@desdev.cn,United States,Exc,D,2.5 kg,$27.95,$139.73,Excerica,Dark,No
+DKB-78053-329,08-Jun-2021,12444-05174-OO,R-M-0.2,2,Irv Hay,ihay77@lulu.com,United Kingdom,Rob,M,0.2 kg,$2.99,$5.97,Robica,Medium,No
+DFZ-45083-941,21-Nov-2020,34665-62561-AU,R-L-2.5,1,Tani Taffarello,ttaffarello78@sciencedaily.com,United States,Rob,L,2.5 kg,$27.49,$27.49,Robica,Light,Yes
+OTA-40969-710,14-Mar-2019,77877-11993-QH,R-L-1,5,Monique Canty,mcanty79@jigsy.com,United States,Rob,L,1.0 kg,$11.95,$59.75,Robica,Light,Yes
+GRH-45571-667,16-Aug-2019,32291-18308-YZ,E-M-1,3,Javier Kopke,jkopke7a@auda.org.au,United States,Exc,M,1.0 kg,$13.75,$41.25,Excerica,Medium,No
+NXV-05302-067,22-Apr-2019,25754-33191-ZI,L-M-2.5,4,Mar McIver,,United States,Lib,M,2.5 kg,$33.47,$133.86,Librecia,Medium,No
+VZH-86274-142,02-May-2022,53120-45532-KL,R-L-1,5,Arabella Fransewich,,Ireland,Rob,L,1.0 kg,$11.95,$59.75,Robica,Light,Yes
+KIX-93248-135,11-Feb-2020,36605-83052-WB,A-D-0.5,1,Violette Hellmore,vhellmore7d@bbc.co.uk,United States,Ara,D,0.5 kg,$5.97,$5.97,Arabica,Dark,Yes
+AXR-10962-010,28-Mar-2021,53683-35977-KI,E-D-1,2,Myles Seawright,mseawright7e@nbcnews.com,United Kingdom,Exc,D,1.0 kg,$12.15,$24.30,Excerica,Dark,No
+IHS-71573-008,08-May-2021,07972-83134-NM,E-D-0.2,6,Silvana Northeast,snortheast7f@mashable.com,United States,Exc,D,0.2 kg,$3.65,$21.87,Excerica,Dark,Yes
+QTR-19001-114,21-Nov-2019,01035-70465-UO,A-D-1,2,Anselma Attwater,aattwater5u@wikia.com,United States,Ara,D,1.0 kg,$9.95,$19.90,Arabica,Dark,Yes
+WBK-62297-910,17-May-2021,25514-23938-IQ,A-D-0.2,2,Monica Fearon,mfearon7h@reverbnation.com,United States,Ara,D,0.2 kg,$2.99,$5.97,Arabica,Dark,No
+OGY-19377-175,09-Jul-2019,49084-44492-OJ,E-D-0.5,1,Barney Chisnell,,Ireland,Exc,D,0.5 kg,$7.29,$7.29,Excerica,Dark,Yes
+ESR-66651-814,20-May-2020,76624-72205-CK,A-D-0.2,4,Jasper Sisneros,jsisneros7j@a8.net,United States,Ara,D,0.2 kg,$2.99,$11.94,Arabica,Dark,Yes
+CPX-46916-770,27-Aug-2021,12729-50170-JE,R-L-1,6,Zachariah Carlson,zcarlson7k@bigcartel.com,Ireland,Rob,L,1.0 kg,$11.95,$71.70,Robica,Light,Yes
+MDC-03318-645,30-Apr-2022,43974-44760-QI,A-L-0.2,2,Warner Maddox,wmaddox7l@timesonline.co.uk,United States,Ara,L,0.2 kg,$3.89,$7.77,Arabica,Light,No
+SFF-86059-407,03-Jun-2020,30585-48726-BK,A-M-2.5,1,Donnie Hedlestone,dhedlestone7m@craigslist.org,United States,Ara,M,2.5 kg,$25.88,$25.88,Arabica,Medium,No
+SCL-94540-788,13-Jun-2022,16123-07017-TY,E-L-2.5,6,Teddi Crowthe,tcrowthe7n@europa.eu,United States,Exc,L,2.5 kg,$34.16,$204.93,Excerica,Light,No
+HVU-21634-076,10-Jun-2020,27723-45097-MH,R-L-2.5,4,Dorelia Bury,dbury7o@tinyurl.com,Ireland,Rob,L,2.5 kg,$27.49,$109.94,Robica,Light,Yes
+XUS-73326-418,18-Dec-2020,37078-56703-AF,E-L-1,6,Gussy Broadbear,gbroadbear7p@omniture.com,United States,Exc,L,1.0 kg,$14.85,$89.10,Excerica,Light,No
+XWD-18933-006,31-Aug-2019,79420-11075-MY,A-L-0.2,2,Emlynne Palfrey,epalfrey7q@devhub.com,United States,Ara,L,0.2 kg,$3.89,$7.77,Arabica,Light,Yes
+HPD-65272-772,25-Feb-2019,57504-13456-UO,L-M-2.5,1,Parsifal Metrick,pmetrick7r@rakuten.co.jp,United States,Lib,M,2.5 kg,$33.47,$33.47,Librecia,Medium,Yes
+JEG-93140-224,07-Feb-2021,53751-57560-CN,E-M-0.5,5,Christopher Grieveson,,United States,Exc,M,0.5 kg,$8.25,$41.25,Excerica,Medium,Yes
+NNH-62058-950,14-Jan-2021,96112-42558-EA,E-L-1,4,Karlan Karby,kkarby7t@sbwire.com,United States,Exc,L,1.0 kg,$14.85,$59.40,Excerica,Light,Yes
+LTD-71429-845,24-Feb-2019,03157-23165-UB,A-L-0.5,1,Flory Crumpe,fcrumpe7u@ftc.gov,United Kingdom,Ara,L,0.5 kg,$7.77,$7.77,Arabica,Light,No
+MPV-26985-215,23-Jun-2019,51466-52850-AG,R-D-0.5,1,Amity Chatto,achatto7v@sakura.ne.jp,United Kingdom,Rob,D,0.5 kg,$5.37,$5.37,Robica,Dark,Yes
+IYO-10245-081,09-May-2020,57145-31023-FK,E-M-2.5,3,Nanine McCarthy,,United States,Exc,M,2.5 kg,$31.63,$94.88,Excerica,Medium,No
+BYZ-39669-954,18-Jul-2020,66408-53777-VE,L-L-2.5,1,Lyndsey Megany,,United States,Lib,L,2.5 kg,$36.46,$36.46,Librecia,Light,No
+EFB-72860-209,17-Oct-2019,53035-99701-WG,A-M-0.2,4,Byram Mergue,bmergue7y@umn.edu,United States,Ara,M,0.2 kg,$3.38,$13.50,Arabica,Medium,Yes
+GMM-72397-378,16-May-2022,45899-92796-EI,R-L-0.2,4,Kerr Patise,kpatise7z@jigsy.com,United States,Rob,L,0.2 kg,$3.59,$14.34,Robica,Light,No
+LYP-52345-883,24-Mar-2021,17649-28133-PY,E-M-0.5,1,Mathew Goulter,,Ireland,Exc,M,0.5 kg,$8.25,$8.25,Excerica,Medium,Yes
+DFK-35846-692,03-Nov-2019,49612-33852-CN,R-D-0.2,5,Marris Grcic,,United States,Rob,D,0.2 kg,$2.69,$13.43,Robica,Dark,Yes
+XAH-93337-609,28-Oct-2021,66976-43829-YG,A-D-1,5,Domeniga Duke,dduke82@vkontakte.ru,United States,Ara,D,1.0 kg,$9.95,$49.75,Arabica,Dark,No
+QKA-72582-644,16-Dec-2020,64852-04619-XZ,E-M-0.5,2,Violante Skouling,,Ireland,Exc,M,0.5 kg,$8.25,$16.50,Excerica,Medium,No
+ZDK-84567-102,29-Nov-2021,58690-31815-VY,A-D-0.5,3,Isidore Hussey,ihussey84@mapy.cz,United States,Ara,D,0.5 kg,$5.97,$17.91,Arabica,Dark,No
+WAV-38301-984,20-Mar-2021,62863-81239-DT,A-D-0.5,5,Cassie Pinkerton,cpinkerton85@upenn.edu,United States,Ara,D,0.5 kg,$5.97,$29.85,Arabica,Dark,No
+KZR-33023-209,08-Apr-2022,21177-40725-CF,E-L-1,3,Micki Fero,,United States,Exc,L,1.0 kg,$14.85,$44.55,Excerica,Light,No
+ULM-49433-003,14-Aug-2020,99421-80253-UI,E-M-1,2,Cybill Graddell,,United States,Exc,M,1.0 kg,$13.75,$27.50,Excerica,Medium,No
+SIB-83254-136,12-May-2019,45315-50206-DK,R-M-0.5,6,Dorian Vizor,dvizor88@furl.net,United States,Rob,M,0.5 kg,$5.97,$35.82,Robica,Medium,Yes
+NOK-50349-551,03-Mar-2021,09595-95726-OV,R-D-0.5,3,Eddi Sedgebeer,esedgebeer89@oaic.gov.au,United States,Rob,D,0.5 kg,$5.37,$16.11,Robica,Dark,Yes
+YIS-96268-844,11-Feb-2020,60221-67036-TD,E-L-0.2,6,Ken Lestrange,klestrange8a@lulu.com,United States,Exc,L,0.2 kg,$4.46,$26.73,Excerica,Light,Yes
+CXI-04933-855,27-Apr-2019,62923-29397-KX,E-L-2.5,6,Lacee Tanti,ltanti8b@techcrunch.com,United States,Exc,L,2.5 kg,$34.16,$204.93,Excerica,Light,Yes
+IZU-90429-382,26-Mar-2022,33011-52383-BA,A-L-1,3,Arel De Lasci,ade8c@1und1.de,United States,Ara,L,1.0 kg,$12.95,$38.85,Arabica,Light,Yes
+WIT-40912-783,28-Sep-2020,86768-91598-FA,L-D-0.2,4,Trescha Jedrachowicz,tjedrachowicz8d@acquirethisname.com,United States,Lib,D,0.2 kg,$3.89,$15.54,Librecia,Dark,Yes
+PSD-57291-590,24-Oct-2019,37191-12203-MX,A-M-0.5,1,Perkin Stonner,pstonner8e@moonfruit.com,United States,Ara,M,0.5 kg,$6.75,$6.75,Arabica,Medium,No
+GOI-41472-677,04-Aug-2021,16545-76328-JY,E-D-2.5,4,Darrin Tingly,dtingly8f@goo.ne.jp,United States,Exc,D,2.5 kg,$27.95,$111.78,Excerica,Dark,Yes
+KTX-17944-494,29-Dec-2019,74330-29286-RO,A-L-0.2,1,Claudetta Rushe,crushe8n@about.me,United States,Ara,L,0.2 kg,$3.89,$3.89,Arabica,Light,Yes
+RDM-99811-230,27-Nov-2019,22349-47389-GY,L-M-0.2,5,Benn Checci,bchecci8h@usa.gov,United Kingdom,Lib,M,0.2 kg,$4.37,$21.83,Librecia,Medium,No
+JTU-55897-581,29-Feb-2020,70290-38099-GB,R-M-0.2,5,Janifer Bagot,jbagot8i@mac.com,United States,Rob,M,0.2 kg,$2.99,$14.93,Robica,Medium,No
+CRK-07584-240,31-Jan-2021,18741-72071-PP,A-M-1,3,Ermin Beeble,ebeeble8j@soundcloud.com,United States,Ara,M,1.0 kg,$11.25,$33.75,Arabica,Medium,Yes
+MKE-75518-399,17-Jun-2022,62588-82624-II,A-M-1,3,Cos Fluin,cfluin8k@flickr.com,United Kingdom,Ara,M,1.0 kg,$11.25,$33.75,Arabica,Medium,No
+AEL-51169-725,03-Feb-2020,37430-29579-HD,L-M-0.2,6,Eveleen Bletsor,ebletsor8l@vinaora.com,United States,Lib,M,0.2 kg,$4.37,$26.19,Librecia,Medium,Yes
+ZGM-83108-823,25-Jan-2022,84132-22322-QT,E-L-1,1,Paola Brydell,pbrydell8m@bloglovin.com,Ireland,Exc,L,1.0 kg,$14.85,$14.85,Excerica,Light,No
+JBP-78754-392,30-Apr-2020,74330-29286-RO,E-M-2.5,6,Claudetta Rushe,crushe8n@about.me,United States,Exc,M,2.5 kg,$31.63,$189.75,Excerica,Medium,Yes
+RNH-54912-747,01-May-2021,37445-17791-NQ,R-M-0.5,1,Natka Leethem,nleethem8o@mac.com,United States,Rob,M,0.5 kg,$5.97,$5.97,Robica,Medium,Yes
+JDS-33440-914,28-Oct-2021,58511-10548-ZU,R-M-1,3,Ailene Nesfield,anesfield8p@people.com.cn,United Kingdom,Rob,M,1.0 kg,$9.95,$29.85,Robica,Medium,Yes
+SYX-48878-182,29-Aug-2021,47725-34771-FJ,R-D-1,5,Stacy Pickworth,,United States,Rob,D,1.0 kg,$8.95,$44.75,Robica,Dark,No
+ZGD-94763-868,27-Dec-2019,53086-67334-KT,E-L-2.5,1,Melli Brockway,mbrockway8r@ibm.com,United States,Exc,L,2.5 kg,$34.16,$34.16,Excerica,Light,Yes
+CZY-70361-485,25-Jun-2019,83308-82257-UN,E-L-2.5,6,Nanny Lush,nlush8s@dedecms.com,Ireland,Exc,L,2.5 kg,$34.16,$204.93,Excerica,Light,No
+RJR-12175-899,02-Mar-2019,37274-08534-FM,E-D-0.5,3,Selma McMillian,smcmillian8t@csmonitor.com,United States,Exc,D,0.5 kg,$7.29,$21.87,Excerica,Dark,No
+ELB-07929-407,02-Jan-2022,54004-04664-AA,A-M-2.5,2,Tess Bennison,tbennison8u@google.cn,United States,Ara,M,2.5 kg,$25.88,$51.75,Arabica,Medium,Yes
+UJQ-54441-340,30-Jul-2019,26822-19510-SD,E-M-0.2,2,Gabie Tweed,gtweed8v@yolasite.com,United States,Exc,M,0.2 kg,$4.13,$8.25,Excerica,Medium,Yes
+UJQ-54441-340,30-Jul-2019,26822-19510-SD,A-L-0.2,5,Gabie Tweed,gtweed8v@yolasite.com,United States,Ara,L,0.2 kg,$3.89,$19.43,Arabica,Light,Yes
+OWY-43108-475,05-Dec-2020,06432-73165-ML,A-M-0.2,6,Gaile Goggin,ggoggin8x@wix.com,Ireland,Ara,M,0.2 kg,$3.38,$20.25,Arabica,Medium,Yes
+GNO-91911-159,17-Dec-2020,96503-31833-CW,L-D-0.5,3,Skylar Jeyness,sjeyness8y@biglobe.ne.jp,Ireland,Lib,D,0.5 kg,$7.77,$23.31,Librecia,Dark,No
+CNY-06284-066,26-Jun-2021,63985-64148-MG,E-D-0.2,5,Donica Bonhome,dbonhome8z@shinystat.com,United States,Exc,D,0.2 kg,$3.65,$18.23,Excerica,Dark,Yes
+OQS-46321-904,20-Jul-2019,19597-91185-CM,E-M-1,1,Diena Peetermann,,United States,Exc,M,1.0 kg,$13.75,$13.75,Excerica,Medium,No
+IBW-87442-480,14-Jul-2022,79814-23626-JR,A-L-2.5,1,Trina Le Sarr,tle91@epa.gov,United States,Ara,L,2.5 kg,$29.79,$29.79,Arabica,Light,Yes
+DGZ-82537-477,14-Aug-2020,43439-94003-DW,R-D-1,5,Flynn Antony,,United States,Rob,D,1.0 kg,$8.95,$44.75,Robica,Dark,No
+LPS-39089-432,24-Apr-2019,97655-45555-LI,R-D-1,5,Baudoin Alldridge,balldridge93@yandex.ru,United States,Rob,D,1.0 kg,$8.95,$44.75,Robica,Dark,Yes
+MQU-86100-929,04-Jun-2019,64418-01720-VW,L-L-0.5,4,Homer Dulany,,United States,Lib,L,0.5 kg,$9.51,$38.04,Librecia,Light,Yes
+XUR-14132-391,08-Aug-2022,96836-09258-RI,R-D-0.5,4,Lisa Goodger,lgoodger95@guardian.co.uk,United States,Rob,D,0.5 kg,$5.37,$21.48,Robica,Dark,Yes
+OVI-27064-381,13-Nov-2019,37274-08534-FM,R-D-0.5,3,Selma McMillian,smcmillian8t@csmonitor.com,United States,Rob,D,0.5 kg,$5.37,$16.11,Robica,Dark,No
+SHP-17012-870,07-Jun-2020,69529-07533-CV,R-M-2.5,1,Corine Drewett,cdrewett97@wikipedia.org,United States,Rob,M,2.5 kg,$22.89,$22.89,Robica,Medium,Yes
+FDY-03414-903,12-Aug-2019,94840-49457-UD,A-D-0.5,3,Quinn Parsons,qparsons98@blogtalkradio.com,United States,Ara,D,0.5 kg,$5.97,$17.91,Arabica,Dark,Yes
+WXT-85291-143,04-Sep-2019,81414-81273-DK,R-M-0.5,4,Vivyan Ceely,vceely99@auda.org.au,United States,Rob,M,0.5 kg,$5.97,$23.88,Robica,Medium,Yes
+QNP-18893-547,04-Oct-2019,76930-61689-CH,R-L-1,5,Elonore Goodings,,United States,Rob,L,1.0 kg,$11.95,$59.75,Robica,Light,No
+DOH-92927-530,24-Feb-2020,12839-56537-TQ,L-L-0.2,6,Clement Vasiliev,cvasiliev9b@discuz.net,United States,Lib,L,0.2 kg,$4.76,$28.53,Librecia,Light,Yes
+HGJ-82768-173,26-Aug-2021,62741-01322-HU,A-M-1,4,Terencio O'Moylan,tomoylan9c@liveinternet.ru,United Kingdom,Ara,M,1.0 kg,$11.25,$45.00,Arabica,Medium,No
+YPT-95383-088,03-Oct-2021,43439-94003-DW,E-D-2.5,2,Flynn Antony,,United States,Exc,D,2.5 kg,$27.95,$55.89,Excerica,Dark,No
+OYH-16533-767,13-Jun-2020,44932-34838-RM,E-L-1,4,Wyatan Fetherston,wfetherston9e@constantcontact.com,United States,Exc,L,1.0 kg,$14.85,$59.40,Excerica,Light,No
+DWW-28642-549,01-Mar-2021,91181-19412-RQ,E-D-0.2,2,Emmaline Rasmus,erasmus9f@techcrunch.com,United States,Exc,D,0.2 kg,$3.65,$7.29,Excerica,Dark,Yes
+CGO-79583-871,04-Mar-2019,37182-54930-XC,E-D-0.5,1,Wesley Giorgioni,wgiorgioni9g@wikipedia.org,United States,Exc,D,0.5 kg,$7.29,$7.29,Excerica,Dark,Yes
+TFY-52090-386,13-Oct-2019,08613-17327-XT,E-L-0.5,2,Lucienne Scargle,lscargle9h@myspace.com,United States,Exc,L,0.5 kg,$8.91,$17.82,Excerica,Light,No
+TFY-52090-386,13-Oct-2019,08613-17327-XT,L-D-0.5,5,Lucienne Scargle,lscargle9h@myspace.com,United States,Lib,D,0.5 kg,$7.77,$38.85,Librecia,Dark,No
+NYY-73968-094,15-Aug-2019,70451-38048-AH,R-D-0.5,6,Noam Climance,nclimance9j@europa.eu,United States,Rob,D,0.5 kg,$5.37,$32.22,Robica,Dark,No
+QEY-71761-460,29-Nov-2021,35442-75769-PL,R-M-1,2,Catarina Donn,,Ireland,Rob,M,1.0 kg,$9.95,$19.90,Robica,Medium,Yes
+GKQ-82603-910,19-Jan-2020,83737-56117-JE,R-L-1,5,Ameline Snazle,asnazle9l@oracle.com,United States,Rob,L,1.0 kg,$11.95,$59.75,Robica,Light,No
+IOB-32673-745,28-May-2021,07095-81281-NJ,A-L-0.5,3,Rebeka Worg,rworg9m@arstechnica.com,United States,Ara,L,0.5 kg,$7.77,$23.31,Arabica,Light,Yes
+YAU-98893-150,15-Jan-2022,77043-48851-HG,L-M-1,3,Lewes Danes,ldanes9n@umn.edu,United States,Lib,M,1.0 kg,$14.55,$43.65,Librecia,Medium,No
+XNM-14163-951,04-Dec-2019,78224-60622-KH,E-L-2.5,6,Shelli Keynd,skeynd9o@narod.ru,United States,Exc,L,2.5 kg,$34.16,$204.93,Excerica,Light,No
+JPB-45297-000,01-Jul-2022,83105-86631-IU,R-L-0.2,4,Dell Daveridge,ddaveridge9p@arstechnica.com,United States,Rob,L,0.2 kg,$3.59,$14.34,Robica,Light,No
+MOU-74341-266,07-May-2019,99358-65399-TC,A-D-0.5,4,Joshuah Awdry,jawdry9q@utexas.edu,United States,Ara,D,0.5 kg,$5.97,$23.88,Arabica,Dark,No
+DHJ-87461-571,23-Aug-2020,94525-76037-JP,A-M-1,2,Ethel Ryles,eryles9r@fastcompany.com,United States,Ara,M,1.0 kg,$11.25,$22.50,Arabica,Medium,No
+DKM-97676-850,02-Jun-2020,43439-94003-DW,E-D-0.5,5,Flynn Antony,bmcamish2e@tripadvisor.com,United States,Exc,D,0.5 kg,$7.29,$36.45,Excerica,Dark,No
+UEB-09112-118,30-Jan-2020,82718-93677-XO,A-M-0.5,4,Maitilde Boxill,,United States,Ara,M,0.5 kg,$6.75,$27.00,Arabica,Medium,Yes
+ORZ-67699-748,15-Feb-2020,44708-78241-DF,A-M-2.5,6,Jodee Caldicott,jcaldicott9u@usda.gov,United States,Ara,M,2.5 kg,$25.88,$155.25,Arabica,Medium,No
+JXP-28398-485,11-Jun-2021,23039-93032-FN,A-D-2.5,5,Marianna Vedmore,mvedmore9v@a8.net,United States,Ara,D,2.5 kg,$22.89,$114.43,Arabica,Dark,Yes
+WWH-92259-198,11-Mar-2022,35256-12529-FT,L-D-1,4,Willey Romao,wromao9w@chronoengine.com,United States,Lib,D,1.0 kg,$12.95,$51.80,Librecia,Dark,Yes
+FLR-82914-153,09-Sep-2021,86100-33488-WP,A-M-2.5,6,Enriqueta Ixor,,United States,Ara,M,2.5 kg,$25.88,$155.25,Arabica,Medium,No
+AMB-93600-000,14-May-2019,64435-53100-WM,A-L-2.5,1,Tomasina Cotmore,tcotmore9y@amazonaws.com,United States,Ara,L,2.5 kg,$29.79,$29.79,Arabica,Light,No
+FEP-36895-658,08-Apr-2019,44699-43836-UH,R-L-0.2,6,Yuma Skipsey,yskipsey9z@spotify.com,United Kingdom,Rob,L,0.2 kg,$3.59,$21.51,Robica,Light,No
+RXW-91413-276,15-Aug-2020,29588-35679-RG,R-D-2.5,2,Nicko Corps,ncorpsa0@gmpg.org,United States,Rob,D,2.5 kg,$20.59,$41.17,Robica,Dark,No
+RXW-91413-276,15-Aug-2020,29588-35679-RG,R-M-0.5,1,Nicko Corps,ncorpsa0@gmpg.org,United States,Rob,M,0.5 kg,$5.97,$5.97,Robica,Medium,No
+SDB-77492-188,05-May-2022,64815-54078-HH,E-L-1,5,Feliks Babber,fbabbera2@stanford.edu,United States,Exc,L,1.0 kg,$14.85,$74.25,Excerica,Light,Yes
+RZN-65182-395,27-Mar-2021,59572-41990-XY,L-M-1,6,Kaja Loxton,kloxtona3@opensource.org,United States,Lib,M,1.0 kg,$14.55,$87.30,Librecia,Medium,No
+HDQ-86094-507,27-Apr-2019,32481-61533-ZJ,E-D-1,6,Parker Tofful,ptoffula4@posterous.com,United States,Exc,D,1.0 kg,$12.15,$72.90,Excerica,Dark,Yes
+YXO-79631-417,25-Sep-2021,31587-92570-HL,L-D-0.5,1,Casi Gwinnett,cgwinnetta5@behance.net,United States,Lib,D,0.5 kg,$7.77,$7.77,Librecia,Dark,No
+SNF-57032-096,13-Feb-2020,93832-04799-ID,E-D-0.5,6,Saree Ellesworth,,United States,Exc,D,0.5 kg,$7.29,$43.74,Excerica,Dark,No
+DGL-29648-995,16-Jul-2021,59367-30821-ZQ,L-M-0.2,2,Silvio Iorizzi,,United States,Lib,M,0.2 kg,$4.37,$8.73,Librecia,Medium,Yes
+GPU-65651-504,11-May-2022,83947-45528-ET,E-M-2.5,2,Leesa Flaonier,lflaoniera8@wordpress.org,United States,Exc,M,2.5 kg,$31.63,$63.25,Excerica,Medium,No
+OJU-34452-896,04-Feb-2019,60799-92593-CX,E-L-0.5,1,Abba Pummell,,United States,Exc,L,0.5 kg,$8.91,$8.91,Excerica,Light,Yes
+GZS-50547-887,05-Feb-2019,61600-55136-UM,E-D-1,2,Corinna Catcheside,ccatchesideaa@macromedia.com,United States,Exc,D,1.0 kg,$12.15,$24.30,Excerica,Dark,Yes
+ESR-54041-053,24-May-2022,59771-90302-OF,A-L-0.5,6,Cortney Gibbonson,cgibbonsonab@accuweather.com,United States,Ara,L,0.5 kg,$7.77,$46.62,Arabica,Light,Yes
+OGD-10781-526,04-Oct-2020,16880-78077-FB,R-L-0.5,6,Terri Farra,tfarraac@behance.net,United States,Rob,L,0.5 kg,$7.17,$43.02,Robica,Light,No
+FVH-29271-315,30-Jun-2022,74415-50873-FC,A-D-0.5,3,Corney Curme,,Ireland,Ara,D,0.5 kg,$5.97,$17.91,Arabica,Dark,Yes
+BNZ-20544-633,21-Oct-2020,31798-95707-NR,L-L-0.5,4,Gothart Bamfield,gbamfieldae@yellowpages.com,United States,Lib,L,0.5 kg,$9.51,$38.04,Librecia,Light,Yes
+FUX-85791-078,16-Oct-2020,59122-08794-WT,A-M-0.2,2,Waylin Hollingdale,whollingdaleaf@about.me,United States,Ara,M,0.2 kg,$3.38,$6.75,Arabica,Medium,Yes
+YXP-20078-116,23-Sep-2020,37238-52421-JJ,R-M-0.5,1,Judd De Leek,jdeag@xrea.com,United States,Rob,M,0.5 kg,$5.97,$5.97,Robica,Medium,Yes
+VQV-59984-866,08-Mar-2019,48854-01899-FN,R-D-0.2,3,Vanya Skullet,vskulletah@tinyurl.com,Ireland,Rob,D,0.2 kg,$2.69,$8.06,Robica,Dark,No
+JEH-37276-048,30-Jun-2021,80896-38819-DW,A-L-0.5,3,Jany Rudeforth,jrudeforthai@wunderground.com,Ireland,Ara,L,0.5 kg,$7.77,$23.31,Arabica,Light,Yes
+VYD-28555-589,13-Aug-2019,29814-01459-RC,R-L-0.5,6,Ashbey Tomaszewski,atomaszewskiaj@answers.com,United Kingdom,Rob,L,0.5 kg,$7.17,$43.02,Robica,Light,Yes
+WUG-76466-650,22-Feb-2021,43439-94003-DW,L-D-0.5,3,Flynn Antony,,United States,Lib,D,0.5 kg,$7.77,$23.31,Librecia,Dark,No
+RJV-08261-583,26-Mar-2022,48497-29281-FE,A-D-0.2,5,Pren Bess,pbessal@qq.com,United States,Ara,D,0.2 kg,$2.99,$14.93,Arabica,Dark,Yes
+PMR-56062-609,10-Jan-2020,43605-12616-YH,E-D-0.5,3,Elka Windress,ewindressam@marketwatch.com,United States,Exc,D,0.5 kg,$7.29,$21.87,Excerica,Dark,No
+XLD-12920-505,01-May-2019,21907-75962-VB,E-L-0.5,6,Marty Kidstoun,,United States,Exc,L,0.5 kg,$8.91,$53.46,Excerica,Light,Yes
+UBW-50312-037,09-Feb-2020,69503-12127-YD,A-L-2.5,4,Nickey Dimbleby,,United States,Ara,L,2.5 kg,$29.79,$119.14,Arabica,Light,No
+QAW-05889-019,29-Dec-2021,68810-07329-EU,L-M-0.5,5,Virgil Baumadier,vbaumadierap@google.cn,United States,Lib,M,0.5 kg,$8.73,$43.65,Librecia,Medium,Yes
+EPT-12715-397,09-Sep-2020,08478-75251-OG,A-D-0.2,6,Lenore Messenbird,,United States,Ara,D,0.2 kg,$2.99,$17.91,Arabica,Dark,Yes
+DHT-93810-053,16-Sep-2021,17005-82030-EA,E-L-1,5,Shirleen Welds,sweldsar@wired.com,United States,Exc,L,1.0 kg,$14.85,$74.25,Excerica,Light,Yes
+DMY-96037-963,26-Oct-2020,42179-95059-DO,L-D-0.2,3,Maisie Sarvar,msarvaras@artisteer.com,United States,Lib,D,0.2 kg,$3.89,$11.66,Librecia,Dark,Yes
+MBM-55936-917,12-Mar-2019,55989-39849-WO,L-D-0.5,3,Andrej Havick,ahavickat@nsw.gov.au,United States,Lib,D,0.5 kg,$7.77,$23.31,Librecia,Dark,Yes
+TPA-93614-840,18-Feb-2021,28932-49296-TM,E-D-0.5,2,Sloan Diviny,sdivinyau@ask.com,United States,Exc,D,0.5 kg,$7.29,$14.58,Excerica,Dark,Yes
+WDM-77521-710,29-Oct-2020,86144-10144-CB,A-M-0.5,2,Itch Norquoy,inorquoyav@businessweek.com,United States,Ara,M,0.5 kg,$6.75,$13.50,Arabica,Medium,No
+EIP-19142-462,06-Sep-2021,60973-72562-DQ,E-L-1,6,Anson Iddison,aiddisonaw@usa.gov,United States,Exc,L,1.0 kg,$14.85,$89.10,Excerica,Light,No
+EIP-19142-462,06-Sep-2021,60973-72562-DQ,A-L-0.2,1,Anson Iddison,aiddisonaw@usa.gov,United States,Ara,L,0.2 kg,$3.89,$3.89,Arabica,Light,No
+ZZL-76364-387,09-Sep-2020,11263-86515-VU,R-L-2.5,4,Randal Longfield,rlongfielday@bluehost.com,United States,Rob,L,2.5 kg,$27.49,$109.94,Robica,Light,No
+GMF-18638-786,26-Sep-2021,60004-62976-NI,L-D-0.5,6,Gregorius Kislingbury,gkislingburyaz@samsung.com,United States,Lib,D,0.5 kg,$7.77,$46.62,Librecia,Dark,Yes
+TDJ-20844-787,05-Nov-2020,77876-28498-HI,A-L-0.5,5,Xenos Gibbons,xgibbonsb0@artisteer.com,United States,Ara,L,0.5 kg,$7.77,$38.85,Arabica,Light,No
+BWK-39400-446,12-Sep-2019,61302-06948-EH,L-D-0.5,4,Fleur Parres,fparresb1@imageshack.us,United States,Lib,D,0.5 kg,$7.77,$31.08,Librecia,Dark,Yes
+LCB-02099-995,31-Jul-2019,06757-96251-UH,A-D-0.2,6,Gran Sibray,gsibrayb2@wsj.com,United States,Ara,D,0.2 kg,$2.99,$17.91,Arabica,Dark,Yes
+UBA-43678-174,15-Mar-2019,44530-75983-OD,E-D-2.5,6,Ingelbert Hotchkin,ihotchkinb3@mit.edu,United Kingdom,Exc,D,2.5 kg,$27.95,$167.67,Excerica,Dark,No
+UDH-24280-432,16-May-2021,44865-58249-RY,L-L-1,4,Neely Broadberrie,nbroadberrieb4@gnu.org,United States,Lib,L,1.0 kg,$15.85,$63.40,Librecia,Light,No
+IDQ-20193-502,06-May-2019,36021-61205-DF,L-M-0.2,2,Rutger Pithcock,rpithcockb5@yellowbook.com,United States,Lib,M,0.2 kg,$4.37,$8.73,Librecia,Medium,Yes
+DJG-14442-608,06-Feb-2019,75716-12782-SS,R-D-1,3,Gale Croysdale,gcroysdaleb6@nih.gov,United States,Rob,D,1.0 kg,$8.95,$26.85,Robica,Dark,Yes
+DWB-61381-370,09-Apr-2021,11812-00461-KH,L-L-0.2,2,Benedetto Gozzett,bgozzettb7@github.com,United States,Lib,L,0.2 kg,$4.76,$9.51,Librecia,Light,No
+FRD-17347-990,20-May-2020,46681-78850-ZW,A-D-1,4,Tania Craggs,tcraggsb8@house.gov,Ireland,Ara,D,1.0 kg,$9.95,$39.80,Arabica,Dark,No
+YPP-27450-525,02-Dec-2020,01932-87052-KO,E-M-0.5,3,Leonie Cullrford,lcullrfordb9@xing.com,United States,Exc,M,0.5 kg,$8.25,$24.75,Excerica,Medium,Yes
+EFC-39577-424,08-Aug-2021,16046-34805-ZF,E-M-1,5,Auguste Rizon,arizonba@xing.com,United States,Exc,M,1.0 kg,$13.75,$68.75,Excerica,Medium,Yes
+LAW-80062-016,03-Feb-2022,34546-70516-LR,E-M-0.5,6,Lorin Guerrazzi,,Ireland,Exc,M,0.5 kg,$8.25,$49.50,Excerica,Medium,No
+WKL-27981-758,08-Apr-2022,73699-93557-FZ,A-M-2.5,2,Felice Miell,fmiellbc@spiegel.de,United States,Ara,M,2.5 kg,$25.88,$51.75,Arabica,Medium,Yes
+VRT-39834-265,07-Jan-2021,86686-37462-CK,L-L-1,3,Hamish Skeech,,Ireland,Lib,L,1.0 kg,$15.85,$47.55,Librecia,Light,Yes
+QTC-71005-730,02-Sep-2021,14298-02150-KH,A-L-0.2,4,Giordano Lorenzin,,United States,Ara,L,0.2 kg,$3.89,$15.54,Arabica,Light,No
+TNX-09857-717,04-Nov-2021,48675-07824-HJ,L-M-1,6,Harwilll Bishell,,United States,Lib,M,1.0 kg,$14.55,$87.30,Librecia,Medium,Yes
+JZV-43874-185,02-Aug-2021,18551-80943-YQ,A-M-1,5,Freeland Missenden,,United States,Ara,M,1.0 kg,$11.25,$56.25,Arabica,Medium,Yes
+ICF-17486-106,27-Jan-2020,19196-09748-DB,L-L-2.5,1,Waylan Springall,wspringallbh@jugem.jp,United States,Lib,L,2.5 kg,$36.46,$36.46,Librecia,Light,Yes
+BMK-49520-383,03-Dec-2019,72233-08665-IP,R-L-0.2,3,Kiri Avramow,,United States,Rob,L,0.2 kg,$3.59,$10.76,Robica,Light,Yes
+HTS-15020-632,06-Aug-2019,53817-13148-RK,R-M-0.2,3,Gregg Hawkyens,ghawkyensbj@census.gov,United States,Rob,M,0.2 kg,$2.99,$8.96,Robica,Medium,No
+YLE-18247-749,11-Mar-2020,92227-49331-QR,A-L-0.5,3,Reggis Pracy,,United States,Ara,L,0.5 kg,$7.77,$23.31,Arabica,Light,Yes
+KJJ-12573-591,18-Sep-2021,12997-41076-FQ,A-L-2.5,1,Paula Denis,,United States,Ara,L,2.5 kg,$29.79,$29.79,Arabica,Light,Yes
+RGU-43561-950,07-Nov-2020,44220-00348-MB,A-L-2.5,5,Broderick McGilvra,bmcgilvrabm@so-net.ne.jp,United States,Ara,L,2.5 kg,$29.79,$148.93,Arabica,Light,Yes
+JSN-73975-443,27-Jun-2022,93047-98331-DD,L-M-0.5,1,Annabella Danzey,adanzeybn@github.com,United States,Lib,M,0.5 kg,$8.73,$8.73,Librecia,Medium,Yes
+WNR-71736-993,05-Feb-2020,16880-78077-FB,L-D-0.5,4,Terri Farra,tfarraac@behance.net,United States,Lib,D,0.5 kg,$7.77,$31.08,Librecia,Dark,No
+WNR-71736-993,05-Feb-2020,16880-78077-FB,A-D-2.5,6,Terri Farra,tfarraac@behance.net,United States,Ara,D,2.5 kg,$22.89,$137.31,Arabica,Dark,No
+HNI-91338-546,07-Feb-2020,67285-75317-XI,A-D-0.5,5,Nevins Glowacz,,United States,Ara,D,0.5 kg,$5.97,$29.85,Arabica,Dark,No
+CYH-53243-218,18-Dec-2020,88167-57964-PH,R-M-0.5,3,Adelice Isabell,,United States,Rob,M,0.5 kg,$5.97,$17.91,Robica,Medium,No
+SVD-75407-177,23-Aug-2021,16106-36039-QS,E-L-0.5,3,Yulma Dombrell,ydombrellbs@dedecms.com,United States,Exc,L,0.5 kg,$8.91,$26.73,Excerica,Light,Yes
+NVN-66443-451,20-Aug-2021,98921-82417-GN,R-D-1,2,Alric Darth,adarthbt@t.co,United States,Rob,D,1.0 kg,$8.95,$17.90,Robica,Dark,No
+JUA-13580-095,01-Apr-2019,55265-75151-AK,R-L-0.2,4,Manuel Darrigoe,mdarrigoebu@hud.gov,Ireland,Rob,L,0.2 kg,$3.59,$14.34,Robica,Light,Yes
+ACY-56225-839,28-Jan-2021,47386-50743-FG,A-M-2.5,3,Kynthia Berick,,United States,Ara,M,2.5 kg,$25.88,$77.63,Arabica,Medium,Yes
+QBB-07903-622,21-Oct-2019,32622-54551-UC,R-L-1,5,Minetta Ackrill,mackrillbw@bandcamp.com,United States,Rob,L,1.0 kg,$11.95,$59.75,Robica,Light,No
+JLJ-81802-619,20-Jun-2021,16880-78077-FB,A-L-1,6,Terri Farra,tfarraac@behance.net,United States,Ara,L,1.0 kg,$12.95,$77.70,Arabica,Light,No
+HFT-77191-168,04-Nov-2021,48419-02347-XP,R-D-0.2,2,Melosa Kippen,mkippenby@dion.ne.jp,United States,Rob,D,0.2 kg,$2.69,$5.37,Robica,Dark,Yes
+SZR-35951-530,05-Apr-2021,14121-20527-OJ,E-D-2.5,3,Witty Ranson,wransonbz@ted.com,Ireland,Exc,D,2.5 kg,$27.95,$83.84,Excerica,Dark,Yes
+IKL-95976-565,09-Dec-2019,53486-73919-BQ,A-M-1,2,Rod Gowdie,,United States,Ara,M,1.0 kg,$11.25,$22.50,Arabica,Medium,No
+XEY-48929-474,02-Jan-2022,21889-94615-WT,L-M-2.5,6,Lemuel Rignold,lrignoldc1@miibeian.gov.cn,United States,Lib,M,2.5 kg,$33.47,$200.79,Librecia,Medium,Yes
+SQT-07286-736,08-Dec-2019,87726-16941-QW,A-M-1,6,Nevsa Fields,,United States,Ara,M,1.0 kg,$11.25,$67.50,Arabica,Medium,No
+QDU-45390-361,28-Nov-2021,03677-09134-BC,E-M-0.5,1,Chance Rowthorn,crowthornc3@msn.com,United States,Exc,M,0.5 kg,$8.25,$8.25,Excerica,Medium,No
+RUJ-30649-712,11-Mar-2022,93224-71517-WV,L-L-0.2,2,Orly Ryland,orylandc4@deviantart.com,United States,Lib,L,0.2 kg,$4.76,$9.51,Librecia,Light,Yes
+WSV-49732-075,17-Jan-2021,76263-95145-GJ,L-D-2.5,1,Willabella Abramski,,United States,Lib,D,2.5 kg,$29.79,$29.79,Librecia,Dark,No
+VJF-46305-323,18-Jan-2019,68555-89840-GZ,L-D-0.5,2,Morgen Seson,msesonck@census.gov,United States,Lib,D,0.5 kg,$7.77,$15.54,Librecia,Dark,No
+CXD-74176-600,07-Apr-2019,70624-19112-AO,E-L-0.5,4,Chickie Ragless,craglessc7@webmd.com,Ireland,Exc,L,0.5 kg,$8.91,$35.64,Excerica,Light,No
+ADX-50674-975,03-Feb-2021,58916-61837-QH,A-M-2.5,4,Freda Hollows,fhollowsc8@blogtalkradio.com,United States,Ara,M,2.5 kg,$25.88,$103.50,Arabica,Medium,Yes
+RRP-51647-420,18-Apr-2019,89292-52335-YZ,E-D-1,3,Livy Lathleiff,llathleiffc9@nationalgeographic.com,Ireland,Exc,D,1.0 kg,$12.15,$36.45,Excerica,Dark,Yes
+PKJ-99134-523,07-Jul-2021,77284-34297-YY,R-L-0.5,5,Koralle Heads,kheadsca@jalbum.net,United States,Rob,L,0.5 kg,$7.17,$35.85,Robica,Light,No
+FZQ-29439-457,23-Feb-2021,50449-80974-BZ,E-L-0.2,5,Theo Bowne,tbownecb@unicef.org,Ireland,Exc,L,0.2 kg,$4.46,$22.28,Excerica,Light,Yes
+USN-68115-161,10-Aug-2021,08120-16183-AW,E-M-0.2,6,Rasia Jacquemard,rjacquemardcc@acquirethisname.com,Ireland,Exc,M,0.2 kg,$4.13,$24.75,Excerica,Medium,No
+IXU-20263-532,15-Nov-2019,68044-89277-ML,L-M-2.5,2,Kizzie Warman,kwarmancd@printfriendly.com,Ireland,Lib,M,2.5 kg,$33.47,$66.93,Librecia,Medium,Yes
+CBT-15092-420,17-Dec-2019,71364-35210-HS,L-M-0.5,1,Wain Cholomin,wcholomince@about.com,United Kingdom,Lib,M,0.5 kg,$8.73,$8.73,Librecia,Medium,Yes
+PKQ-46841-696,18-Mar-2020,37177-68797-ON,R-M-0.5,3,Arleen Braidman,abraidmancf@census.gov,United States,Rob,M,0.5 kg,$5.97,$17.91,Robica,Medium,No
+XDU-05471-219,06-Jun-2022,60308-06944-GS,R-L-0.5,1,Pru Durban,pdurbancg@symantec.com,Ireland,Rob,L,0.5 kg,$7.17,$7.17,Robica,Light,No
+NID-20149-329,20-May-2021,49888-39458-PF,R-D-0.2,2,Antone Harrold,aharroldch@miibeian.gov.cn,United States,Rob,D,0.2 kg,$2.69,$5.37,Robica,Dark,No
+SVU-27222-213,11-Jan-2021,60748-46813-DZ,L-L-0.2,5,Sim Pamphilon,spamphilonci@mlb.com,Ireland,Lib,L,0.2 kg,$4.76,$23.78,Librecia,Light,No
+RWI-84131-848,22-Feb-2019,16385-11286-NX,R-D-2.5,2,Mohandis Spurden,mspurdencj@exblog.jp,United States,Rob,D,2.5 kg,$20.59,$41.17,Robica,Dark,Yes
+GUU-40666-525,24-Nov-2021,68555-89840-GZ,A-L-0.2,3,Morgen Seson,msesonck@census.gov,United States,Ara,L,0.2 kg,$3.89,$11.66,Arabica,Light,No
+SCN-51395-066,18-Jan-2022,72164-90254-EJ,L-L-0.5,4,Nalani Pirrone,npirronecl@weibo.com,United States,Lib,L,0.5 kg,$9.51,$38.04,Librecia,Light,No
+ULA-24644-321,13-Aug-2021,67010-92988-CT,R-D-2.5,4,Reube Cawley,rcawleycm@yellowbook.com,Ireland,Rob,D,2.5 kg,$20.59,$82.34,Robica,Dark,Yes
+EOL-92666-762,11-Jan-2020,15776-91507-GT,L-L-0.2,2,Stan Barribal,sbarribalcn@microsoft.com,Ireland,Lib,L,0.2 kg,$4.76,$9.51,Librecia,Light,Yes
+AJV-18231-334,05-Jul-2020,23473-41001-CD,R-D-2.5,2,Agnes Adamides,aadamidesco@bizjournals.com,United Kingdom,Rob,D,2.5 kg,$20.59,$41.17,Robica,Dark,No
+ZQI-47236-301,25-Jul-2019,23446-47798-ID,L-L-0.5,5,Carmelita Thowes,cthowescp@craigslist.org,United States,Lib,L,0.5 kg,$9.51,$47.55,Librecia,Light,No
+ZCR-15721-658,26-May-2022,28327-84469-ND,A-M-1,4,Rodolfo Willoway,rwillowaycq@admin.ch,United States,Ara,M,1.0 kg,$11.25,$45.00,Arabica,Medium,No
+QEW-47945-682,10-Jan-2020,42466-87067-DT,L-L-0.2,5,Alvis Elwin,aelwincr@privacy.gov.au,United States,Lib,L,0.2 kg,$4.76,$23.78,Librecia,Light,No
+PSY-45485-542,17-May-2019,62246-99443-HF,R-D-0.5,3,Araldo Bilbrook,abilbrookcs@booking.com,Ireland,Rob,D,0.5 kg,$5.37,$16.11,Robica,Dark,Yes
+BAQ-74241-156,24-Jul-2020,99869-55718-UU,R-D-0.2,4,Ransell McKall,rmckallct@sakura.ne.jp,United Kingdom,Rob,D,0.2 kg,$2.69,$10.74,Robica,Dark,Yes
+BVU-77367-451,20-Oct-2020,77421-46059-RY,A-D-1,5,Borg Daile,bdailecu@vistaprint.com,United States,Ara,D,1.0 kg,$9.95,$49.75,Arabica,Dark,Yes
+TJE-91516-344,22-Sep-2019,49894-06550-OQ,E-M-1,2,Adolphe Treherne,atrehernecv@state.tx.us,Ireland,Exc,M,1.0 kg,$13.75,$27.50,Excerica,Medium,No
+LIS-96202-702,07-Jun-2020,72028-63343-SU,L-D-2.5,4,Annetta Brentnall,abrentnallcw@biglobe.ne.jp,United Kingdom,Lib,D,2.5 kg,$29.79,$119.14,Librecia,Dark,No
+VIO-27668-766,15-Dec-2019,10074-20104-NN,R-D-2.5,1,Dick Drinkall,ddrinkallcx@psu.edu,United States,Rob,D,2.5 kg,$20.59,$20.59,Robica,Dark,Yes
+ZVG-20473-043,06-Dec-2020,71769-10219-IM,A-D-0.2,3,Dagny Kornel,dkornelcy@cyberchimps.com,United States,Ara,D,0.2 kg,$2.99,$8.96,Arabica,Dark,Yes
+KGZ-56395-231,06-Dec-2021,22221-71106-JD,A-D-0.5,1,Rhona Lequeux,rlequeuxcz@newyorker.com,United States,Ara,D,0.5 kg,$5.97,$5.97,Arabica,Dark,No
+CUU-92244-729,11-Jul-2020,99735-44927-OL,E-M-1,3,Julius Mccaull,jmccaulld0@parallels.com,United States,Exc,M,1.0 kg,$13.75,$41.25,Excerica,Medium,Yes
+EHE-94714-312,28-Jun-2021,27132-68907-RC,E-L-0.2,5,Ailey Brash,abrashda@plala.or.jp,United States,Exc,L,0.2 kg,$4.46,$22.28,Excerica,Light,Yes
+RTL-16205-161,05-Apr-2022,90440-62727-HI,A-M-0.5,1,Alberto Hutchinson,ahutchinsond2@imgur.com,United States,Ara,M,0.5 kg,$6.75,$6.75,Arabica,Medium,Yes
+GTS-22482-014,24-Mar-2022,36769-16558-SX,L-M-2.5,4,Lamond Gheeraert,,United States,Lib,M,2.5 kg,$33.47,$133.86,Librecia,Medium,Yes
+DYG-25473-881,08-Feb-2020,10138-31681-SD,A-D-0.2,2,Roxine Drivers,rdriversd4@hexun.com,United States,Ara,D,0.2 kg,$2.99,$5.97,Arabica,Dark,No
+HTR-21838-286,11-Feb-2022,24669-76297-SF,A-L-1,2,Heloise Zeal,hzeald5@google.de,United States,Ara,L,1.0 kg,$12.95,$25.90,Arabica,Light,No
+KYG-28296-920,02-Jul-2020,78050-20355-DI,E-M-2.5,1,Granger Smallcombe,gsmallcombed6@ucla.edu,Ireland,Exc,M,2.5 kg,$31.63,$31.63,Excerica,Medium,Yes
+NNB-20459-430,25-Jul-2022,79825-17822-UH,L-M-0.2,2,Daryn Dibley,ddibleyd7@feedburner.com,United States,Lib,M,0.2 kg,$4.37,$8.73,Librecia,Medium,No
+FEK-14025-351,19-Mar-2021,03990-21586-MQ,E-L-0.2,6,Gardy Dimitriou,gdimitrioud8@chronoengine.com,United States,Exc,L,0.2 kg,$4.46,$26.73,Excerica,Light,Yes
+AWH-16980-469,11-May-2020,27493-46921-TZ,L-M-0.2,6,Fanny Flanagan,fflanagand9@woothemes.com,United States,Lib,M,0.2 kg,$4.37,$26.19,Librecia,Medium,No
+ZPW-31329-741,08-Jun-2019,27132-68907-RC,R-D-1,6,Ailey Brash,abrashda@plala.or.jp,United States,Rob,D,1.0 kg,$8.95,$53.70,Robica,Dark,Yes
+ZPW-31329-741,08-Jun-2019,27132-68907-RC,E-M-2.5,4,Ailey Brash,abrashda@plala.or.jp,United States,Exc,M,2.5 kg,$31.63,$126.50,Excerica,Medium,Yes
+ZPW-31329-741,08-Jun-2019,27132-68907-RC,E-M-0.2,1,Ailey Brash,abrashda@plala.or.jp,United States,Exc,M,0.2 kg,$4.13,$4.13,Excerica,Medium,Yes
+UBI-83843-396,09-Oct-2019,58816-74064-TF,R-L-1,2,Nanny Izhakov,nizhakovdd@aol.com,United Kingdom,Rob,L,1.0 kg,$11.95,$23.90,Robica,Light,No
+VID-40587-569,20-Feb-2021,09818-59895-EH,E-D-2.5,5,Stanly Keets,skeetsde@answers.com,United States,Exc,D,2.5 kg,$27.95,$139.73,Excerica,Dark,Yes
+KBB-52530-416,21-Nov-2019,06488-46303-IZ,L-D-2.5,2,Orion Dyott,,United States,Lib,D,2.5 kg,$29.79,$59.57,Librecia,Dark,Yes
+ISJ-48676-420,10-Oct-2021,93046-67561-AY,L-L-0.5,6,Keefer Cake,kcakedg@huffingtonpost.com,United States,Lib,L,0.5 kg,$9.51,$57.06,Librecia,Light,No
+MIF-17920-768,05-Aug-2021,68946-40750-LK,R-L-0.2,6,Morna Hansed,mhanseddh@instagram.com,Ireland,Rob,L,0.2 kg,$3.59,$21.51,Robica,Light,Yes
+CPX-19312-088,31-Jul-2020,38387-64959-WW,L-M-0.5,6,Franny Kienlein,fkienleindi@trellian.com,Ireland,Lib,M,0.5 kg,$8.73,$52.38,Librecia,Medium,Yes
+RXI-67978-260,19-Sep-2020,48418-60841-CC,E-D-1,6,Klarika Egglestone,kegglestonedj@sphinn.com,Ireland,Exc,D,1.0 kg,$12.15,$72.90,Excerica,Dark,No
+LKE-14821-285,03-May-2020,13736-92418-JS,R-M-0.2,5,Becky Semkins,bsemkinsdk@unc.edu,Ireland,Rob,M,0.2 kg,$2.99,$14.93,Robica,Medium,Yes
+LRK-97117-150,08-Jul-2019,33000-22405-LO,L-L-1,6,Sean Lorenzetti,slorenzettidl@is.gd,United States,Lib,L,1.0 kg,$15.85,$95.10,Librecia,Light,No
+IGK-51227-573,26-Oct-2019,46959-60474-LT,L-D-0.5,2,Bob Giannazzi,bgiannazzidm@apple.com,United States,Lib,D,0.5 kg,$7.77,$15.54,Librecia,Dark,No
+ZAY-43009-775,27-Sep-2020,73431-39823-UP,L-D-0.2,6,Kendra Backshell,,United States,Lib,D,0.2 kg,$3.89,$23.31,Librecia,Dark,No
+EMA-63190-618,28-Feb-2022,90993-98984-JK,E-M-0.2,1,Uriah Lethbrig,ulethbrigdo@hc360.com,United States,Exc,M,0.2 kg,$4.13,$4.13,Excerica,Medium,Yes
+FBI-35855-418,16-Sep-2020,06552-04430-AG,R-M-0.5,6,Sky Farnish,sfarnishdp@dmoz.org,United Kingdom,Rob,M,0.5 kg,$5.97,$35.82,Robica,Medium,No
+TXB-80533-417,28-Oct-2020,54597-57004-QM,L-L-1,2,Felicia Jecock,fjecockdq@unicef.org,United States,Lib,L,1.0 kg,$15.85,$31.70,Librecia,Light,No
+MBM-00112-248,02-Sep-2019,50238-24377-ZS,L-L-1,5,Currey MacAllister,,United States,Lib,L,1.0 kg,$15.85,$79.25,Librecia,Light,Yes
+EUO-69145-988,30-Aug-2021,60370-41934-IF,E-D-0.2,3,Hamlen Pallister,hpallisterds@ning.com,United States,Exc,D,0.2 kg,$3.65,$10.94,Excerica,Dark,No
+GYA-80327-368,04-Jun-2021,06899-54551-EH,A-D-1,4,Chantal Mersh,cmershdt@drupal.org,Ireland,Ara,D,1.0 kg,$9.95,$39.80,Arabica,Dark,No
+TNW-41601-420,24-Nov-2020,66458-91190-YC,R-M-1,5,Marja Urion,murione5@alexa.com,Ireland,Rob,M,1.0 kg,$9.95,$49.75,Robica,Medium,Yes
+ALR-62963-723,21-Jun-2020,80463-43913-WZ,R-D-0.2,3,Malynda Purbrick,,Ireland,Rob,D,0.2 kg,$2.69,$8.06,Robica,Dark,Yes
+JIG-27636-870,13-Jul-2020,67204-04870-LG,R-L-1,4,Alf Housaman,,United States,Rob,L,1.0 kg,$11.95,$47.80,Robica,Light,No
+CTE-31437-326,02-Jan-2019,22721-63196-UJ,R-M-0.2,4,Gladi Ducker,gduckerdx@patch.com,United Kingdom,Rob,M,0.2 kg,$2.99,$11.94,Robica,Medium,No
+CTE-31437-326,02-Jan-2019,22721-63196-UJ,E-M-0.2,4,Gladi Ducker,gduckerdx@patch.com,United Kingdom,Exc,M,0.2 kg,$4.13,$16.50,Excerica,Medium,No
+CTE-31437-326,02-Jan-2019,22721-63196-UJ,L-D-1,4,Gladi Ducker,gduckerdx@patch.com,United Kingdom,Lib,D,1.0 kg,$12.95,$51.80,Librecia,Dark,No
+CTE-31437-326,02-Jan-2019,22721-63196-UJ,L-L-0.2,3,Gladi Ducker,gduckerdx@patch.com,United Kingdom,Lib,L,0.2 kg,$4.76,$14.27,Librecia,Light,No
+SLD-63003-334,17-Feb-2022,55515-37571-RS,L-M-0.2,6,Wain Stearley,wstearleye1@census.gov,United States,Lib,M,0.2 kg,$4.37,$26.19,Librecia,Medium,No
+BXN-64230-789,19-Dec-2020,25598-77476-CB,A-L-1,2,Diane-marie Wincer,dwincere2@marriott.com,United States,Ara,L,1.0 kg,$12.95,$25.90,Arabica,Light,Yes
+XEE-37895-169,20-Feb-2019,14888-85625-TM,A-L-2.5,3,Perry Lyfield,plyfielde3@baidu.com,United States,Ara,L,2.5 kg,$29.79,$89.36,Arabica,Light,Yes
+ZTX-80764-911,14-Jan-2021,92793-68332-NR,L-D-0.5,6,Heall Perris,hperrise4@studiopress.com,Ireland,Lib,D,0.5 kg,$7.77,$46.62,Librecia,Dark,No
+WVT-88135-549,16-Nov-2019,66458-91190-YC,A-D-1,3,Marja Urion,murione5@alexa.com,Ireland,Ara,D,1.0 kg,$9.95,$29.85,Arabica,Dark,Yes
+IPA-94170-889,04-Dec-2019,64439-27325-LG,R-L-0.2,3,Camellia Kid,ckide6@narod.ru,Ireland,Rob,L,0.2 kg,$3.59,$10.76,Robica,Light,Yes
+YQL-63755-365,31-Jul-2020,78570-76770-LB,A-M-0.2,4,Carolann Beine,cbeinee7@xinhuanet.com,United States,Ara,M,0.2 kg,$3.38,$13.50,Arabica,Medium,Yes
+RKW-81145-984,11-Mar-2019,98661-69719-VI,L-L-1,3,Celia Bakeup,cbakeupe8@globo.com,United States,Lib,L,1.0 kg,$15.85,$47.55,Librecia,Light,No
+MBT-23379-866,10-May-2022,82990-92703-IX,L-L-1,5,Nataniel Helkin,nhelkine9@example.com,United States,Lib,L,1.0 kg,$15.85,$79.25,Librecia,Light,No
+GEJ-39834-935,25-Dec-2021,49412-86877-VY,L-M-0.2,6,Pippo Witherington,pwitheringtonea@networkadvertising.org,United States,Lib,M,0.2 kg,$4.37,$26.19,Librecia,Medium,Yes
+KRW-91640-596,22-Apr-2022,70879-00984-FJ,R-L-0.5,3,Tildie Tilzey,ttilzeyeb@hostgator.com,United States,Rob,L,0.5 kg,$7.17,$21.51,Robica,Light,No
+AOT-70449-651,11-Jun-2022,53414-73391-CR,R-D-2.5,5,Cindra Burling,,United States,Rob,D,2.5 kg,$20.59,$102.93,Robica,Dark,Yes
+DGC-21813-731,27-Apr-2022,43606-83072-OA,L-D-0.2,2,Channa Belamy,,United States,Lib,D,0.2 kg,$3.89,$7.77,Librecia,Dark,No
+JBE-92943-643,29-Dec-2020,84466-22864-CE,E-D-2.5,5,Karl Imorts,kimortsee@alexa.com,United States,Exc,D,2.5 kg,$27.95,$139.73,Excerica,Dark,No
+ZIL-34948-499,14-Jul-2020,66458-91190-YC,A-D-0.5,2,Marja Urion,murione5@alexa.com,Ireland,Ara,D,0.5 kg,$5.97,$11.94,Arabica,Dark,Yes
+JSU-23781-256,07-Sep-2021,76499-89100-JQ,L-D-0.2,1,Mag Armistead,marmisteadeg@blogtalkradio.com,United States,Lib,D,0.2 kg,$3.89,$3.89,Librecia,Dark,No
+JSU-23781-256,07-Sep-2021,76499-89100-JQ,R-M-1,4,Mag Armistead,marmisteadeg@blogtalkradio.com,United States,Rob,M,1.0 kg,$9.95,$39.80,Robica,Medium,No
+VPX-44956-367,09-Jun-2019,39582-35773-ZJ,R-M-0.5,5,Vasili Upstone,vupstoneei@google.pl,United States,Rob,M,0.5 kg,$5.97,$29.85,Robica,Medium,No
+VTB-46451-959,25-Oct-2020,66240-46962-IO,L-D-2.5,1,Berty Beelby,bbeelbyej@rediff.com,Ireland,Lib,D,2.5 kg,$29.79,$29.79,Librecia,Dark,No
+DNZ-11665-950,28-Feb-2021,10637-45522-ID,L-L-2.5,2,Erny Stenyng,,United States,Lib,L,2.5 kg,$36.46,$72.91,Librecia,Light,No
+ITR-54735-364,26-Jul-2020,92599-58687-CS,R-D-0.2,5,Edin Yantsurev,,United States,Rob,D,0.2 kg,$2.69,$13.43,Robica,Dark,Yes
+YDS-02797-307,05-Jun-2022,06058-48844-PI,E-M-2.5,4,Webb Speechly,wspeechlyem@amazon.com,United States,Exc,M,2.5 kg,$31.63,$126.50,Excerica,Medium,Yes
+BPG-68988-842,21-Feb-2019,53631-24432-SY,E-M-0.5,5,Irvine Phillpot,iphillpoten@buzzfeed.com,United Kingdom,Exc,M,0.5 kg,$8.25,$41.25,Excerica,Medium,No
+XZG-51938-658,05-Apr-2020,18275-73980-KL,E-L-0.5,6,Lem Pennacci,lpennaccieo@statcounter.com,United States,Exc,L,0.5 kg,$8.91,$53.46,Excerica,Light,No
+KAR-24978-271,10-Jan-2019,23187-65750-HZ,R-M-1,6,Starr Arpin,sarpinep@moonfruit.com,United States,Rob,M,1.0 kg,$9.95,$59.70,Robica,Medium,No
+FQK-28730-361,12-Apr-2022,22725-79522-GP,R-M-1,6,Donny Fries,dfrieseq@cargocollective.com,United States,Rob,M,1.0 kg,$9.95,$59.70,Robica,Medium,No
+BGB-67996-089,30-Jan-2022,06279-72603-JE,R-D-1,5,Rana Sharer,rsharerer@flavors.me,United States,Rob,D,1.0 kg,$8.95,$44.75,Robica,Dark,No
+XMC-20620-809,14-May-2021,83543-79246-ON,E-M-0.5,2,Nannie Naseby,nnasebyes@umich.edu,United States,Exc,M,0.5 kg,$8.25,$16.50,Excerica,Medium,Yes
+ZSO-58292-191,12-Jun-2022,66794-66795-VW,R-D-0.5,4,Rea Offell,,United States,Rob,D,0.5 kg,$5.37,$21.48,Robica,Dark,No
+LWJ-06793-303,02-Jan-2022,95424-67020-AP,R-M-2.5,2,Kris O'Cullen,koculleneu@ca.gov,Ireland,Rob,M,2.5 kg,$22.89,$45.77,Robica,Medium,Yes
+FLM-82229-989,24-Jan-2022,73017-69644-MS,L-L-0.2,2,Timoteo Glisane,,Ireland,Lib,L,0.2 kg,$4.76,$9.51,Librecia,Light,No
+CPV-90280-133,20-Mar-2019,66458-91190-YC,R-D-0.2,3,Marja Urion,murione5@alexa.com,Ireland,Rob,D,0.2 kg,$2.69,$8.06,Robica,Dark,Yes
+OGW-60685-912,21-Nov-2020,67423-10113-LM,E-D-2.5,4,Hildegarde Brangan,hbranganex@woothemes.com,United States,Exc,D,2.5 kg,$27.95,$111.78,Excerica,Dark,Yes
+DEC-11160-362,13-Oct-2021,48582-05061-RY,R-D-0.2,4,Amii Gallyon,agallyoney@engadget.com,United States,Rob,D,0.2 kg,$2.69,$10.74,Robica,Dark,Yes
+WCT-07869-499,19-Oct-2021,32031-49093-KE,R-D-0.5,5,Birgit Domange,bdomangeez@yahoo.co.jp,United States,Rob,D,0.5 kg,$5.37,$26.85,Robica,Dark,No
+FHD-89872-325,29-Apr-2019,31715-98714-OO,L-L-1,4,Killian Osler,koslerf0@gmpg.org,United States,Lib,L,1.0 kg,$15.85,$63.40,Librecia,Light,Yes
+AZF-45991-584,12-Oct-2019,73759-17258-KA,A-D-2.5,1,Lora Dukes,,Ireland,Ara,D,2.5 kg,$22.89,$22.89,Arabica,Dark,Yes
+MDG-14481-513,19-May-2021,64897-79178-MH,A-M-2.5,4,Zack Pellett,zpellettf2@dailymotion.com,United States,Ara,M,2.5 kg,$25.88,$103.50,Arabica,Medium,No
+OFN-49424-848,03-Jul-2021,73346-85564-JB,R-L-2.5,2,Ilaire Sprakes,isprakesf3@spiegel.de,United States,Rob,L,2.5 kg,$27.49,$54.97,Robica,Light,No
+NFA-03411-746,08-Feb-2020,07476-13102-NJ,A-L-0.5,2,Heda Fromant,hfromantf4@ucsd.edu,United States,Ara,L,0.5 kg,$7.77,$15.54,Arabica,Light,No
+CYM-74988-450,16-Oct-2020,87223-37422-SK,L-D-0.2,4,Rufus Flear,rflearf5@artisteer.com,United Kingdom,Lib,D,0.2 kg,$3.89,$15.54,Librecia,Dark,No
+WTV-24996-658,23-Oct-2020,57837-15577-YK,E-D-2.5,3,Dom Milella,,Ireland,Exc,D,2.5 kg,$27.95,$83.84,Excerica,Dark,No
+DSL-69915-544,10-Mar-2021,10142-55267-YO,R-L-0.2,3,Wilek Lightollers,wlightollersf9@baidu.com,United States,Rob,L,0.2 kg,$3.59,$10.76,Robica,Light,Yes
+NBT-35757-542,07-Jul-2021,73647-66148-VM,E-L-0.2,3,Bette-ann Munden,bmundenf8@elpais.com,United States,Exc,L,0.2 kg,$4.46,$13.37,Excerica,Light,Yes
+OYU-25085-528,05-Feb-2021,10142-55267-YO,E-L-0.2,4,Wilek Lightollers,wlightollersf9@baidu.com,United States,Exc,L,0.2 kg,$4.46,$17.82,Excerica,Light,Yes
+XCG-07109-195,11-Dec-2020,92976-19453-DT,L-D-0.2,6,Nick Brakespear,nbrakespearfa@rediff.com,United States,Lib,D,0.2 kg,$3.89,$23.31,Librecia,Dark,Yes
+YZA-25234-630,13-May-2022,89757-51438-HX,E-D-0.2,2,Malynda Glawsop,mglawsopfb@reverbnation.com,United States,Exc,D,0.2 kg,$3.65,$7.29,Excerica,Dark,No
+OKU-29966-417,23-Oct-2019,76192-13390-HZ,E-L-0.2,4,Granville Alberts,galbertsfc@etsy.com,United Kingdom,Exc,L,0.2 kg,$4.46,$17.82,Excerica,Light,Yes
+MEX-29350-659,11-Sep-2020,02009-87294-SY,E-M-1,5,Vasily Polglase,vpolglasefd@about.me,United States,Exc,M,1.0 kg,$13.75,$68.75,Excerica,Medium,No
+NOY-99738-977,29-Sep-2019,82872-34456-LJ,R-L-2.5,2,Madelaine Sharples,,United Kingdom,Rob,L,2.5 kg,$27.49,$54.97,Robica,Light,Yes
+TCR-01064-030,03-Mar-2021,13181-04387-LI,E-M-1,6,Sigfrid Busch,sbuschff@so-net.ne.jp,Ireland,Exc,M,1.0 kg,$13.75,$82.50,Excerica,Medium,No
+YUL-42750-776,23-Nov-2021,24845-36117-TI,L-M-0.2,2,Cissiee Raisbeck,craisbeckfg@webnode.com,United States,Lib,M,0.2 kg,$4.37,$8.73,Librecia,Medium,Yes
+XQJ-86887-506,06-Nov-2021,66458-91190-YC,E-L-1,4,Marja Urion,murione5@alexa.com,Ireland,Exc,L,1.0 kg,$14.85,$59.40,Excerica,Light,Yes
+CUN-90044-279,29-Jan-2021,86646-65810-TD,L-D-0.2,4,Kenton Wetherick,,United States,Lib,D,0.2 kg,$3.89,$15.54,Librecia,Dark,Yes
+ICC-73030-502,16-Apr-2022,59480-02795-IU,A-L-1,3,Reamonn Aynold,raynoldfj@ustream.tv,United States,Ara,L,1.0 kg,$12.95,$38.85,Arabica,Light,Yes
+ADP-04506-084,24-Jul-2021,61809-87758-LJ,E-M-2.5,6,Hatty Dovydenas,,United States,Exc,M,2.5 kg,$31.63,$189.75,Excerica,Medium,Yes
+PNU-22150-408,11-Aug-2019,77408-43873-RS,A-D-0.2,6,Nathaniel Bloxland,,Ireland,Ara,D,0.2 kg,$2.99,$17.91,Arabica,Dark,Yes
+VSQ-07182-513,23-Jul-2019,18366-65239-WF,L-L-0.2,6,Brendan Grece,bgrecefm@naver.com,United Kingdom,Lib,L,0.2 kg,$4.76,$28.53,Librecia,Light,No
+SPF-31673-217,09-Jun-2020,19485-98072-PS,E-M-1,6,Don Flintiff,dflintiffg1@e-recht24.de,United Kingdom,Exc,M,1.0 kg,$13.75,$82.50,Excerica,Medium,No
+NEX-63825-598,22-Feb-2020,72072-33025-SD,R-L-0.5,2,Abbe Thys,athysfo@cdc.gov,United States,Rob,L,0.5 kg,$7.17,$14.34,Robica,Light,No
+XPG-66112-335,19-Jul-2020,58118-22461-GC,R-D-2.5,4,Jackquelin Chugg,jchuggfp@about.me,United States,Rob,D,2.5 kg,$20.59,$82.34,Robica,Dark,No
+NSQ-72210-345,20-Sep-2021,90940-63327-DJ,A-M-0.2,6,Audra Kelston,akelstonfq@sakura.ne.jp,United States,Ara,M,0.2 kg,$3.38,$20.25,Arabica,Medium,Yes
+XRR-28376-277,02-May-2021,64481-42546-II,R-L-2.5,6,Elvina Angel,,Ireland,Rob,L,2.5 kg,$27.49,$164.91,Robica,Light,No
+WHQ-25197-475,26-Nov-2021,27536-28463-NJ,L-L-0.2,4,Claiborne Mottram,cmottramfs@harvard.edu,United States,Lib,L,0.2 kg,$4.76,$19.02,Librecia,Light,Yes
+HMB-30634-745,18-Feb-2020,19485-98072-PS,A-D-2.5,6,Don Flintiff,dflintiffg1@e-recht24.de,United Kingdom,Ara,D,2.5 kg,$22.89,$137.31,Arabica,Dark,No
+XTL-68000-371,07-Apr-2020,70140-82812-KD,A-M-0.5,4,Donalt Sangwin,dsangwinfu@weebly.com,United States,Ara,M,0.5 kg,$6.75,$27.00,Arabica,Medium,No
+YES-51109-625,31-Jan-2022,91895-55605-LS,E-L-0.5,4,Elizabet Aizikowitz,eaizikowitzfv@virginia.edu,United Kingdom,Exc,L,0.5 kg,$8.91,$35.64,Excerica,Light,No
+EAY-89850-211,19-Feb-2019,43155-71724-XP,A-D-0.2,2,Herbie Peppard,,United States,Ara,D,0.2 kg,$2.99,$5.97,Arabica,Dark,Yes
+IOQ-84840-827,12-Nov-2019,32038-81174-JF,A-M-1,6,Cornie Venour,cvenourfx@ask.com,United States,Ara,M,1.0 kg,$11.25,$67.50,Arabica,Medium,No
+FBD-56220-430,16-May-2022,59205-20324-NB,R-L-0.2,6,Maggy Harby,mharbyfy@163.com,United States,Rob,L,0.2 kg,$3.59,$21.51,Robica,Light,Yes
+COV-52659-202,12-Feb-2021,99899-54612-NX,L-M-2.5,2,Reggie Thickpenny,rthickpennyfz@cafepress.com,United States,Lib,M,2.5 kg,$33.47,$66.93,Librecia,Medium,No
+YUO-76652-814,04-Apr-2021,26248-84194-FI,A-D-0.2,6,Phyllys Ormerod,pormerodg0@redcross.org,United States,Ara,D,0.2 kg,$2.99,$17.91,Arabica,Dark,No
+PBT-36926-102,02-Aug-2021,19485-98072-PS,L-M-1,4,Don Flintiff,dflintiffg1@e-recht24.de,United Kingdom,Lib,M,1.0 kg,$14.55,$58.20,Librecia,Medium,No
+BLV-60087-454,08-Jun-2022,84493-71314-WX,E-L-0.2,3,Tymon Zanetti,tzanettig2@gravatar.com,Ireland,Exc,L,0.2 kg,$4.46,$13.37,Excerica,Light,No
+BLV-60087-454,08-Jun-2022,84493-71314-WX,A-M-0.5,5,Tymon Zanetti,tzanettig2@gravatar.com,Ireland,Ara,M,0.5 kg,$6.75,$33.75,Arabica,Medium,No
+QYC-63914-195,14-May-2020,39789-43945-IV,E-L-1,3,Reinaldos Kirtley,rkirtleyg4@hatena.ne.jp,United States,Exc,L,1.0 kg,$14.85,$44.55,Excerica,Light,Yes
+OIB-77163-890,25-Dec-2020,38972-89678-ZM,E-L-0.5,5,Carney Clemencet,cclemencetg5@weather.com,United Kingdom,Exc,L,0.5 kg,$8.91,$44.55,Excerica,Light,Yes
+SGS-87525-238,05-Jul-2021,91465-84526-IJ,E-D-1,5,Russell Donet,rdonetg6@oakley.com,United States,Exc,D,1.0 kg,$12.15,$60.75,Excerica,Dark,No
+GQR-12490-152,14-Mar-2019,22832-98538-RB,R-L-0.2,1,Sidney Gawen,sgaweng7@creativecommons.org,United States,Rob,L,0.2 kg,$3.59,$3.59,Robica,Light,Yes
+UOJ-28238-299,07-Mar-2021,30844-91890-ZA,R-L-0.2,6,Rickey Readie,rreadieg8@guardian.co.uk,United States,Rob,L,0.2 kg,$3.59,$21.51,Robica,Light,No
+ETD-58130-674,05-Nov-2021,05325-97750-WP,E-M-0.5,2,Cody Verissimo,cverissimogh@theglobeandmail.com,United Kingdom,Exc,M,0.5 kg,$8.25,$16.50,Excerica,Medium,Yes
+UPF-60123-025,06-Feb-2020,88992-49081-AT,R-L-2.5,3,Zilvia Claisse,,United States,Rob,L,2.5 kg,$27.49,$82.46,Robica,Light,No
+NQS-01613-687,12-Mar-2021,10204-31464-SA,L-D-0.5,1,Bar O' Mahony,bogb@elpais.com,United States,Lib,D,0.5 kg,$7.77,$7.77,Librecia,Dark,Yes
+MGH-36050-573,03-Aug-2020,75156-80911-YT,R-M-0.5,2,Valenka Stansbury,vstansburygc@unblog.fr,United States,Rob,M,0.5 kg,$5.97,$11.94,Robica,Medium,Yes
+UVF-59322-459,25-Jul-2019,53971-49906-PZ,E-L-2.5,6,Daniel Heinonen,dheinonengd@printfriendly.com,United States,Exc,L,2.5 kg,$34.16,$204.93,Excerica,Light,No
+VET-41158-896,29-Apr-2020,10728-17633-ST,E-M-2.5,2,Jewelle Shenton,jshentonge@google.com.hk,United States,Exc,M,2.5 kg,$31.63,$63.25,Excerica,Medium,Yes
+XYL-52196-459,02-May-2019,13549-65017-VE,R-D-0.2,3,Jennifer Wilkisson,jwilkissongf@nba.com,United States,Rob,D,0.2 kg,$2.69,$8.06,Robica,Dark,Yes
+BPZ-51283-916,29-Aug-2021,87688-42420-TO,A-M-2.5,2,Kylie Mowat,,United States,Ara,M,2.5 kg,$25.88,$51.75,Arabica,Medium,No
+VQW-91903-926,13-Mar-2020,05325-97750-WP,E-D-2.5,1,Cody Verissimo,cverissimogh@theglobeandmail.com,United Kingdom,Exc,D,2.5 kg,$27.95,$27.95,Excerica,Dark,Yes
+OLF-77983-457,16-Feb-2019,51901-35210-UI,A-L-2.5,2,Gabriel Starcks,gstarcksgi@abc.net.au,United States,Ara,L,2.5 kg,$29.79,$59.57,Arabica,Light,No
+MVI-04946-827,27-Nov-2021,62483-50867-OM,E-L-1,1,Darby Dummer,,United Kingdom,Exc,L,1.0 kg,$14.85,$14.85,Excerica,Light,No
+UOG-94188-104,23-Nov-2021,92753-50029-SD,A-M-0.5,5,Kienan Scholard,kscholardgk@sbwire.com,United States,Ara,M,0.5 kg,$6.75,$33.75,Arabica,Medium,No
+DSN-15872-519,02-Dec-2021,53809-98498-SN,L-L-2.5,4,Bo Kindley,bkindleygl@wikimedia.org,United States,Lib,L,2.5 kg,$36.46,$145.82,Librecia,Light,Yes
+OUQ-73954-002,06-Jan-2019,66308-13503-KD,R-M-0.2,4,Krissie Hammett,khammettgm@dmoz.org,United States,Rob,M,0.2 kg,$2.99,$11.94,Robica,Medium,Yes
+LGL-16843-667,05-May-2021,82458-87830-JE,A-D-0.2,4,Alisha Hulburt,ahulburtgn@fda.gov,United States,Ara,D,0.2 kg,$2.99,$11.94,Arabica,Dark,Yes
+TCC-89722-031,23-Oct-2021,41611-34336-WT,L-D-0.5,1,Peyter Lauritzen,plauritzengo@photobucket.com,United States,Lib,D,0.5 kg,$7.77,$7.77,Librecia,Dark,No
+TRA-79507-007,16-Dec-2019,70089-27418-UJ,R-L-2.5,4,Aurelia Burgwin,aburgwingp@redcross.org,United States,Rob,L,2.5 kg,$27.49,$109.94,Robica,Light,Yes
+MZJ-77284-941,18-May-2019,99978-56910-BN,E-L-0.2,5,Emalee Rolin,erolingq@google.fr,United States,Exc,L,0.2 kg,$4.46,$22.28,Excerica,Light,Yes
+AXN-57779-891,14-Jul-2019,09668-23340-IC,R-M-0.2,3,Donavon Fowle,dfowlegr@epa.gov,United States,Rob,M,0.2 kg,$2.99,$8.96,Robica,Medium,No
+PJB-15659-994,13-Nov-2020,39457-62611-YK,L-D-2.5,4,Jorge Bettison,,Ireland,Lib,D,2.5 kg,$29.79,$119.14,Librecia,Dark,No
+LTS-03470-353,16-Jul-2020,90985-89807-RW,A-L-2.5,5,Wang Powlesland,wpowleslandgt@soundcloud.com,United States,Ara,L,2.5 kg,$29.79,$148.93,Arabica,Light,Yes
+UMM-28497-689,03-Nov-2020,05325-97750-WP,L-L-2.5,3,Cody Verissimo,cverissimogh@theglobeandmail.com,United Kingdom,Lib,L,2.5 kg,$36.46,$109.37,Librecia,Light,Yes
+MJZ-93232-402,20-Mar-2022,17816-67941-ZS,E-D-0.2,1,Laurence Ellingham,lellinghamgv@sciencedaily.com,United States,Exc,D,0.2 kg,$3.65,$3.65,Excerica,Dark,Yes
+UHW-74617-126,16-Feb-2022,90816-65619-LM,E-D-2.5,2,Billy Neiland,,United States,Exc,D,2.5 kg,$27.95,$55.89,Excerica,Dark,No
+RIK-61730-794,12-Nov-2020,69761-61146-KD,L-M-0.2,6,Ancell Fendt,afendtgx@forbes.com,United States,Lib,M,0.2 kg,$4.37,$26.19,Librecia,Medium,Yes
+IDJ-55379-750,05-Oct-2019,24040-20817-QB,R-M-1,4,Angelia Cleyburn,acleyburngy@lycos.com,United States,Rob,M,1.0 kg,$9.95,$39.80,Robica,Medium,No
+OHX-11953-965,01-Oct-2019,19524-21432-XP,E-L-2.5,2,Temple Castiglione,tcastiglionegz@xing.com,United States,Exc,L,2.5 kg,$34.16,$68.31,Excerica,Light,No
+TVV-42245-088,06-Mar-2020,14398-43114-RV,A-M-0.2,4,Betti Lacasa,,Ireland,Ara,M,0.2 kg,$3.38,$13.50,Arabica,Medium,No
+DYP-74337-787,23-Oct-2019,41486-52502-QQ,R-M-0.5,1,Gunilla Lynch,,United States,Rob,M,0.5 kg,$5.97,$5.97,Robica,Medium,No
+OKA-93124-100,23-Apr-2020,05325-97750-WP,R-M-0.5,5,Cody Verissimo,cverissimogh@theglobeandmail.com,United Kingdom,Rob,M,0.5 kg,$5.97,$29.85,Robica,Medium,Yes
+IXW-20780-268,24-Jun-2020,20236-64364-QL,L-L-2.5,2,Shay Couronne,scouronneh3@mozilla.org,United States,Lib,L,2.5 kg,$36.46,$72.91,Librecia,Light,Yes
+NGG-24006-937,16-Mar-2021,29102-40100-TZ,E-M-2.5,4,Linus Flippelli,lflippellih4@github.io,United Kingdom,Exc,M,2.5 kg,$31.63,$126.50,Excerica,Medium,No
+JZC-31180-557,07-Apr-2020,09171-42203-EB,L-M-2.5,1,Rachelle Elizabeth,relizabethh5@live.com,United States,Lib,M,2.5 kg,$33.47,$33.47,Librecia,Medium,No
+ZMU-63715-204,30-Sep-2021,29060-75856-UI,E-D-1,6,Innis Renhard,irenhardh6@i2i.jp,United States,Exc,D,1.0 kg,$12.15,$72.90,Excerica,Dark,Yes
+GND-08192-056,01-May-2022,17088-16989-PL,L-D-0.5,2,Winne Roche,wrocheh7@xinhuanet.com,United States,Lib,D,0.5 kg,$7.77,$15.54,Librecia,Dark,Yes
+RYY-38961-093,21-Jan-2021,14756-18321-CL,A-M-0.2,6,Linn Alaway,lalawayhh@weather.com,United States,Ara,M,0.2 kg,$3.38,$20.25,Arabica,Medium,No
+CVA-64996-969,24-Jun-2020,13324-78688-MI,A-L-1,6,Cordy Odgaard,codgaardh9@nsw.gov.au,United States,Ara,L,1.0 kg,$12.95,$77.70,Arabica,Light,No
+XTH-67276-442,03-Mar-2019,73799-04749-BM,L-M-2.5,4,Bertine Byrd,bbyrdha@4shared.com,United States,Lib,M,2.5 kg,$33.47,$133.86,Librecia,Medium,No
+PVU-02950-470,28-Jan-2021,01927-46702-YT,E-D-1,1,Nelie Garnson,,United Kingdom,Exc,D,1.0 kg,$12.15,$12.15,Excerica,Dark,No
+XSN-26809-910,28-Jun-2020,80467-17137-TO,E-M-2.5,2,Dianne Chardin,dchardinhc@nhs.uk,Ireland,Exc,M,2.5 kg,$31.63,$63.25,Excerica,Medium,Yes
+UDN-88321-005,05-Jul-2020,14640-87215-BK,R-L-0.5,5,Hailee Radbone,hradbonehd@newsvine.com,United States,Rob,L,0.5 kg,$7.17,$35.85,Robica,Light,No
+EXP-21628-670,02-Mar-2019,94447-35885-HK,A-M-2.5,3,Wallis Bernth,wbernthhe@miitbeian.gov.cn,United States,Ara,M,2.5 kg,$25.88,$77.63,Arabica,Medium,No
+VGM-24161-361,01-May-2022,71034-49694-CS,E-M-2.5,2,Byron Acarson,bacarsonhf@cnn.com,United States,Exc,M,2.5 kg,$31.63,$63.25,Excerica,Medium,Yes
+PKN-19556-918,29-Apr-2022,00445-42781-KX,E-L-0.2,6,Faunie Brigham,fbrighamhg@blog.com,Ireland,Exc,L,0.2 kg,$4.46,$26.73,Excerica,Light,Yes
+PKN-19556-918,29-Apr-2022,00445-42781-KX,L-D-0.5,4,Faunie Brigham,fbrighamhg@blog.com,Ireland,Lib,D,0.5 kg,$7.77,$31.08,Librecia,Dark,Yes
+PKN-19556-918,29-Apr-2022,00445-42781-KX,A-D-0.2,1,Faunie Brigham,fbrighamhg@blog.com,Ireland,Ara,D,0.2 kg,$2.99,$2.99,Arabica,Dark,Yes
+PKN-19556-918,29-Apr-2022,00445-42781-KX,R-D-2.5,5,Faunie Brigham,fbrighamhg@blog.com,Ireland,Rob,D,2.5 kg,$20.59,$102.93,Robica,Dark,Yes
+DXQ-44537-297,06-Aug-2020,96116-24737-LV,E-L-0.5,4,Marjorie Yoxen,myoxenhk@google.com,United States,Exc,L,0.5 kg,$8.91,$35.64,Excerica,Light,No
+BPC-54727-307,21-Dec-2019,18684-73088-YL,R-L-1,4,Gaspar McGavin,gmcgavinhl@histats.com,United States,Rob,L,1.0 kg,$11.95,$47.80,Robica,Light,No
+KSH-47717-456,19-Apr-2020,74671-55639-TU,L-M-1,3,Lindy Uttermare,luttermarehm@engadget.com,United States,Lib,M,1.0 kg,$14.55,$43.65,Librecia,Medium,No
+ANK-59436-446,17-Jan-2022,17488-65879-XL,E-L-0.5,4,Eal D'Ambrogio,edambrogiohn@techcrunch.com,United States,Exc,L,0.5 kg,$8.91,$35.64,Excerica,Light,Yes
+AYY-83051-752,22-Jan-2019,46431-09298-OU,L-L-1,6,Carolee Winchcombe,cwinchcombeho@jiathis.com,United States,Lib,L,1.0 kg,$15.85,$95.10,Librecia,Light,Yes
+CSW-59644-267,28-Feb-2020,60378-26473-FE,E-M-2.5,1,Benedikta Paumier,bpaumierhp@umn.edu,Ireland,Exc,M,2.5 kg,$31.63,$31.63,Excerica,Medium,Yes
+ITY-92466-909,07-Aug-2019,34927-68586-ZV,A-M-2.5,3,Neville Piatto,,Ireland,Ara,M,2.5 kg,$25.88,$77.63,Arabica,Medium,Yes
+IGW-04801-466,15-May-2021,29051-27555-GD,L-D-0.2,1,Jeno Capey,jcapeyhr@bravesites.com,United States,Lib,D,0.2 kg,$3.89,$3.89,Librecia,Dark,Yes
+LJN-34281-921,17-Dec-2021,52143-35672-JF,R-L-2.5,5,Tuckie Mathonnet,tmathonneti0@google.co.jp,United States,Rob,L,2.5 kg,$27.49,$137.43,Robica,Light,No
+BWZ-46364-547,09-Sep-2021,64918-67725-MN,R-L-1,3,Yardley Basill,ybasillht@theguardian.com,United States,Rob,L,1.0 kg,$11.95,$35.85,Robica,Light,Yes
+SBC-95710-706,19-Feb-2020,85634-61759-ND,E-M-0.2,2,Maggy Baistow,mbaistowhu@i2i.jp,United Kingdom,Exc,M,0.2 kg,$4.13,$8.25,Excerica,Medium,Yes
+WRN-55114-031,29-Jun-2020,40180-22940-QB,E-L-2.5,3,Courtney Pallant,cpallanthv@typepad.com,United States,Exc,L,2.5 kg,$34.16,$102.47,Excerica,Light,Yes
+TZU-64255-831,13-May-2022,34666-76738-SQ,R-D-2.5,2,Marne Mingey,,United States,Rob,D,2.5 kg,$20.59,$41.17,Robica,Dark,No
+JVF-91003-729,02-Oct-2020,98536-88616-FF,A-D-2.5,3,Denny O' Ronan,dohx@redcross.org,United States,Ara,D,2.5 kg,$22.89,$68.66,Arabica,Dark,Yes
+MVB-22135-665,02-Dec-2021,55621-06130-SA,A-D-1,1,Dottie Rallin,drallinhy@howstuffworks.com,United States,Ara,D,1.0 kg,$9.95,$9.95,Arabica,Dark,Yes
+CKS-47815-571,02-Nov-2021,45666-86771-EH,L-L-0.5,3,Ardith Chill,achillhz@epa.gov,United Kingdom,Lib,L,0.5 kg,$9.51,$28.53,Librecia,Light,Yes
+OAW-17338-101,23-Feb-2020,52143-35672-JF,R-D-0.2,6,Tuckie Mathonnet,tmathonneti0@google.co.jp,United States,Rob,D,0.2 kg,$2.69,$16.11,Robica,Dark,No
+ALP-37623-536,03-Jul-2020,24689-69376-XX,L-L-1,6,Charmane Denys,cdenysi1@is.gd,United Kingdom,Lib,L,1.0 kg,$15.85,$95.10,Librecia,Light,No
+WMU-87639-108,11-Feb-2019,71891-51101-VQ,R-D-0.5,1,Cecily Stebbings,cstebbingsi2@drupal.org,United States,Rob,D,0.5 kg,$5.37,$5.37,Robica,Dark,Yes
+USN-44968-231,10-Sep-2020,71749-05400-CN,R-L-1,4,Giana Tonnesen,,United States,Rob,L,1.0 kg,$11.95,$47.80,Robica,Light,No
+YZG-20575-451,02-Mar-2020,64845-00270-NO,L-L-1,4,Rhetta Zywicki,rzywickii4@ifeng.com,Ireland,Lib,L,1.0 kg,$15.85,$63.40,Librecia,Light,No
+HTH-52867-812,28-Jun-2021,29851-36402-UX,A-M-2.5,4,Almeria Burgett,aburgetti5@moonfruit.com,United States,Ara,M,2.5 kg,$25.88,$103.50,Arabica,Medium,No
+FWU-44971-444,11-Jan-2019,12190-25421-WM,A-D-2.5,3,Marvin Malloy,mmalloyi6@seattletimes.com,United States,Ara,D,2.5 kg,$22.89,$68.66,Arabica,Dark,No
+EQI-82205-066,20-Sep-2019,52316-30571-GD,R-M-2.5,2,Maxim McParland,mmcparlandi7@w3.org,United States,Rob,M,2.5 kg,$22.89,$45.77,Robica,Medium,Yes
+NAR-00747-074,16-Oct-2021,23243-92649-RY,L-D-1,4,Sylas Jennaroy,sjennaroyi8@purevolume.com,United States,Lib,D,1.0 kg,$12.95,$51.80,Librecia,Dark,No
+JYR-22052-185,01-Jan-2020,39528-19971-OR,A-M-0.5,2,Wren Place,wplacei9@wsj.com,United States,Ara,M,0.5 kg,$6.75,$13.50,Arabica,Medium,Yes
+XKO-54097-932,10-Mar-2022,32743-78448-KT,E-M-0.5,3,Janella Millett,jmillettik@addtoany.com,United States,Exc,M,0.5 kg,$8.25,$24.75,Excerica,Medium,Yes
+HXA-72415-025,12-May-2022,93417-12322-YB,A-D-2.5,2,Dollie Gadsden,dgadsdenib@google.com.hk,Ireland,Ara,D,2.5 kg,$22.89,$45.77,Arabica,Dark,Yes
+MJF-20065-335,10-Sep-2020,56891-86662-UY,E-L-0.5,6,Val Wakelin,vwakelinic@unesco.org,United States,Exc,L,0.5 kg,$8.91,$53.46,Excerica,Light,No
+GFI-83300-059,16-Oct-2021,40414-26467-VE,A-M-0.2,6,Annie Campsall,acampsallid@zimbio.com,United States,Ara,M,0.2 kg,$3.38,$20.25,Arabica,Medium,Yes
+WJR-51493-682,17-Jun-2021,87858-83734-RK,L-D-2.5,5,Shermy Moseby,smosebyie@stanford.edu,United States,Lib,D,2.5 kg,$29.79,$148.93,Librecia,Dark,No
+SHP-55648-472,30-Mar-2019,46818-20198-GB,A-M-1,6,Corrie Wass,cwassif@prweb.com,United States,Ara,M,1.0 kg,$11.25,$67.50,Arabica,Medium,No
+HYR-03455-684,19-Dec-2021,29808-89098-XD,E-D-1,6,Ira Sjostrom,isjostromig@pbs.org,United States,Exc,D,1.0 kg,$12.15,$72.90,Excerica,Dark,No
+HYR-03455-684,19-Dec-2021,29808-89098-XD,L-D-0.2,2,Ira Sjostrom,isjostromig@pbs.org,United States,Lib,D,0.2 kg,$3.89,$7.77,Librecia,Dark,No
+HUG-52766-375,05-Jun-2020,78786-77449-RQ,A-D-2.5,4,Jermaine Branchett,jbranchettii@bravesites.com,United States,Ara,D,2.5 kg,$22.89,$91.54,Arabica,Dark,No
+DAH-46595-917,12-Sep-2021,27878-42224-QF,A-D-1,6,Nissie Rudland,nrudlandij@blogs.com,Ireland,Ara,D,1.0 kg,$9.95,$59.70,Arabica,Dark,No
+VEM-79839-466,16-Mar-2022,32743-78448-KT,R-L-2.5,5,Janella Millett,jmillettik@addtoany.com,United States,Rob,L,2.5 kg,$27.49,$137.43,Robica,Light,Yes
+OWH-11126-533,21-Dec-2021,25331-13794-SB,L-M-2.5,2,Ferdie Tourry,ftourryil@google.de,United States,Lib,M,2.5 kg,$33.47,$66.93,Librecia,Medium,No
+UMT-26130-151,21-May-2019,55864-37682-GQ,L-M-0.2,3,Cecil Weatherall,cweatherallim@toplist.cz,United States,Lib,M,0.2 kg,$4.37,$13.10,Librecia,Medium,Yes
+JKA-27899-806,26-Oct-2021,97005-25609-CQ,R-L-1,5,Gale Heindrick,gheindrickin@usda.gov,United States,Rob,L,1.0 kg,$11.95,$59.75,Robica,Light,No
+ULU-07744-724,26-Mar-2020,94058-95794-IJ,L-M-0.5,5,Layne Imason,limasonio@discuz.net,United States,Lib,M,0.5 kg,$8.73,$43.65,Librecia,Medium,Yes
+NOM-56457-507,14-Oct-2020,40214-03678-GU,E-M-1,6,Hazel Saill,hsaillip@odnoklassniki.ru,United States,Exc,M,1.0 kg,$13.75,$82.50,Excerica,Medium,Yes
+NZN-71683-705,13-Dec-2021,04921-85445-SL,A-L-2.5,6,Hermann Larvor,hlarvoriq@last.fm,United States,Ara,L,2.5 kg,$29.79,$178.71,Arabica,Light,Yes
+WMA-34232-850,08-Mar-2021,53386-94266-LJ,L-D-2.5,4,Terri Lyford,,United States,Lib,D,2.5 kg,$29.79,$119.14,Librecia,Dark,Yes
+EZL-27919-704,21-Jan-2021,49480-85909-DG,L-L-0.5,5,Gabey Cogan,,United States,Lib,L,0.5 kg,$9.51,$47.55,Librecia,Light,No
+ZYU-11345-774,10-Jan-2021,18293-78136-MN,L-M-0.5,5,Charin Penwarden,cpenwardenit@mlb.com,Ireland,Lib,M,0.5 kg,$8.73,$43.65,Librecia,Medium,No
+CPW-34587-459,26-Mar-2021,84641-67384-TD,A-L-2.5,6,Milty Middis,mmiddisiu@dmoz.org,United States,Ara,L,2.5 kg,$29.79,$178.71,Arabica,Light,Yes
+NQZ-82067-394,25-Mar-2022,72320-29738-EB,R-L-2.5,1,Adrianne Vairow,avairowiv@studiopress.com,United Kingdom,Rob,L,2.5 kg,$27.49,$27.49,Robica,Light,No
+JBW-95055-851,22-Jul-2021,47355-97488-XS,A-M-1,5,Anjanette Goldie,agoldieiw@goo.gl,United States,Ara,M,1.0 kg,$11.25,$56.25,Arabica,Medium,No
+AHY-20324-088,06-Sep-2020,63499-24884-PP,L-L-0.2,2,Nicky Ayris,nayrisix@t-online.de,United Kingdom,Lib,L,0.2 kg,$4.76,$9.51,Librecia,Light,Yes
+ZSL-66684-103,28-Dec-2019,39193-51770-FM,E-M-0.2,2,Laryssa Benediktovich,lbenediktovichiy@wunderground.com,United States,Exc,M,0.2 kg,$4.13,$8.25,Excerica,Medium,Yes
+WNE-73911-475,20-Apr-2020,61323-91967-GG,L-D-0.5,6,Theo Jacobovitz,tjacobovitziz@cbc.ca,United States,Lib,D,0.5 kg,$7.77,$46.62,Librecia,Dark,No
+EZB-68383-559,21-Feb-2019,90123-01967-KS,R-L-1,6,Becca Ableson,,United States,Rob,L,1.0 kg,$11.95,$71.70,Robica,Light,No
+OVO-01283-090,17-Mar-2022,15958-25089-OS,L-L-2.5,2,Jeno Druitt,jdruittj1@feedburner.com,United States,Lib,L,2.5 kg,$36.46,$72.91,Librecia,Light,Yes
+TXH-78646-919,14-May-2021,98430-37820-UV,R-D-0.2,3,Deonne Shortall,dshortallj2@wikipedia.org,United States,Rob,D,0.2 kg,$2.69,$8.06,Robica,Dark,Yes
+CYZ-37122-164,06-Jan-2019,21798-04171-XC,E-M-0.5,2,Wilton Cottier,wcottierj3@cafepress.com,United States,Exc,M,0.5 kg,$8.25,$16.50,Excerica,Medium,No
+AGQ-06534-750,24-Apr-2019,52798-46508-HP,A-L-1,5,Kevan Grinsted,kgrinstedj4@google.com.br,Ireland,Ara,L,1.0 kg,$12.95,$64.75,Arabica,Light,No
+QVL-32245-818,30-May-2021,46478-42970-EM,A-M-0.5,5,Dionne Skyner,dskynerj5@hubpages.com,United States,Ara,M,0.5 kg,$6.75,$33.75,Arabica,Medium,No
+LTD-96842-834,12-Jul-2022,00246-15080-LE,L-D-2.5,6,Francesco Dressel,,United States,Lib,D,2.5 kg,$29.79,$178.71,Librecia,Dark,No
+SEC-91807-425,31-Jan-2021,94091-86957-HX,A-M-1,2,Jimmy Dymoke,jdymokeje@prnewswire.com,Ireland,Ara,M,1.0 kg,$11.25,$22.50,Arabica,Medium,No
+MHM-44857-599,12-Sep-2019,26295-44907-DK,L-D-1,1,Ambrosio Weinmann,aweinmannj8@shinystat.com,United States,Lib,D,1.0 kg,$12.95,$12.95,Librecia,Dark,No
+KGC-95046-911,30-Jun-2020,95351-96177-QV,A-M-2.5,2,Elden Andriessen,eandriessenj9@europa.eu,United States,Ara,M,2.5 kg,$25.88,$51.75,Arabica,Medium,Yes
+RZC-75150-413,25-Mar-2020,92204-96636-BS,E-D-0.5,5,Roxie Deaconson,rdeaconsonja@archive.org,United States,Exc,D,0.5 kg,$7.29,$36.45,Excerica,Dark,No
+EYH-88288-452,14-Apr-2021,03010-30348-UA,L-L-2.5,5,Davida Caro,dcarojb@twitter.com,United States,Lib,L,2.5 kg,$36.46,$182.28,Librecia,Light,Yes
+NYQ-24237-772,16-Aug-2019,13441-34686-SW,L-D-0.5,4,Johna Bluck,jbluckjc@imageshack.us,United States,Lib,D,0.5 kg,$7.77,$31.08,Librecia,Dark,No
+WKB-21680-566,17-Dec-2021,96612-41722-VJ,A-M-0.5,3,Myrle Dearden,,Ireland,Ara,M,0.5 kg,$6.75,$20.25,Arabica,Medium,No
+THE-61147-027,31-Dec-2019,94091-86957-HX,L-D-1,2,Jimmy Dymoke,jdymokeje@prnewswire.com,Ireland,Lib,D,1.0 kg,$12.95,$25.90,Librecia,Dark,No
+PTY-86420-119,12-Apr-2021,25504-41681-WA,A-D-0.5,4,Orland Tadman,otadmanjf@ft.com,United States,Ara,D,0.5 kg,$5.97,$23.88,Arabica,Dark,Yes
+QHL-27188-431,28-Sep-2019,75443-07820-DZ,L-L-0.5,2,Barrett Gudde,bguddejg@dailymotion.com,United States,Lib,L,0.5 kg,$9.51,$19.02,Librecia,Light,No
+MIS-54381-047,15-Jun-2022,39276-95489-XV,A-D-0.5,5,Nathan Sictornes,nsictornesjh@buzzfeed.com,Ireland,Ara,D,0.5 kg,$5.97,$29.85,Arabica,Dark,Yes
+TBB-29780-459,15-Jul-2019,61437-83623-PZ,A-L-0.5,1,Vivyan Dunning,vdunningji@independent.co.uk,United States,Ara,L,0.5 kg,$7.77,$7.77,Arabica,Light,Yes
+QLC-52637-305,10-Feb-2019,34317-87258-HQ,L-D-2.5,4,Doralin Baison,,Ireland,Lib,D,2.5 kg,$29.79,$119.14,Librecia,Dark,Yes
+CWT-27056-328,04-Jun-2022,18570-80998-ZS,E-D-0.2,6,Josefina Ferens,,United States,Exc,D,0.2 kg,$3.65,$21.87,Excerica,Dark,Yes
+ASS-05878-128,10-Oct-2020,66580-33745-OQ,E-L-0.5,2,Shelley Gehring,sgehringjl@gnu.org,United States,Exc,L,0.5 kg,$8.91,$17.82,Excerica,Light,No
+EGK-03027-418,06-Jun-2021,19820-29285-FD,E-M-0.2,3,Barrie Fallowes,bfallowesjm@purevolume.com,United States,Exc,M,0.2 kg,$4.13,$12.38,Excerica,Medium,No
+KCY-61732-849,16-Mar-2019,11349-55147-SN,L-D-1,2,Nicolas Aiton,,Ireland,Lib,D,1.0 kg,$12.95,$25.90,Librecia,Dark,No
+BLI-21697-702,05-Dec-2019,21141-12455-VB,A-M-0.5,2,Shelli De Banke,sdejo@newsvine.com,United States,Ara,M,0.5 kg,$6.75,$13.50,Arabica,Medium,Yes
+KFJ-46568-890,20-Jan-2019,71003-85639-HB,E-L-0.5,2,Lyell Murch,,United States,Exc,L,0.5 kg,$8.91,$17.82,Excerica,Light,Yes
+SOK-43535-680,04-Apr-2022,58443-95866-YO,E-M-0.5,3,Stearne Count,scountjq@nba.com,United States,Exc,M,0.5 kg,$8.25,$24.75,Excerica,Medium,No
+XUE-87260-201,08-Feb-2022,89646-21249-OH,R-M-0.2,6,Selia Ragles,sraglesjr@blogtalkradio.com,United States,Rob,M,0.2 kg,$2.99,$17.91,Robica,Medium,No
+CZF-40873-691,30-Jun-2019,64988-20636-XQ,E-M-0.5,2,Silas Deehan,,United Kingdom,Exc,M,0.5 kg,$8.25,$16.50,Excerica,Medium,No
+AIA-98989-755,09-May-2020,34704-83143-KS,R-M-0.2,1,Sacha Bruun,sbruunjt@blogtalkradio.com,United States,Rob,M,0.2 kg,$2.99,$2.99,Robica,Medium,No
+ITZ-21793-986,11-Jun-2021,67388-17544-XX,E-D-0.2,4,Alon Pllu,aplluju@dagondesign.com,Ireland,Exc,D,0.2 kg,$3.65,$14.58,Excerica,Dark,Yes
+YOK-93322-608,04-Nov-2021,69411-48470-ID,E-L-1,6,Gilberto Cornier,gcornierjv@techcrunch.com,United States,Exc,L,1.0 kg,$14.85,$89.10,Excerica,Light,No
+LXK-00634-611,20-Feb-2022,94091-86957-HX,R-L-1,3,Jimmy Dymoke,jdymokeje@prnewswire.com,Ireland,Rob,L,1.0 kg,$11.95,$35.85,Robica,Light,No
+CQW-37388-302,03-Jul-2019,97741-98924-KT,A-D-2.5,3,Willabella Harvison,wharvisonjx@gizmodo.com,United States,Ara,D,2.5 kg,$22.89,$68.66,Arabica,Dark,No
+SPA-79365-334,01-Jun-2021,79857-78167-KO,L-D-1,3,Darice Heaford,dheafordjy@twitpic.com,United States,Lib,D,1.0 kg,$12.95,$38.85,Librecia,Dark,No
+VPX-08817-517,15-Nov-2020,46963-10322-ZA,L-L-1,5,Granger Fantham,gfanthamjz@hexun.com,United States,Lib,L,1.0 kg,$15.85,$79.25,Librecia,Light,Yes
+PBP-87115-410,19-Jan-2021,93812-74772-MV,E-D-0.5,5,Reynolds Crookshanks,rcrookshanksk0@unc.edu,United States,Exc,D,0.5 kg,$7.29,$36.45,Excerica,Dark,Yes
+SFB-93752-440,10-Oct-2021,48203-23480-UB,R-M-0.2,3,Niels Leake,nleakek1@cmu.edu,United States,Rob,M,0.2 kg,$2.99,$8.96,Robica,Medium,Yes
+TBU-65158-068,28-Feb-2022,60357-65386-RD,E-D-1,2,Hetti Measures,,United States,Exc,D,1.0 kg,$12.15,$24.30,Excerica,Dark,No
+TEH-08414-216,01-Oct-2021,35099-13971-JI,E-M-2.5,2,Gay Eilhersen,geilhersenk3@networksolutions.com,United States,Exc,M,2.5 kg,$31.63,$63.25,Excerica,Medium,No
+MAY-77231-536,02-Sep-2020,01304-59807-OB,A-M-0.2,2,Nico Hubert,,United States,Ara,M,0.2 kg,$3.38,$6.75,Arabica,Medium,Yes
+ATY-28980-884,31-Jul-2020,50705-17295-NK,A-L-0.2,6,Cristina Aleixo,caleixok5@globo.com,United States,Ara,L,0.2 kg,$3.89,$23.31,Arabica,Light,No
+SWP-88281-918,10-Jan-2022,77657-61366-FY,L-L-2.5,4,Derrek Allpress,,United States,Lib,L,2.5 kg,$36.46,$145.82,Librecia,Light,No
+VCE-56531-986,09-Mar-2021,57192-13428-PL,R-M-0.5,5,Rikki Tomkowicz,rtomkowiczk7@bravesites.com,Ireland,Rob,M,0.5 kg,$5.97,$29.85,Robica,Medium,Yes
+FVV-75700-005,20-Nov-2020,24891-77957-LU,E-D-0.5,3,Rochette Huscroft,rhuscroftk8@jimdo.com,United States,Exc,D,0.5 kg,$7.29,$21.87,Excerica,Dark,Yes
+CFZ-53492-600,14-Mar-2022,64896-18468-BT,L-M-0.2,1,Selle Scurrer,sscurrerk9@flavors.me,United Kingdom,Lib,M,0.2 kg,$4.37,$4.37,Librecia,Medium,No
+LDK-71031-121,10-Jan-2019,84761-40784-SV,L-L-2.5,1,Andie Rudram,arudramka@prnewswire.com,United States,Lib,L,2.5 kg,$36.46,$36.46,Librecia,Light,No
+EBA-82404-343,26-Jan-2021,20236-42322-CM,L-D-0.2,4,Leta Clarricoates,,United States,Lib,D,0.2 kg,$3.89,$15.54,Librecia,Dark,Yes
+USA-42811-560,26-Apr-2021,49671-11547-WG,E-L-0.2,2,Jacquelyn Maha,jmahakc@cyberchimps.com,United States,Exc,L,0.2 kg,$4.46,$8.91,Excerica,Light,No
+SNL-83703-516,04-Jan-2022,57976-33535-WK,L-M-2.5,3,Glory Clemon,gclemonkd@networksolutions.com,United States,Lib,M,2.5 kg,$33.47,$100.40,Librecia,Medium,Yes
+SUZ-83036-175,20-Aug-2019,55915-19477-MK,R-D-0.2,5,Alica Kift,,United States,Rob,D,0.2 kg,$2.69,$13.43,Robica,Dark,No
+RGM-01187-513,15-Jul-2022,28121-11641-UA,E-D-0.2,6,Babb Pollins,bpollinskf@shinystat.com,United States,Exc,D,0.2 kg,$3.65,$21.87,Excerica,Dark,No
+CZG-01299-952,12-Feb-2019,09540-70637-EV,L-D-1,2,Jarret Toye,jtoyekg@pinterest.com,Ireland,Lib,D,1.0 kg,$12.95,$25.90,Librecia,Dark,Yes
+KLD-88731-484,08-Sep-2021,17775-77072-PP,A-M-1,5,Carlie Linskill,clinskillkh@sphinn.com,United States,Ara,M,1.0 kg,$11.25,$56.25,Arabica,Medium,No
+BQK-38412-229,13-Dec-2019,90392-73338-BC,R-L-0.2,3,Natal Vigrass,nvigrasski@ezinearticles.com,United Kingdom,Rob,L,0.2 kg,$3.59,$10.76,Robica,Light,No
+TCX-76953-071,25-Aug-2021,94091-86957-HX,E-D-0.2,5,Jimmy Dymoke,jdymokeje@prnewswire.com,Ireland,Exc,D,0.2 kg,$3.65,$18.23,Excerica,Dark,No
+LIN-88046-551,23-Mar-2022,10725-45724-CO,R-L-0.5,4,Kandace Cragell,kcragellkk@google.com,Ireland,Rob,L,0.5 kg,$7.17,$28.68,Robica,Light,No
+PMV-54491-220,11-Apr-2019,87242-18006-IR,L-M-0.2,2,Lyon Ibert,libertkl@huffingtonpost.com,United States,Lib,M,0.2 kg,$4.37,$8.73,Librecia,Medium,No
+SKA-73676-005,29-Oct-2020,36572-91896-PP,L-M-1,4,Reese Lidgey,rlidgeykm@vimeo.com,United States,Lib,M,1.0 kg,$14.55,$58.20,Librecia,Medium,No
+TKH-62197-239,30-Jul-2020,25181-97933-UX,A-D-0.5,3,Tersina Castagne,tcastagnekn@wikia.com,United States,Ara,D,0.5 kg,$5.97,$17.91,Arabica,Dark,No
+YXF-57218-272,15-Mar-2019,55374-03175-IA,R-M-0.2,6,Samuele Klaaassen,,United States,Rob,M,0.2 kg,$2.99,$17.91,Robica,Medium,Yes
+PKJ-30083-501,27-Dec-2021,76948-43532-JS,E-D-0.5,2,Jordana Halden,jhaldenkp@comcast.net,Ireland,Exc,D,0.5 kg,$7.29,$14.58,Excerica,Dark,No
+WTT-91832-645,03-Oct-2019,24344-88599-PP,A-M-1,3,Hussein Olliff,holliffkq@sciencedirect.com,Ireland,Ara,M,1.0 kg,$11.25,$33.75,Arabica,Medium,No
+TRZ-94735-865,05-Feb-2019,54462-58311-YF,L-M-0.5,4,Teddi Quadri,tquadrikr@opensource.org,Ireland,Lib,M,0.5 kg,$8.73,$34.92,Librecia,Medium,Yes
+UDB-09651-780,31-Aug-2020,90767-92589-LV,E-D-0.5,2,Felita Eshmade,feshmadeks@umn.edu,United States,Exc,D,0.5 kg,$7.29,$14.58,Excerica,Dark,No
+EHJ-82097-549,13-Jan-2021,27517-43747-YD,R-D-0.2,2,Melodie OIlier,moilierkt@paginegialle.it,Ireland,Rob,D,0.2 kg,$2.69,$5.37,Robica,Dark,Yes
+ZFR-79447-696,22-Mar-2021,77828-66867-KH,R-M-0.5,1,Hazel Iacopini,,United States,Rob,M,0.5 kg,$5.97,$5.97,Robica,Medium,Yes
+NUU-03893-975,17-Jan-2020,41054-59693-XE,L-L-0.5,2,Vinny Shoebotham,vshoebothamkv@redcross.org,United States,Lib,L,0.5 kg,$9.51,$19.02,Librecia,Light,No
+GVG-59542-307,02-Jul-2019,26314-66792-VP,E-M-1,2,Bran Sterke,bsterkekw@biblegateway.com,United States,Exc,M,1.0 kg,$13.75,$27.50,Excerica,Medium,Yes
+YLY-35287-172,23-May-2022,69410-04668-MA,A-D-0.5,5,Simone Capon,scaponkx@craigslist.org,United States,Ara,D,0.5 kg,$5.97,$29.85,Arabica,Dark,No
+DCI-96254-548,14-Jun-2022,94091-86957-HX,A-D-0.2,6,Jimmy Dymoke,jdymokeje@prnewswire.com,Ireland,Ara,D,0.2 kg,$2.99,$17.91,Arabica,Dark,No
+KHZ-26264-253,20-Jul-2021,24972-55878-KX,L-L-0.2,6,Foster Constance,fconstancekz@ifeng.com,United States,Lib,L,0.2 kg,$4.76,$28.53,Librecia,Light,No
+AAQ-13644-699,03-Jun-2022,46296-42617-OQ,R-D-1,4,Fernando Sulman,fsulmanl0@washington.edu,United States,Rob,D,1.0 kg,$8.95,$35.80,Robica,Dark,Yes
+LWL-68108-794,26-May-2020,44494-89923-UW,A-D-0.5,3,Dorotea Hollyman,dhollymanl1@ibm.com,United States,Ara,D,0.5 kg,$5.97,$17.91,Arabica,Dark,Yes
+JQT-14347-517,26-Jul-2019,11621-09964-ID,R-D-1,1,Lorelei Nardoni,lnardonil2@hao123.com,United States,Rob,D,1.0 kg,$8.95,$8.95,Robica,Dark,No
+BMM-86471-923,22-Oct-2020,76319-80715-II,L-D-2.5,1,Dallas Yarham,dyarhaml3@moonfruit.com,United States,Lib,D,2.5 kg,$29.79,$29.79,Librecia,Dark,Yes
+IXU-67272-326,24-Dec-2020,91654-79216-IC,E-L-0.5,5,Arlana Ferrea,aferreal4@wikia.com,United States,Exc,L,0.5 kg,$8.91,$44.55,Excerica,Light,No
+ITE-28312-615,06-Sep-2019,56450-21890-HK,E-L-1,6,Chuck Kendrick,ckendrickl5@webnode.com,United States,Exc,L,1.0 kg,$14.85,$89.10,Excerica,Light,Yes
+ZHQ-30471-635,08-Apr-2019,40600-58915-WZ,L-M-0.5,5,Sharona Danilchik,sdanilchikl6@mit.edu,United Kingdom,Lib,M,0.5 kg,$8.73,$43.65,Librecia,Medium,No
+LTP-31133-134,26-Jan-2022,66527-94478-PB,A-L-0.5,3,Sarajane Potter,,United States,Ara,L,0.5 kg,$7.77,$23.31,Arabica,Light,No
+ZVQ-26122-859,28-Nov-2019,77154-45038-IH,A-L-2.5,6,Bobby Folomkin,bfolomkinl8@yolasite.com,United States,Ara,L,2.5 kg,$29.79,$178.71,Arabica,Light,Yes
+MIU-01481-194,21-Jul-2019,08439-55669-AI,R-M-1,6,Rafferty Pursglove,rpursglovel9@biblegateway.com,United States,Rob,M,1.0 kg,$9.95,$59.70,Robica,Medium,Yes
+MIU-01481-194,21-Jul-2019,08439-55669-AI,A-L-0.5,2,Rafferty Pursglove,rpursglovel9@biblegateway.com,United States,Ara,L,0.5 kg,$7.77,$15.54,Arabica,Light,Yes
+UEA-72681-629,12-Mar-2021,24972-55878-KX,A-L-2.5,3,Foster Constance,fconstancekz@ifeng.com,United States,Ara,L,2.5 kg,$29.79,$89.36,Arabica,Light,No
+CVE-15042-481,01-Jan-2022,24972-55878-KX,R-L-1,2,Foster Constance,fconstancekz@ifeng.com,United States,Rob,L,1.0 kg,$11.95,$23.90,Robica,Light,No
+EJA-79176-833,22-Mar-2020,91509-62250-GN,R-M-2.5,6,Dalia Eburah,deburahld@google.co.jp,United Kingdom,Rob,M,2.5 kg,$22.89,$137.31,Robica,Medium,No
+AHQ-40440-522,18-Sep-2020,83833-46106-ZC,A-D-1,1,Martie Brimilcombe,mbrimilcombele@cnn.com,United States,Ara,D,1.0 kg,$9.95,$9.95,Arabica,Dark,No
+TID-21626-411,03-Jan-2019,19383-33606-PW,R-L-0.5,3,Suzanna Bollam,sbollamlf@list-manage.com,United States,Rob,L,0.5 kg,$7.17,$21.51,Robica,Light,No
+RSR-96390-187,29-Sep-2021,67052-76184-CB,E-M-1,6,Mellisa Mebes,,United States,Exc,M,1.0 kg,$13.75,$82.50,Excerica,Medium,No
+BZE-96093-118,19-Oct-2021,43452-18035-DH,L-M-0.2,2,Alva Filipczak,afilipczaklh@ning.com,Ireland,Lib,M,0.2 kg,$4.37,$8.73,Librecia,Medium,No
+LOU-41819-242,14-Jul-2022,88060-50676-MV,R-M-1,2,Dorette Hinemoor,,United States,Rob,M,1.0 kg,$9.95,$19.90,Robica,Medium,Yes
+FND-99527-640,19-Jul-2021,89574-96203-EP,E-L-0.5,2,Rhetta Elnaugh,relnaughlj@comsenz.com,United States,Exc,L,0.5 kg,$8.91,$17.82,Excerica,Light,Yes
+ASG-27179-958,10-Dec-2021,12607-75113-UV,A-M-0.5,3,Jule Deehan,jdeehanlk@about.me,United States,Ara,M,0.5 kg,$6.75,$20.25,Arabica,Medium,No
+YKX-23510-272,17-Mar-2019,56991-05510-PR,A-L-2.5,2,Janella Eden,jedenll@e-recht24.de,United States,Ara,L,2.5 kg,$29.79,$59.57,Arabica,Light,No
+FSA-98650-921,28-Feb-2020,01841-48191-NL,L-L-0.5,2,Cam Jewster,cjewsterlu@moonfruit.com,United States,Lib,L,0.5 kg,$9.51,$19.02,Librecia,Light,Yes
+ZUR-55774-294,03-Jun-2020,33269-10023-CO,L-D-1,6,Ugo Southerden,usoutherdenln@hao123.com,United States,Lib,D,1.0 kg,$12.95,$77.70,Librecia,Dark,Yes
+FUO-99821-974,22-Feb-2020,31245-81098-PJ,E-M-1,3,Verne Dunkerley,,United States,Exc,M,1.0 kg,$13.75,$41.25,Excerica,Medium,No
+YVH-19865-819,09-Nov-2019,08946-56610-IH,L-L-2.5,4,Lacee Burtenshaw,lburtenshawlp@shinystat.com,United States,Lib,L,2.5 kg,$36.46,$145.82,Librecia,Light,No
+NNF-47422-501,07-Mar-2020,20260-32948-EB,E-L-0.2,6,Adorne Gregoratti,agregorattilq@vistaprint.com,Ireland,Exc,L,0.2 kg,$4.46,$26.73,Excerica,Light,No
+RJI-71409-490,26-Apr-2021,31613-41626-KX,L-M-0.5,5,Chris Croster,ccrosterlr@gov.uk,United States,Lib,M,0.5 kg,$8.73,$43.65,Librecia,Medium,Yes
+UZL-46108-213,11-Nov-2021,75961-20170-RD,L-L-1,2,Graeme Whitehead,gwhiteheadls@hp.com,United States,Lib,L,1.0 kg,$15.85,$31.70,Librecia,Light,No
+AOX-44467-109,15-Jun-2021,72524-06410-KD,A-D-2.5,1,Haslett Jodrelle,hjodrellelt@samsung.com,United States,Ara,D,2.5 kg,$22.89,$22.89,Arabica,Dark,No
+TZD-67261-174,27-Feb-2020,01841-48191-NL,E-D-2.5,1,Cam Jewster,cjewsterlu@moonfruit.com,United States,Exc,D,2.5 kg,$27.95,$27.95,Excerica,Dark,Yes
+TBU-64277-625,19-Apr-2021,98918-34330-GY,E-M-1,6,Beryl Osborn,,United States,Exc,M,1.0 kg,$13.75,$82.50,Excerica,Medium,Yes
+TYP-85767-944,29-Jul-2022,51497-50894-WU,R-M-2.5,2,Kaela Nottram,knottramlw@odnoklassniki.ru,Ireland,Rob,M,2.5 kg,$22.89,$45.77,Robica,Medium,Yes
+GTT-73214-334,20-Jan-2019,98636-90072-YE,A-L-1,6,Nobe Buney,nbuneylx@jugem.jp,United States,Ara,L,1.0 kg,$12.95,$77.70,Arabica,Light,No
+WAI-89905-069,21-Feb-2022,47011-57815-HJ,A-L-0.5,3,Silvan McShea,smcshealy@photobucket.com,United States,Ara,L,0.5 kg,$7.77,$23.31,Arabica,Light,No
+OJL-96844-459,03-May-2020,61253-98356-VD,L-L-0.2,5,Karylin Huddart,khuddartlz@about.com,United States,Lib,L,0.2 kg,$4.76,$23.78,Librecia,Light,Yes
+VGI-33205-360,21-Mar-2019,96762-10814-DA,L-M-0.5,6,Jereme Gippes,jgippesm0@cloudflare.com,United Kingdom,Lib,M,0.5 kg,$8.73,$52.38,Librecia,Medium,Yes
+PCA-14081-576,13-Jun-2019,63112-10870-LC,R-L-0.2,5,Lukas Whittlesee,lwhittleseem1@e-recht24.de,United States,Rob,L,0.2 kg,$3.59,$17.93,Robica,Light,No
+SCS-67069-962,05-Jun-2020,21403-49423-PD,A-L-2.5,5,Gregorius Trengrove,gtrengrovem2@elpais.com,United States,Ara,L,2.5 kg,$29.79,$148.93,Arabica,Light,No
+BDM-03174-485,16-Mar-2019,29581-13303-VB,R-L-0.5,4,Wright Caldero,wcalderom3@stumbleupon.com,United States,Rob,L,0.5 kg,$7.17,$28.68,Robica,Light,No
+UJV-32333-364,03-Dec-2021,86110-83695-YS,L-L-0.5,1,Merell Zanazzi,,United States,Lib,L,0.5 kg,$9.51,$9.51,Librecia,Light,No
+FLI-11493-954,09-Jul-2022,80454-42225-FT,A-L-0.5,4,Jed Kennicott,jkennicottm5@yahoo.co.jp,United States,Ara,L,0.5 kg,$7.77,$31.08,Arabica,Light,No
+IWL-13117-537,29-Apr-2020,29129-60664-KO,R-D-0.2,3,Guenevere Ruggen,gruggenm6@nymag.com,United States,Rob,D,0.2 kg,$2.69,$8.06,Robica,Dark,Yes
+OAM-76916-748,27-Jan-2022,63025-62939-AN,E-D-1,3,Gonzales Cicculi,,United States,Exc,D,1.0 kg,$12.15,$36.45,Excerica,Dark,Yes
+UMB-11223-710,13-Feb-2021,49012-12987-QT,R-D-0.2,6,Man Fright,mfrightm8@harvard.edu,Ireland,Rob,D,0.2 kg,$2.69,$16.11,Robica,Dark,No
+LXR-09892-726,13-Jul-2020,50924-94200-SQ,R-D-2.5,2,Boyce Tarte,btartem9@aol.com,United States,Rob,D,2.5 kg,$20.59,$41.17,Robica,Dark,Yes
+QXX-89943-393,12-Mar-2020,15673-18812-IU,R-D-0.2,4,Caddric Krzysztofiak,ckrzysztofiakma@skyrock.com,United States,Rob,D,0.2 kg,$2.69,$10.74,Robica,Dark,No
+WVS-57822-366,04-May-2020,52151-75971-YY,E-M-2.5,4,Darn Penquet,dpenquetmb@diigo.com,United States,Exc,M,2.5 kg,$31.63,$126.50,Excerica,Medium,No
+CLJ-23403-689,03-Apr-2021,19413-02045-CG,R-L-1,2,Jammie Cloke,,United Kingdom,Rob,L,1.0 kg,$11.95,$23.90,Robica,Light,No
+XNU-83276-288,01-Jun-2022,98185-92775-KT,R-M-0.5,1,Chester Clowton,,United States,Rob,M,0.5 kg,$5.97,$5.97,Robica,Medium,No
+YOG-94666-679,14-Feb-2021,86991-53901-AT,L-D-0.2,2,Kathleen Diable,,United Kingdom,Lib,D,0.2 kg,$3.89,$7.77,Librecia,Dark,Yes
+KHG-33953-115,13-Dec-2021,78226-97287-JI,L-D-0.5,3,Koren Ferretti,kferrettimf@huffingtonpost.com,Ireland,Lib,D,0.5 kg,$7.77,$23.31,Librecia,Dark,No
+MHD-95615-696,07-Feb-2020,27930-59250-JT,R-L-2.5,5,Allis Wilmore,,United States,Rob,L,2.5 kg,$27.49,$137.43,Robica,Light,No
+HBH-64794-080,08-Feb-2021,40560-18556-YE,R-D-0.2,3,Chaddie Bennie,,United States,Rob,D,0.2 kg,$2.69,$8.06,Robica,Dark,Yes
+CNJ-56058-223,11-Aug-2020,40780-22081-LX,L-L-0.5,3,Alberta Balsdone,abalsdonemi@toplist.cz,United States,Lib,L,0.5 kg,$9.51,$28.53,Librecia,Light,No
+KHO-27106-786,10-Oct-2020,01603-43789-TN,A-M-1,6,Brice Romera,bromeramj@list-manage.com,Ireland,Ara,M,1.0 kg,$11.25,$67.50,Arabica,Medium,Yes
+KHO-27106-786,10-Oct-2020,01603-43789-TN,L-D-2.5,6,Brice Romera,bromeramj@list-manage.com,Ireland,Lib,D,2.5 kg,$29.79,$178.71,Librecia,Dark,Yes
+YAC-50329-982,08-Dec-2020,75419-92838-TI,E-M-2.5,1,Conchita Bryde,cbrydeml@tuttocitta.it,United States,Exc,M,2.5 kg,$31.63,$31.63,Excerica,Medium,Yes
+VVL-95291-039,18-Apr-2019,96516-97464-MF,E-L-0.2,2,Silvanus Enefer,senefermm@blog.com,United States,Exc,L,0.2 kg,$4.46,$8.91,Excerica,Light,No
+VUT-20974-364,04-Jan-2021,90285-56295-PO,R-M-0.5,6,Lenci Haggerstone,lhaggerstonemn@independent.co.uk,United States,Rob,M,0.5 kg,$5.97,$35.82,Robica,Medium,No
+SFC-34054-213,10-Mar-2019,08100-71102-HQ,L-L-0.5,4,Marvin Gundry,mgundrymo@omniture.com,Ireland,Lib,L,0.5 kg,$9.51,$38.04,Librecia,Light,No
+UDS-04807-593,29-Nov-2019,84074-28110-OV,L-D-0.5,2,Bayard Wellan,bwellanmp@cafepress.com,United States,Lib,D,0.5 kg,$7.77,$15.54,Librecia,Dark,No
+FWE-98471-488,19-Jul-2022,27930-59250-JT,L-L-1,5,Allis Wilmore,,United States,Lib,L,1.0 kg,$15.85,$79.25,Librecia,Light,No
+RAU-17060-674,26-Jun-2020,12747-63766-EU,L-L-0.2,1,Caddric Atcheson,catchesonmr@xinhuanet.com,United States,Lib,L,0.2 kg,$4.76,$4.76,Librecia,Light,Yes
+AOL-13866-711,14-Feb-2019,83490-88357-LJ,E-M-1,4,Eustace Stenton,estentonms@google.it,United States,Exc,M,1.0 kg,$13.75,$55.00,Excerica,Medium,Yes
+NOA-79645-377,09-Nov-2020,53729-30320-XZ,R-D-0.5,5,Ericka Tripp,etrippmt@wp.com,United States,Rob,D,0.5 kg,$5.37,$26.85,Robica,Dark,No
+KMS-49214-806,30-Apr-2019,50384-52703-LA,E-L-2.5,4,Lyndsey MacManus,lmacmanusmu@imdb.com,United States,Exc,L,2.5 kg,$34.16,$136.62,Excerica,Light,No
+ABK-08091-531,30-Oct-2020,53864-36201-FG,L-L-1,3,Tess Benediktovich,tbenediktovichmv@ebay.com,United States,Lib,L,1.0 kg,$15.85,$47.55,Librecia,Light,Yes
+GPT-67705-953,12-Nov-2019,70631-33225-MZ,A-M-0.2,5,Correy Bourner,cbournermw@chronoengine.com,United States,Ara,M,0.2 kg,$3.38,$16.88,Arabica,Medium,Yes
+JNA-21450-177,11-Feb-2022,54798-14109-HC,A-D-1,3,Odelia Skerme,oskermen3@hatena.ne.jp,United States,Ara,D,1.0 kg,$9.95,$29.85,Arabica,Dark,Yes
+MPQ-23421-608,28-Mar-2021,08023-52962-ET,E-M-0.5,5,Kandy Heddan,kheddanmy@icq.com,United States,Exc,M,0.5 kg,$8.25,$41.25,Excerica,Medium,Yes
+NLI-63891-565,10-Dec-2021,41899-00283-VK,E-M-0.2,5,Ibby Charters,ichartersmz@abc.net.au,United States,Exc,M,0.2 kg,$4.13,$20.63,Excerica,Medium,No
+HHF-36647-854,05-Nov-2021,39011-18412-GR,A-D-2.5,6,Adora Roubert,aroubertn0@tmall.com,United States,Ara,D,2.5 kg,$22.89,$137.31,Arabica,Dark,Yes
+SBN-16537-046,29-Feb-2020,60255-12579-PZ,A-D-0.2,1,Hillel Mairs,hmairsn1@so-net.ne.jp,United States,Ara,D,0.2 kg,$2.99,$2.99,Arabica,Dark,No
+XZD-44484-632,06-Aug-2021,80541-38332-BP,E-M-1,2,Helaina Rainforth,hrainforthn2@blog.com,United States,Exc,M,1.0 kg,$13.75,$27.50,Excerica,Medium,No
+XZD-44484-632,06-Aug-2021,80541-38332-BP,A-D-0.2,2,Helaina Rainforth,hrainforthn2@blog.com,United States,Ara,D,0.2 kg,$2.99,$5.97,Arabica,Dark,No
+IKQ-39946-768,19-Mar-2021,72778-50968-UQ,R-M-1,6,Isac Jesper,ijespern4@theglobeandmail.com,United States,Rob,M,1.0 kg,$9.95,$59.70,Robica,Medium,No
+KMB-95211-174,16-Apr-2021,23941-30203-MO,R-D-2.5,4,Lenette Dwerryhouse,ldwerryhousen5@gravatar.com,United States,Rob,D,2.5 kg,$20.59,$82.34,Robica,Dark,Yes
+QWY-99467-368,06-Nov-2020,96434-50068-DZ,A-D-2.5,1,Nadeen Broomer,nbroomern6@examiner.com,United States,Ara,D,2.5 kg,$22.89,$22.89,Arabica,Dark,No
+SRG-76791-614,15-Mar-2021,11729-74102-XB,E-L-0.5,1,Konstantine Thoumasson,kthoumassonn7@bloglovin.com,United States,Exc,L,0.5 kg,$8.91,$8.91,Excerica,Light,Yes
+VSN-94485-621,17-Oct-2021,88116-12604-TE,A-D-0.2,4,Frans Habbergham,fhabberghamn8@discovery.com,United States,Ara,D,0.2 kg,$2.99,$11.94,Arabica,Dark,No
+UFZ-24348-219,07-Sep-2019,27930-59250-JT,L-M-2.5,3,Allis Wilmore,0,United States,Lib,M,2.5 kg,$33.47,$100.40,Librecia,Medium,No
+UKS-93055-397,13-Jul-2022,13082-41034-PD,A-D-2.5,5,Romain Avrashin,ravrashinna@tamu.edu,United States,Ara,D,2.5 kg,$22.89,$114.43,Arabica,Dark,No
+AVH-56062-335,21-Nov-2021,18082-74419-QH,E-M-0.5,5,Miran Doidge,mdoidgenb@etsy.com,United States,Exc,M,0.5 kg,$8.25,$41.25,Excerica,Medium,No
+HGE-19842-613,13-Jan-2022,49401-45041-ZU,R-L-0.5,4,Janeva Edinboro,jedinboronc@reverbnation.com,United States,Rob,L,0.5 kg,$7.17,$28.68,Robica,Light,Yes
+WBA-85905-175,13-Jul-2022,41252-45992-VS,L-M-0.2,1,Trumaine Tewelson,ttewelsonnd@cdbaby.com,United States,Lib,M,0.2 kg,$4.37,$4.37,Librecia,Medium,No
+DZI-35365-596,02-Nov-2021,54798-14109-HC,E-M-0.2,2,Odelia Skerme,oskermen3@hatena.ne.jp,United States,Exc,M,0.2 kg,$4.13,$8.25,Excerica,Medium,Yes
+XIR-88982-743,10-Jul-2021,00852-54571-WP,E-M-0.2,2,De Drewitt,ddrewittnf@mapquest.com,United States,Exc,M,0.2 kg,$4.13,$8.25,Excerica,Medium,Yes
+VUC-72395-865,07-Oct-2021,13321-57602-GK,A-D-0.5,6,Adelheid Gladhill,agladhillng@stanford.edu,United States,Ara,D,0.5 kg,$5.97,$35.82,Arabica,Dark,Yes
+BQJ-44755-910,28-Feb-2020,75006-89922-VW,E-D-2.5,6,Murielle Lorinez,mlorineznh@whitehouse.gov,United States,Exc,D,2.5 kg,$27.95,$167.67,Excerica,Dark,No
+JKC-64636-831,05-Jul-2022,52098-80103-FD,A-M-2.5,2,Edin Mathe,,United States,Ara,M,2.5 kg,$25.88,$51.75,Arabica,Medium,Yes
+ZKI-78561-066,21-Sep-2021,60121-12432-VU,A-D-0.2,3,Mordy Van Der Vlies,mvannj@wikipedia.org,United States,Ara,D,0.2 kg,$2.99,$8.96,Arabica,Dark,Yes
+IMP-12563-728,03-Jan-2019,68346-14810-UA,E-L-0.5,6,Spencer Wastell,,United States,Exc,L,0.5 kg,$8.91,$53.46,Excerica,Light,No
+MZL-81126-390,08-Mar-2022,48464-99723-HK,A-L-0.2,6,Jemimah Ethelston,jethelstonnl@creativecommons.org,United States,Ara,L,0.2 kg,$3.89,$23.31,Arabica,Light,Yes
+MZL-81126-390,08-Mar-2022,48464-99723-HK,A-M-0.2,2,Jemimah Ethelston,jethelstonnl@creativecommons.org,United States,Ara,M,0.2 kg,$3.38,$6.75,Arabica,Medium,Yes
+TVF-57766-608,10-Mar-2020,88420-46464-XE,L-D-0.5,1,Perice Eberz,peberznn@woothemes.com,United States,Lib,D,0.5 kg,$7.77,$7.77,Librecia,Dark,Yes
+RUX-37995-892,27-Nov-2021,37762-09530-MP,L-D-2.5,4,Bear Gaish,bgaishno@altervista.org,United States,Lib,D,2.5 kg,$29.79,$119.14,Librecia,Dark,Yes
+AVK-76526-953,04-Mar-2021,47268-50127-XY,A-D-1,2,Lynnea Danton,ldantonnp@miitbeian.gov.cn,United States,Ara,D,1.0 kg,$9.95,$19.90,Arabica,Dark,No
+RIU-02231-623,16-Nov-2021,25544-84179-QC,R-L-0.5,5,Skipton Morrall,smorrallnq@answers.com,United States,Rob,L,0.5 kg,$7.17,$35.85,Robica,Light,Yes
+WFK-99317-827,16-Jun-2019,32058-76765-ZL,L-D-2.5,3,Devan Crownshaw,dcrownshawnr@photobucket.com,United States,Lib,D,2.5 kg,$29.79,$89.36,Librecia,Dark,No
+SFD-00372-284,19-Jul-2020,54798-14109-HC,L-M-0.2,2,Odelia Skerme,oskermen3@hatena.ne.jp,United States,Lib,M,0.2 kg,$4.37,$8.73,Librecia,Medium,Yes
+SXC-62166-515,28-Feb-2020,69171-65646-UC,R-L-2.5,5,Joceline Reddoch,jreddochnt@sun.com,United States,Rob,L,2.5 kg,$27.49,$137.43,Robica,Light,No
+YIE-87008-621,22-Jun-2019,22503-52799-MI,L-M-0.5,4,Shelley Titley,stitleynu@whitehouse.gov,United States,Lib,M,0.5 kg,$8.73,$34.92,Librecia,Medium,No
+HRM-94548-288,08-Sep-2019,08934-65581-ZI,A-L-2.5,6,Redd Simao,rsimaonv@simplemachines.org,United States,Ara,L,2.5 kg,$29.79,$178.71,Arabica,Light,No
+UJG-34731-295,26-May-2022,15764-22559-ZT,A-M-2.5,1,Cece Inker,,United States,Ara,M,2.5 kg,$25.88,$25.88,Arabica,Medium,No
+TWD-70988-853,03-Dec-2019,87519-68847-ZG,L-D-1,6,Noel Chisholm,nchisholmnx@example.com,United States,Lib,D,1.0 kg,$12.95,$77.70,Librecia,Dark,Yes
+CIX-22904-641,17-Sep-2019,78012-56878-UB,R-M-1,1,Grazia Oats,goatsny@live.com,United States,Rob,M,1.0 kg,$9.95,$9.95,Robica,Medium,Yes
+DLV-65840-759,31-May-2022,77192-72145-RG,L-M-1,2,Meade Birkin,mbirkinnz@java.com,United States,Lib,M,1.0 kg,$14.55,$29.10,Librecia,Medium,Yes
+RXN-55491-201,21-Oct-2019,86071-79238-CX,R-L-0.2,6,Ronda Pyson,rpysono0@constantcontact.com,Ireland,Rob,L,0.2 kg,$3.59,$21.51,Robica,Light,No
+UHK-63283-868,24-Apr-2022,16809-16936-WF,A-M-0.5,1,Modesty MacConnechie,mmacconnechieo9@reuters.com,United States,Ara,M,0.5 kg,$6.75,$6.75,Arabica,Medium,Yes
+PJC-31401-893,13-Jan-2021,11212-69985-ZJ,A-D-0.5,3,Rafaela Treacher,rtreachero2@usa.gov,Ireland,Ara,D,0.5 kg,$5.97,$17.91,Arabica,Dark,No
+HHO-79903-185,19-Aug-2022,53893-01719-CL,A-L-2.5,1,Bee Fattorini,bfattorinio3@quantcast.com,Ireland,Ara,L,2.5 kg,$29.79,$29.79,Arabica,Light,Yes
+YWM-07310-594,02-Mar-2019,66028-99867-WJ,E-M-0.5,5,Margie Palleske,mpalleskeo4@nyu.edu,United States,Exc,M,0.5 kg,$8.25,$41.25,Excerica,Medium,Yes
+FHD-94983-982,21-Jan-2020,62839-56723-CH,R-M-0.5,3,Alexina Randals,,United States,Rob,M,0.5 kg,$5.97,$17.91,Robica,Medium,Yes
+WQK-10857-119,21-Sep-2021,96849-52854-CR,E-D-0.5,1,Filip Antcliffe,fantcliffeo6@amazon.co.jp,Ireland,Exc,D,0.5 kg,$7.29,$7.29,Excerica,Dark,Yes
+DXA-50313-073,30-Aug-2019,19755-55847-VW,E-L-1,2,Peyter Matignon,pmatignono7@harvard.edu,United Kingdom,Exc,L,1.0 kg,$14.85,$29.70,Excerica,Light,Yes
+ONW-00560-570,25-Feb-2019,32900-82606-BO,A-M-1,2,Claudie Weond,cweondo8@theglobeandmail.com,United States,Ara,M,1.0 kg,$11.25,$22.50,Arabica,Medium,No
+BRJ-19414-277,17-Sep-2019,16809-16936-WF,R-M-0.2,4,Modesty MacConnechie,mmacconnechieo9@reuters.com,United States,Rob,M,0.2 kg,$2.99,$11.94,Robica,Medium,Yes
+MIQ-16322-908,03-Aug-2019,20118-28138-QD,A-L-1,2,Jaquenette Skentelbery,jskentelberyoa@paypal.com,United States,Ara,L,1.0 kg,$12.95,$25.90,Arabica,Light,No
+MVO-39328-830,26-Feb-2021,84057-45461-AH,L-M-0.5,5,Orazio Comber,ocomberob@goo.gl,Ireland,Lib,M,0.5 kg,$8.73,$43.65,Librecia,Medium,No
+MVO-39328-830,26-Feb-2021,84057-45461-AH,A-L-0.5,6,Orazio Comber,ocomberob@goo.gl,Ireland,Ara,L,0.5 kg,$7.77,$46.62,Arabica,Light,No
+NTJ-88319-746,03-Aug-2021,90882-88130-KQ,L-L-0.5,3,Zachary Tramel,ztramelod@netlog.com,United States,Lib,L,0.5 kg,$9.51,$28.53,Librecia,Light,No
+LCY-24377-948,07-May-2021,21617-79890-DD,R-L-2.5,1,Izaak Primak,,United States,Rob,L,2.5 kg,$27.49,$27.49,Robica,Light,Yes
+FWD-85967-769,14-Jun-2019,20256-54689-LO,E-D-0.2,3,Brittani Thoresbie,,United States,Exc,D,0.2 kg,$3.65,$10.94,Excerica,Dark,No
+KTO-53793-109,21-Nov-2019,17572-27091-AA,R-L-0.2,2,Constanta Hatfull,chatfullog@ebay.com,United States,Rob,L,0.2 kg,$3.59,$7.17,Robica,Light,No
+OCK-89033-348,31-Mar-2021,82300-88786-UE,A-L-0.2,6,Bobbe Castagneto,,United States,Ara,L,0.2 kg,$3.89,$23.31,Arabica,Light,Yes
+GPZ-36017-366,01-Jul-2019,65732-22589-OW,A-D-2.5,5,Kippie Marrison,kmarrisonoq@dropbox.com,United States,Ara,D,2.5 kg,$22.89,$114.43,Arabica,Dark,Yes
+BZP-33213-637,05-May-2020,77175-09826-SF,A-M-2.5,3,Lindon Agnolo,lagnolooj@pinterest.com,United States,Ara,M,2.5 kg,$25.88,$77.63,Arabica,Medium,Yes
+WFH-21507-708,20-Apr-2020,07237-32539-NB,R-D-0.5,1,Delainey Kiddy,dkiddyok@fda.gov,United States,Rob,D,0.5 kg,$5.37,$5.37,Robica,Dark,Yes
+HST-96923-073,18-Jul-2019,54722-76431-EX,R-D-2.5,6,Helli Petroulis,hpetroulisol@state.tx.us,Ireland,Rob,D,2.5 kg,$20.59,$123.51,Robica,Dark,No
+ENN-79947-323,18-Nov-2021,67847-82662-TE,L-M-0.5,2,Marty Scholl,mschollom@taobao.com,United States,Lib,M,0.5 kg,$8.73,$17.46,Librecia,Medium,No
+BHA-47429-889,20-Jun-2020,51114-51191-EW,E-L-0.2,3,Kienan Ferson,kfersonon@g.co,United States,Exc,L,0.2 kg,$4.46,$13.37,Excerica,Light,No
+SZY-63017-318,06-Apr-2021,91809-58808-TV,A-L-0.2,2,Blake Kelloway,bkellowayoo@omniture.com,United States,Ara,L,0.2 kg,$3.89,$7.77,Arabica,Light,Yes
+LCU-93317-340,17-Jun-2019,84996-26826-DK,R-D-0.2,1,Scarlett Oliffe,soliffeop@yellowbook.com,United States,Rob,D,0.2 kg,$2.69,$2.69,Robica,Dark,Yes
+UOM-71431-481,26-Mar-2022,65732-22589-OW,R-D-2.5,1,Kippie Marrison,kmarrisonoq@dropbox.com,United States,Rob,D,2.5 kg,$20.59,$20.59,Robica,Dark,Yes
+PJH-42618-877,30-Sep-2021,93676-95250-XJ,A-D-2.5,5,Celestia Dolohunty,cdolohuntyor@dailymail.co.uk,United States,Ara,D,2.5 kg,$22.89,$114.43,Arabica,Dark,Yes
+XED-90333-402,19-Jun-2019,28300-14355-GF,E-M-0.2,5,Patsy Vasilenko,pvasilenkoos@addtoany.com,United Kingdom,Exc,M,0.2 kg,$4.13,$20.63,Excerica,Medium,No
+IKK-62234-199,31-Mar-2022,91190-84826-IQ,L-L-0.5,6,Raphaela Schankelborg,rschankelborgot@ameblo.jp,United States,Lib,L,0.5 kg,$9.51,$57.06,Librecia,Light,Yes
+KAW-95195-329,04-Jul-2020,34570-99384-AF,R-D-2.5,4,Sharity Wickens,,Ireland,Rob,D,2.5 kg,$20.59,$82.34,Robica,Dark,Yes
+QDO-57268-842,21-Nov-2021,57808-90533-UE,E-M-2.5,5,Derick Snow,,United States,Exc,M,2.5 kg,$31.63,$158.13,Excerica,Medium,No
+IIZ-24416-212,31-May-2021,76060-30540-LB,R-D-0.5,6,Baxy Cargen,bcargenow@geocities.jp,United States,Rob,D,0.5 kg,$5.37,$32.22,Robica,Dark,Yes
+AWP-11469-510,11-Apr-2020,76730-63769-ND,E-D-1,2,Ryann Stickler,rsticklerox@printfriendly.com,United Kingdom,Exc,D,1.0 kg,$12.15,$24.30,Excerica,Dark,No
+KXA-27983-918,15-Sep-2020,96042-27290-EQ,R-L-0.5,5,Daryn Cassius,,United States,Rob,L,0.5 kg,$7.17,$35.85,Robica,Light,No
+VKQ-39009-292,23-Nov-2021,57808-90533-UE,L-M-1,5,Derick Snow,,United States,Lib,M,1.0 kg,$14.55,$72.75,Librecia,Medium,No
+PDB-98743-282,23-Jan-2022,51940-02669-OR,L-L-1,3,Skelly Dolohunty,,Ireland,Lib,L,1.0 kg,$15.85,$47.55,Librecia,Light,No
+SXW-34014-556,27-Jan-2021,99144-98314-GN,R-L-0.2,1,Drake Jevon,djevonp1@ibm.com,United States,Rob,L,0.2 kg,$3.59,$3.59,Robica,Light,Yes
+QOJ-38788-727,24-Jun-2019,16358-63919-CE,E-M-2.5,5,Hall Ranner,hrannerp2@omniture.com,United States,Exc,M,2.5 kg,$31.63,$158.13,Excerica,Medium,No
+TGF-38649-658,15-Mar-2020,67743-54817-UT,L-M-0.5,2,Berkly Imrie,bimriep3@addtoany.com,United States,Lib,M,0.5 kg,$8.73,$17.46,Librecia,Medium,No
+EAI-25194-209,24-Sep-2021,44601-51441-BH,A-L-2.5,5,Dorey Sopper,dsopperp4@eventbrite.com,United States,Ara,L,2.5 kg,$29.79,$148.93,Arabica,Light,No
+IJK-34441-720,05-Apr-2019,97201-58870-WB,A-M-0.5,6,Darcy Lochran,,United States,Ara,M,0.5 kg,$6.75,$40.50,Arabica,Medium,Yes
+ZMC-00336-619,27-Jan-2022,19849-12926-QF,A-M-0.5,4,Lauritz Ledgley,lledgleyp6@de.vu,United States,Ara,M,0.5 kg,$6.75,$27.00,Arabica,Medium,Yes
+UPX-54529-618,10-Sep-2021,40535-56770-UM,L-D-1,3,Tawnya Menary,tmenaryp7@phoca.cz,United States,Lib,D,1.0 kg,$12.95,$38.85,Librecia,Dark,No
+DLX-01059-899,06-Jan-2020,74940-09646-MU,R-L-1,5,Gustaf Ciccotti,gciccottip8@so-net.ne.jp,United States,Rob,L,1.0 kg,$11.95,$59.75,Robica,Light,No
+MEK-85120-243,15-Mar-2022,06623-54610-HC,R-L-0.2,3,Bobbe Renner,,United States,Rob,L,0.2 kg,$3.59,$10.76,Robica,Light,No
+NFI-37188-246,08-Sep-2021,89490-75361-AF,A-D-2.5,4,Wilton Jallin,wjallinpa@pcworld.com,United States,Ara,D,2.5 kg,$22.89,$91.54,Arabica,Dark,No
+BXH-62195-013,11-Nov-2021,94526-79230-GZ,A-M-1,4,Mindy Bogey,mbogeypb@thetimes.co.uk,United States,Ara,M,1.0 kg,$11.25,$45.00,Arabica,Medium,Yes
+YLK-78851-470,18-Sep-2019,58559-08254-UY,R-M-2.5,6,Paulie Fonzone,,United States,Rob,M,2.5 kg,$22.89,$137.31,Robica,Medium,Yes
+DXY-76225-633,29-Jul-2021,88574-37083-WX,A-M-0.5,1,Merrile Cobbledick,mcobbledickpd@ucsd.edu,United States,Ara,M,0.5 kg,$6.75,$6.75,Arabica,Medium,No
+UHP-24614-199,20-Mar-2022,67953-79896-AC,A-M-1,4,Antonius Lewry,alewrype@whitehouse.gov,United States,Ara,M,1.0 kg,$11.25,$45.00,Arabica,Medium,No
+HBY-35655-049,04-May-2020,69207-93422-CQ,E-D-2.5,3,Isis Hessel,ihesselpf@ox.ac.uk,United States,Exc,D,2.5 kg,$27.95,$83.84,Excerica,Dark,Yes
+DCE-22886-861,05-Apr-2021,56060-17602-RG,E-D-0.2,1,Harland Trematick,,Ireland,Exc,D,0.2 kg,$3.65,$3.65,Excerica,Dark,Yes
+QTG-93823-843,12-Jan-2022,46859-14212-FI,A-M-0.5,1,Chloris Sorrell,csorrellph@amazon.com,United Kingdom,Ara,M,0.5 kg,$6.75,$6.75,Arabica,Medium,No
+QTG-93823-843,12-Jan-2022,46859-14212-FI,E-D-0.5,3,Chloris Sorrell,csorrellph@amazon.com,United Kingdom,Exc,D,0.5 kg,$7.29,$21.87,Excerica,Dark,No
+WFT-16178-396,16-Dec-2020,33555-01585-RP,R-D-0.2,5,Quintina Heavyside,qheavysidepj@unc.edu,United States,Rob,D,0.2 kg,$2.69,$13.43,Robica,Dark,Yes
+ERC-54560-934,30-May-2022,11932-85629-CU,R-D-2.5,6,Hadley Reuven,hreuvenpk@whitehouse.gov,United States,Rob,D,2.5 kg,$20.59,$123.51,Robica,Dark,No
+RUK-78200-416,09-Nov-2021,36192-07175-XC,L-D-0.2,2,Mitch Attwool,mattwoolpl@nba.com,United States,Lib,D,0.2 kg,$3.89,$7.77,Librecia,Dark,No
+KHK-13105-388,08-Apr-2022,46242-54946-ZW,A-M-1,6,Charin Maplethorp,,United States,Ara,M,1.0 kg,$11.25,$67.50,Arabica,Medium,Yes
+NJR-03699-189,08-Oct-2019,95152-82155-VQ,E-D-2.5,1,Goldie Wynes,gwynespn@dagondesign.com,United States,Exc,D,2.5 kg,$27.95,$27.95,Excerica,Dark,No
+PJV-20427-019,12-Sep-2021,13404-39127-WQ,A-L-2.5,3,Celie MacCourt,cmaccourtpo@amazon.com,United States,Ara,L,2.5 kg,$29.79,$89.36,Arabica,Light,No
+UGK-07613-982,28-Jul-2022,57808-90533-UE,A-M-0.5,3,Derick Snow,,United States,Ara,M,0.5 kg,$6.75,$20.25,Arabica,Medium,No
+OLA-68289-577,30-Jun-2020,40226-52317-IO,A-M-0.5,5,Evy Wilsone,ewilsonepq@eepurl.com,United States,Ara,M,0.5 kg,$6.75,$33.75,Arabica,Medium,Yes
+TNR-84447-052,09-Jan-2019,34419-18068-AG,E-D-2.5,4,Dolores Duffie,dduffiepr@time.com,United States,Exc,D,2.5 kg,$27.95,$111.78,Excerica,Dark,No
+FBZ-64200-586,12-Jul-2022,51738-61457-RS,E-M-2.5,2,Mathilda Matiasek,mmatiasekps@ucoz.ru,United States,Exc,M,2.5 kg,$31.63,$63.25,Excerica,Medium,Yes
+OBN-66334-505,30-Nov-2020,86757-52367-ON,E-L-0.2,2,Jarred Camillo,jcamillopt@shinystat.com,United States,Exc,L,0.2 kg,$4.46,$8.91,Excerica,Light,Yes
+NXM-89323-646,22-Mar-2019,28158-93383-CK,E-D-1,1,Kameko Philbrick,kphilbrickpu@cdc.gov,United States,Exc,D,1.0 kg,$12.15,$12.15,Excerica,Dark,Yes
+NHI-23264-055,15-Feb-2022,44799-09711-XW,A-D-0.5,4,Mallory Shrimpling,,United States,Ara,D,0.5 kg,$5.97,$23.88,Arabica,Dark,Yes
+EQH-53569-934,13-Oct-2020,53667-91553-LT,E-M-1,4,Barnett Sillis,bsillispw@istockphoto.com,United States,Exc,M,1.0 kg,$13.75,$55.00,Excerica,Medium,No
+XKK-06692-189,27-Dec-2021,86579-92122-OC,R-D-1,3,Brenn Dundredge,,United States,Rob,D,1.0 kg,$8.95,$26.85,Robica,Dark,Yes
+BYP-16005-016,01-Aug-2021,01474-63436-TP,R-M-2.5,5,Read Cutts,rcuttspy@techcrunch.com,United States,Rob,M,2.5 kg,$22.89,$114.43,Robica,Medium,No
+LWS-13938-905,18-Nov-2020,90533-82440-EE,A-M-2.5,6,Michale Delves,mdelvespz@nature.com,United States,Ara,M,2.5 kg,$25.88,$155.25,Arabica,Medium,Yes
+OLH-95722-362,24-Oct-2021,48553-69225-VX,L-D-0.5,3,Devland Gritton,dgrittonq0@nydailynews.com,United States,Lib,D,0.5 kg,$7.77,$23.31,Librecia,Dark,Yes
+OLH-95722-362,24-Oct-2021,48553-69225-VX,R-M-2.5,4,Devland Gritton,dgrittonq0@nydailynews.com,United States,Rob,M,2.5 kg,$22.89,$91.54,Robica,Medium,Yes
+KCW-50949-318,30-Dec-2019,52374-27313-IV,E-L-1,5,Dell Gut,dgutq2@umich.edu,United States,Exc,L,1.0 kg,$14.85,$74.25,Excerica,Light,Yes
+JGZ-16947-591,02-Feb-2021,14264-41252-SL,L-L-0.2,6,Willy Pummery,wpummeryq3@topsy.com,United States,Lib,L,0.2 kg,$4.76,$28.53,Librecia,Light,No
+LXS-63326-144,16-May-2021,35367-50483-AR,R-L-0.5,2,Geoffrey Siuda,gsiudaq4@nytimes.com,United States,Rob,L,0.5 kg,$7.17,$14.34,Robica,Light,Yes
+CZG-86544-655,23-Apr-2022,69443-77665-QW,A-L-0.5,2,Henderson Crowne,hcrowneq5@wufoo.com,Ireland,Ara,L,0.5 kg,$7.77,$15.54,Arabica,Light,Yes
+WFV-88138-247,25-Sep-2021,63411-51758-QC,R-L-1,3,Vernor Pawsey,vpawseyq6@tiny.cc,United States,Rob,L,1.0 kg,$11.95,$35.85,Robica,Light,No
+RFG-28227-288,07-Jun-2022,68605-21835-UF,A-L-0.5,6,Augustin Waterhouse,awaterhouseq7@istockphoto.com,United States,Ara,L,0.5 kg,$7.77,$46.62,Arabica,Light,No
+QAK-77286-758,11-Aug-2020,34786-30419-XY,R-L-0.5,5,Fanchon Haughian,fhaughianq8@1688.com,United States,Rob,L,0.5 kg,$7.17,$35.85,Robica,Light,No
+CZD-56716-840,28-Feb-2019,15456-29250-RU,L-D-2.5,4,Jaimie Hatz,,United States,Lib,D,2.5 kg,$29.79,$119.14,Librecia,Dark,No
+UBI-59229-277,11-Sep-2019,00886-35803-FG,L-D-0.5,3,Edeline Edney,,United States,Lib,D,0.5 kg,$7.77,$23.31,Librecia,Dark,No
+WJJ-37489-898,08-Apr-2021,31599-82152-AD,A-M-1,1,Rickie Faltin,rfaltinqb@topsy.com,Ireland,Ara,M,1.0 kg,$11.25,$11.25,Arabica,Medium,No
+ORX-57454-917,06-Sep-2021,76209-39601-ZR,E-D-2.5,3,Gnni Cheeke,gcheekeqc@sitemeter.com,United Kingdom,Exc,D,2.5 kg,$27.95,$83.84,Excerica,Dark,Yes
+GRB-68838-629,10-Sep-2021,15064-65241-HB,R-L-2.5,4,Gwenni Ratt,grattqd@phpbb.com,Ireland,Rob,L,2.5 kg,$27.49,$109.94,Robica,Light,No
+SHT-04865-419,22-May-2022,69215-90789-DL,R-L-0.2,4,Johnath Fairebrother,,United States,Rob,L,0.2 kg,$3.59,$14.34,Robica,Light,Yes
+UQI-28177-865,18-Sep-2020,04317-46176-TB,R-L-0.2,6,Ingamar Eberlein,ieberleinqf@hc360.com,United States,Rob,L,0.2 kg,$3.59,$21.51,Robica,Light,No
+OIB-13664-879,31-Aug-2021,04713-57765-KR,A-M-1,2,Jilly Dreng,jdrengqg@uiuc.edu,Ireland,Ara,M,1.0 kg,$11.25,$22.50,Arabica,Medium,Yes
+PJS-30996-485,21-Jan-2022,86579-92122-OC,A-L-0.2,1,Brenn Dundredge,,United States,Ara,L,0.2 kg,$3.89,$3.89,Arabica,Light,Yes
+HEL-86709-449,10-Jun-2022,86579-92122-OC,E-D-2.5,1,Brenn Dundredge,,United States,Exc,D,2.5 kg,$27.95,$27.95,Excerica,Dark,Yes
+NCH-55389-562,27-Apr-2019,86579-92122-OC,E-L-2.5,5,Brenn Dundredge,,United States,Exc,L,2.5 kg,$34.16,$170.78,Excerica,Light,Yes
+NCH-55389-562,27-Apr-2019,86579-92122-OC,R-L-2.5,2,Brenn Dundredge,,United States,Rob,L,2.5 kg,$27.49,$54.97,Robica,Light,Yes
+NCH-55389-562,27-Apr-2019,86579-92122-OC,E-L-1,1,Brenn Dundredge,,United States,Exc,L,1.0 kg,$14.85,$14.85,Excerica,Light,Yes
+NCH-55389-562,27-Apr-2019,86579-92122-OC,A-L-0.2,2,Brenn Dundredge,,United States,Ara,L,0.2 kg,$3.89,$7.77,Arabica,Light,Yes
+GUG-45603-775,06-Feb-2022,40959-32642-DN,L-L-0.2,5,Rhodie Strathern,rstrathernqn@devhub.com,United States,Lib,L,0.2 kg,$4.76,$23.78,Librecia,Light,Yes
+KJB-98240-098,30-Jan-2022,77746-08153-PM,L-L-1,5,Chad Miguel,cmiguelqo@exblog.jp,United States,Lib,L,1.0 kg,$15.85,$79.25,Librecia,Light,Yes
+JMS-48374-462,23-Nov-2020,49667-96708-JL,A-D-2.5,2,Florinda Matusovsky,,United States,Ara,D,2.5 kg,$22.89,$45.77,Arabica,Dark,Yes
+YIT-15877-117,13-Apr-2022,24155-79322-EQ,R-D-1,1,Morly Rocks,mrocksqq@exblog.jp,Ireland,Rob,D,1.0 kg,$8.95,$8.95,Robica,Dark,Yes
+YVK-82679-655,07-Jan-2021,95342-88311-SF,R-M-0.5,4,Yuri Burrells,yburrellsqr@vinaora.com,United States,Rob,M,0.5 kg,$5.97,$23.88,Robica,Medium,Yes
+TYH-81940-054,04-Feb-2020,69374-08133-RI,E-L-0.2,5,Cleopatra Goodrum,cgoodrumqs@goodreads.com,United States,Exc,L,0.2 kg,$4.46,$22.28,Excerica,Light,No
+HTY-30660-254,16-Sep-2019,83844-95908-RX,R-M-1,3,Joey Jefferys,jjefferysqt@blog.com,United States,Rob,M,1.0 kg,$9.95,$29.85,Robica,Medium,Yes
+GPW-43956-761,26-Jan-2019,09667-09231-YM,E-L-0.5,6,Bearnard Wardell,bwardellqu@adobe.com,United States,Exc,L,0.5 kg,$8.91,$53.46,Excerica,Light,Yes
+DWY-56352-412,19-Feb-2021,55427-08059-DF,R-D-0.2,1,Zeke Walisiak,zwalisiakqv@ucsd.edu,Ireland,Rob,D,0.2 kg,$2.69,$2.69,Robica,Dark,Yes
+PUH-55647-976,22-Mar-2022,06624-54037-BQ,R-M-0.2,2,Wiley Leopold,wleopoldqw@blogspot.com,United States,Rob,M,0.2 kg,$2.99,$5.97,Robica,Medium,No
+DTB-71371-705,03-Jul-2019,48544-90737-AZ,L-D-1,1,Chiarra Shalders,cshaldersqx@cisco.com,United States,Lib,D,1.0 kg,$12.95,$12.95,Librecia,Dark,Yes
+ZDC-64769-740,21-Sep-2019,79463-01597-FQ,E-M-0.5,1,Sharl Southerill,,United States,Exc,M,0.5 kg,$8.25,$8.25,Excerica,Medium,No
+TED-81959-419,26-Aug-2019,27702-50024-XC,A-L-2.5,5,Noni Furber,nfurberqz@jugem.jp,United States,Ara,L,2.5 kg,$29.79,$148.93,Arabica,Light,No
+FDO-25756-141,03-Aug-2021,57360-46846-NS,A-L-2.5,3,Dinah Crutcher,,Ireland,Ara,L,2.5 kg,$29.79,$89.36,Arabica,Light,Yes
+HKN-31467-517,24-Oct-2021,84045-66771-SL,L-M-1,6,Charlean Keave,ckeaver1@ucoz.com,United States,Lib,M,1.0 kg,$14.55,$87.30,Librecia,Medium,No
+POF-29666-012,01-Apr-2019,46885-00260-TL,R-D-0.5,1,Sada Roseborough,sroseboroughr2@virginia.edu,United States,Rob,D,0.5 kg,$5.37,$5.37,Robica,Dark,Yes
+IRX-59256-644,08-Dec-2021,96446-62142-EN,A-D-0.2,3,Clayton Kingwell,ckingwellr3@squarespace.com,Ireland,Ara,D,0.2 kg,$2.99,$8.96,Arabica,Dark,Yes
+LTN-89139-350,27-Jun-2019,07756-71018-GU,R-L-2.5,5,Kacy Canto,kcantor4@gmpg.org,United States,Rob,L,2.5 kg,$27.49,$137.43,Robica,Light,Yes
+TXF-79780-017,14-Jul-2020,92048-47813-QB,R-L-1,5,Mab Blakemore,mblakemorer5@nsw.gov.au,United States,Rob,L,1.0 kg,$11.95,$59.75,Robica,Light,No
+ALM-80762-974,23-Mar-2020,84045-66771-SL,A-L-0.5,3,Charlean Keave,ckeaver1@ucoz.com,United States,Ara,L,0.5 kg,$7.77,$23.31,Arabica,Light,No
+NXF-15738-707,26-Jan-2020,28699-16256-XV,R-D-0.5,2,Javier Causnett,,United States,Rob,D,0.5 kg,$5.37,$10.74,Robica,Dark,No
+MVV-19034-198,31-May-2020,98476-63654-CG,E-D-2.5,6,Demetris Micheli,,United States,Exc,D,2.5 kg,$27.95,$167.67,Excerica,Dark,Yes
+KUX-19632-830,20-Jul-2021,55409-07759-YG,E-D-0.2,6,Chloette Bernardot,cbernardotr9@wix.com,United States,Exc,D,0.2 kg,$3.65,$21.87,Excerica,Dark,Yes
+SNZ-44595-152,12-Aug-2022,06136-65250-PG,R-L-1,2,Kim Kemery,kkemeryra@t.co,United States,Rob,L,1.0 kg,$11.95,$23.90,Robica,Light,Yes
+GQA-37241-629,01-Jan-2020,08405-33165-BS,A-M-0.2,2,Fanchette Parlot,fparlotrb@forbes.com,United States,Ara,M,0.2 kg,$3.38,$6.75,Arabica,Medium,Yes
+WVV-79948-067,18-Jan-2021,66070-30559-WI,E-M-2.5,1,Ramon Cheak,rcheakrc@tripadvisor.com,Ireland,Exc,M,2.5 kg,$31.63,$31.63,Excerica,Medium,Yes
+LHX-81117-166,31-Dec-2021,01282-28364-RZ,R-L-1,4,Koressa O'Geneay,kogeneayrd@utexas.edu,United States,Rob,L,1.0 kg,$11.95,$47.80,Robica,Light,No
+GCD-75444-320,04-May-2020,51277-93873-RP,L-M-2.5,1,Claudell Ayre,cayrere@symantec.com,United States,Lib,M,2.5 kg,$33.47,$33.47,Librecia,Medium,No
+SGA-30059-217,20-Feb-2021,84405-83364-DG,A-D-0.5,5,Lorianne Kyneton,lkynetonrf@macromedia.com,United Kingdom,Ara,D,0.5 kg,$5.97,$29.85,Arabica,Dark,Yes
+GNL-98714-885,07-Mar-2020,83731-53280-YC,R-M-1,3,Adele McFayden,,United Kingdom,Rob,M,1.0 kg,$9.95,$29.85,Robica,Medium,Yes
+OQA-93249-841,05-Apr-2019,03917-13632-KC,A-M-2.5,6,Herta Layne,,United States,Ara,M,2.5 kg,$25.88,$155.25,Arabica,Medium,Yes
+DUV-12075-132,06-Jun-2022,62494-09113-RP,E-D-0.2,5,Marguerite Graves,,United States,Exc,D,0.2 kg,$3.65,$18.23,Excerica,Dark,No
+DUV-12075-132,06-Jun-2022,62494-09113-RP,L-D-0.5,2,Marguerite Graves,,United States,Lib,D,0.5 kg,$7.77,$15.54,Librecia,Dark,No
+KPO-24942-184,21-Mar-2021,70567-65133-CN,L-L-2.5,3,Desdemona Eye,,Ireland,Lib,L,2.5 kg,$36.46,$109.37,Librecia,Light,No
+SRJ-79353-838,19-Dec-2021,77869-81373-AY,A-L-1,6,Margarette Sterland,,United States,Ara,L,1.0 kg,$12.95,$77.70,Arabica,Light,No
+XBV-40336-071,17-Feb-2021,38536-98293-JZ,A-D-0.2,3,Catharine Scoines,,Ireland,Ara,D,0.2 kg,$2.99,$8.96,Arabica,Dark,No
+RLM-96511-467,06-Jan-2020,43014-53743-XK,R-L-2.5,1,Jennica Tewelson,jtewelsonrn@samsung.com,United States,Rob,L,2.5 kg,$27.49,$27.49,Robica,Light,No
+AEZ-13242-456,04-May-2022,62494-09113-RP,R-M-0.5,5,Marguerite Graves,,United States,Rob,M,0.5 kg,$5.97,$29.85,Robica,Medium,No
+UME-75640-698,11-Oct-2019,62494-09113-RP,A-M-0.5,4,Marguerite Graves,,United States,Ara,M,0.5 kg,$6.75,$27.00,Arabica,Medium,No
+GJC-66474-557,03-Aug-2021,64965-78386-MY,A-D-1,1,Nicolina Jenny,njennyrq@bigcartel.com,United States,Ara,D,1.0 kg,$9.95,$9.95,Arabica,Dark,No
+IRV-20769-219,15-Oct-2020,77131-58092-GE,E-M-0.2,3,Vidovic Antonelli,,United Kingdom,Exc,M,0.2 kg,$4.13,$12.38,Excerica,Medium,Yes
